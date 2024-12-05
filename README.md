@@ -12,7 +12,7 @@ Here are some examples of my recent work.
 ### Blogs
 [Simon Harrison blog page on ivanti.com](https://www.ivanti.com/blog/author/simon-harrison)
 ### Videos
-[Ivanti Neurons for App Control introduction to trusted ownership](https://www.youtube.com/watch?v=b3mgsq6P1vM)
+[Ivanti Neurons for App Control introduction to trusted ownership](https://www.youtube.com/watch?v=cMWocpzF3Uo)
 
 [Ivanti Neurons Patch for Intune setup](https://www.youtube.com/watch?v=aZipIXrmOxI)
 
