@@ -8,6 +8,8 @@ Here are some examples of my recent work.
 ### Help
 [Ivanti Neurons for Spend Intelligence](https://help.ivanti.com/ht/help/en_US/CLOUD/vNow/default.htm#cshid=spend)
 
+[Ivanti Neurons for Patch Management](https://help.ivanti.com/ht/help/en_US/CLOUD/vNow/default.htm#cshid=patch-mgmt)
+
 [Ivanti Service Desk](https://help.ivanti.com/docs/help/en_US/LDSD/12.0/default.htm)
 ### Blogs
 [Simon Harrison blog page on ivanti.com](https://www.ivanti.com/blog/author/simon-harrison)
