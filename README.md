@@ -3,6 +3,8 @@
 
 I am an experienced technical writer and communicator with the ability to manage multiple projects simultaneously, meeting deadlines while improving quality and maintainability. I have earned a reputation for making the technical communications concerns of the business go away by providing HTML-based help, videos, API documentation, training materials, blogs, marketing copy, and UI text as appropriate. I have a proven track record of providing technical communication that speeds customer on-boarding and return on investment, maximises customer satisfaction, and reduces support calls.
 
+:black_nib: More details are provided in my [complete resume](https://github.com/simonharrison789/simonharrison789/blob/main/resume.md).
+
 ## Portfolio
 Here are some examples of my recent work.
 ### Help
