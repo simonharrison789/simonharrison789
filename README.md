@@ -5,6 +5,8 @@ I am an experienced technical writer and communicator with the ability to manage
 
 :black_nib: More details are provided in my [complete resume](https://github.com/simonharrison789/simonharrison789/blob/main/resume.md).
 
+:clapper: See a list of my [Youtube videos](https://github.com/simonharrison789/simonharrison789/blob/main/videos.md).
+
 ## Portfolio
 Here are some examples of my recent work.
 ### Help
