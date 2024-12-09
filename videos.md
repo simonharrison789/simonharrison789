@@ -4,7 +4,7 @@ Here is a list of the YouTube videos I created while at Ivanti.
 
 ## Ivanti Neurons for Spend Intelligence
 
-Ivanti Neurons for Spend Intelligence is a cloud-native Software Asset Management application, enabling users to manage their software licenses and subscriptions. [Spend Intelligence playlist](https://www.youtube.com/playlist?list=PLg6jGBN6NZrWZ622NGB2EEcLsHr_6ksgP).
+Ivanti Neurons for Spend Intelligence is a cloud-native Software Asset Management product, enabling users to manage their software licenses and subscriptions. [Spend Intelligence playlist](https://www.youtube.com/playlist?list=PLg6jGBN6NZrWZ622NGB2EEcLsHr_6ksgP).
 
 | Title | Description |
 | --- | --- |
@@ -20,7 +20,7 @@ Ivanti Neurons for Spend Intelligence is a cloud-native Software Asset Managemen
 
 ## Ivanti Neurons for Patch Management and Ivanti Neurons Patch for Intune
 
-Ivanti Neurons for Patch Management is a cloud-native endpoint security application, enabling users to manage the patching of their Windows, Mac, and Linux endpoints. Ivanti Neurons Patch for Intune extends Microsoft Intune to enable the patching of third party applications.
+Ivanti Neurons for Patch Management is a cloud-native endpoint security product, enabling users to manage the patching of their Windows, Mac, and Linux endpoints. Ivanti Neurons Patch for Intune extends Microsoft Intune to enable the patching of third party applications.
 
 | Title | Description |
 | --- | --- |
@@ -33,9 +33,18 @@ Ivanti Neurons for Patch Management is a cloud-native endpoint security applicat
 | [Using Intune scopes in Ivanti Neurons Patch for Intune](https://www.youtube.com/watch?v=BLlwSDMCN4E) | Intune scopes enable organizations to separate a single Intune tenant into separate scopes to enable different areas of the organization to manage their own applications independently from each other. This video shows how you can make use of this in Ivanti Neurons Patch for Intune. |
 | [Creating custom apps](https://www.youtube.com/watch?v=6UoUD-cZtqg) | Learn how to easily add custom third-party applications to Intune, and configure their deployment, all in a single UI using Ivanti Neurons Patch for Intune. |
 
+## Ivanti Neurons for App Control
+
+Ivanti Neurons for App Control is a cloud-native application control product, enabling users to manage the manage the use of applications on endpoints.
+
+| Title | Description |
+| --- | --- |
+| [Ivanti Neurons for App Control overview and introduction to trusted ownership](https://www.youtube.com/watch?v=cMWocpzF3Uo) | We look at how Ivanti Neurons for App Control uses the concept of trusted ownership to help you to prevent the spread of malware and the running of unauthorized applications, and so reduce the need for administrative rights without adding the complication of maintaining complex allow lists and deny lists. |
+| [Removing elevated group memberships](https://www.youtube.com/watch?v=b3mgsq6P1vM) | We learn how to provide users with only the elevated rights they require, so that you can remove elevated group memberships to better secure your IT infrastructure. |
+
 ## Service Desk
 
-Service Desk is an on-premise IT Service Management application that is now in maintenance-only.
+Service Desk is an on-premise IT Service Management product that is now in maintenance-only.
 
 | Title | Description |
 | --- | --- |
