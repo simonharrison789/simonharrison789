@@ -9,8 +9,10 @@ I am a Fellow of the Institute of Technical Communicators (FISTC) and have worke
 
 :clapper: See a list of my [YouTube videos](https://github.com/simonharrison789/simonharrison789/blob/main/videos.md).
 
+:orange_book: Read my views on [how to do proper tech comms](https://github.com/simonharrison789/simonharrison789/blob/main/how-to-do-proper-tech-comms.md).
+
 ## Portfolio
-Here are some examples of my recent work.
+Below are some examples of my recent work, including formal HTML5-based help, less formal blogs, and YouTube videos.
 ### Help
 [Ivanti Neurons for Spend Intelligence](https://help.ivanti.com/ht/help/en_US/CLOUD/vNow/default.htm#cshid=spend)
 
