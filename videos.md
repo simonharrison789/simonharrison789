@@ -18,6 +18,21 @@ Ivanti Neurons for Spend Intelligence is a cloud-native Software Asset Managemen
 | [Determining if you have enough licenses for your estate](https://www.youtube.com/watch?v=uuUHizdbemg ) | License alignment in Ivanti Neurons for Spend Intelligence helps you to understand what your best – or latest – license entitlements are: how many licenses can I claim for the latest version of a software title? Then, when you have this number, you can compare this with the software you actually have installed and see how best to allocate these licenses. |
 | [SaaS Management Introduction](https://www.youtube.com/watch?v=WnnCxiEHwYs) | Learn how to use the SaaS Management component of Ivanti Neurons for Spend Intelligence to help you to manage your spend on Software as a Service subscriptions. |
 
+## Ivanti Neurons for Patch Management and Ivanti Neurons Patch for Intune
+
+Ivanti Neurons for Patch Management is a cloud-native endpoint security application, enabling users to manage the patching of their Windows, Mac, and Linux endpoints. Ivanti Neurons Patch for Intune extends Microsoft Intune to enable the patching of third party applications.
+
+| Title | Description |
+| --- | --- |
+| [Ivanti Neurons for Patch Management - configuring risk-based patching](https://www.youtube.com/watch?v=nsnuXhs6SOo) | Ivanti Neurons for Patch Management enables you to configure risk-based patching. Learn how you can schedule the deployment of patches depending on their risk.|
+| [Ivanti Neurons Patch for Intune overview](https://www.youtube.com/watch?v=FFjTNiuiF5k) | Ivanti Neurons Patch for Intune extends Microsoft Intune to include risk-based patch publishing of third-party applications. This video gives a brief explanation of what this means and how it helps you to remediate third-party software vulnerabilities. |
+| [Patch to Zero - linux contentless patching](https://www.youtube.com/watch?v=lqUOJ4i4Xyk) | The mechanism for patching Linux machines is different from that for Windows and macOS machines. This video explains the differences. This video applies to Ivanti Neurons for Patch Management, and the contentless Linux patching (Patch to Zero) in Ivanti Security Controls and Ivanti Endpoint Manager. |
+| [Ivanti Neurons Patch for Intune Setup](https://www.youtube.com/watch?v=aZipIXrmOxI) | We look at how Ivanti Neurons Patch for Intune works and what the steps are in setting it up. Ivanti Neurons Patch for Intune extends Intune to include risk-based third-party patch publishing, and provides a single interface to manage your patching. You can deploy third party updates alongside Microsoft OS and application updates within Intune as part of your existing application lifecycle management workflows. |
+| [Publishing options in Patch for Intune](https://www.youtube.com/watch?v=9BBEVBVGwls) | Ivanti Neurons Patch for Intune gives a wide range of control over how products are deployed and patched in your environment. This video shows how you can have more control than just "available" or "required". |
+| [Deleting products from Intune supersedence chains](https://www.youtube.com/watch?v=N-fVd92teSw ) | Deleting selected product versions from Intune can be complicated when they are in the middle of a supersedence chain. In this video, we see how Ivanti Neurons Patch for Intune makes this much easier.|
+| [Using Intune scopes in Ivanti Neurons Patch for Intune](https://www.youtube.com/watch?v=BLlwSDMCN4E) | Intune scopes enable organizations to separate a single Intune tenant into separate scopes to enable different areas of the organization to manage their own applications independently from each other. This video shows how you can make use of this in Ivanti Neurons Patch for Intune. |
+| [Creating custom apps](https://www.youtube.com/watch?v=6UoUD-cZtqg) | Learn how to easily add custom third-party applications to Intune, and configure their deployment, all in a single UI using Ivanti Neurons Patch for Intune. |
+
 ## Service Desk
 
 Service Desk is an on-premise IT Service Management application that is now in maintenance-only.
