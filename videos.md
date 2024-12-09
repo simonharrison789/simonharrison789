@@ -55,3 +55,10 @@ Service Desk is an on-premise IT Service Management product that is now in maint
 | [Test to Live introduction](https://www.youtube.com/watch?v=IcVa79BBkIk) | Migrating your test designs to live for Service Desk and Asset Manager 2017.1 using the Test to Live application. |
 | [Test to Live Migration Strategies](https://www.youtube.com/watch?v=2hw5ez7TvG0) | Strategies for migrating your test designs to live for Service Desk and Asset Manager 2017.1 using the Test to Live application. |
  
+## Ivanti Device and Application Control
+
+Ivanti Device and Application Control is an on-premise endpoint control product that is now in maintenance-only.
+
+| Title | Description |
+| --- | --- |
+| [Installation](https://www.youtube.com/watch?v=fDH9xD8IsI8) | Installation and initial configuration of Ivanti Device Control (IDAC) |
