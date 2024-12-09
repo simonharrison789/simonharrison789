@@ -55,6 +55,23 @@ Service Desk is an on-premise IT Service Management product that is now in maint
 | [Test to Live introduction](https://www.youtube.com/watch?v=IcVa79BBkIk) | Migrating your test designs to live for Service Desk and Asset Manager 2017.1 using the Test to Live application. |
 | [Test to Live Migration Strategies](https://www.youtube.com/watch?v=2hw5ez7TvG0) | Strategies for migrating your test designs to live for Service Desk and Asset Manager 2017.1 using the Test to Live application. |
  
+## Ivanti License Optimizer
+
+Ivanti License Optimizer is a cloud-based license management product, helping users to determine their effective license position. This product is now in maintenance-only.
+
+| Title | Description |
+| --- | --- |
+| [License Optimizer conceptual overview](https://www.youtube.com/watch?v=_o5UEPKj0hQ) | A quick, high-level overview of the concepts behind Ivanti License Optimizer. |
+| [Schrödinger's licenses - understanding your Effective License Position in License Optimizer](https://www.youtube.com/watch?v=QVdD7NWtIy0) | How can I have both a licensing surplus AND a shortfall for the same product in my Effective License Position? This video provides two common reasons for these "Schrödinger's licenses". |
+| [Importing Organizational Data into Ivanti License Optimizer 2018.3](https://www.youtube.com/watch?v=peixeoF6vCk) | Importing business unit structures into Ivanti License Optimizer 2018.3. |
+| [Improve SQL Server license compliance by setting the edition](https://www.youtube.com/watch?v=8A2EWaqbbZs) | License Optimizer can assign the correct license to a software item only if it has matched it to a single item in the Definitive Software Library and so knows exactly what the product is, and so which license can be applied. For SQL Server, discovery tools often can't determine the edition that is installed, and so License Optimizer can't allocate the appropriate license. This video helps you to address that problem. |
+| [Improve license compliance by setting hardware specs](https://www.youtube.com/watch?v=RaL7KWPK_Jo) | Some software licenses depend on the hardware configuration of the server running the software. This video helps you to ensure an accurate license compliance by showing you how to identify where this information is incompletely recorded in License Optimizer. |
+| [License Optimizer: using business units](https://www.youtube.com/watch?v=Cti5BpuTo-Y) | Ways in which you can use business units in License Optimizer to help you to better understand your IT estate and to accurately report your license position. |
+| [Software Teaching Tips](https://www.youtube.com/watch?v=4bEOO5MBuw0) | This video helps you to decide which option to choose when teaching new products in License Optimizer. |
+| [Hardware (OSI) to Business Unit mapping](https://www.youtube.com/watch?v=SzBZ5Opak_A) | How to map your hardware inventory (OSIs) to your business units by importing a mapping file. |
+| [Ivanti License Optimizer: Best practice import strategy for the Ivanti Neurons platform](https://www.youtube.com/watch?v=TgbTFf69CVY) | This video explains the high-level strategy for importing data into Ivanti License Optimizer from the Ivanti Neurons platform that has proven to be most successful. |
+| [Getting inventory data into License Optimizer](https://www.youtube.com/watch?v=LuHWq8CSZxY) | This video describes the methods for getting inventory data into License Optimizer, and describes the best strategy to use. |
+
 ## Ivanti Device and Application Control
 
 Ivanti Device and Application Control is an on-premise endpoint control product that is now in maintenance-only.
