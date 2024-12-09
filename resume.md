@@ -2,9 +2,9 @@
 
 ## Professional Summary
 
-An experienced technical writer and communicator with the ability to manage multiple projects simultaneously, meeting deadlines while improving quality and maintainability. I have earned a reputation for making the technical communications concerns of the business go away by working closely with developers, product managers, support engineers, consultants, and customers to provide a range of technical communications. These have included HTML-based help, videos, API documentation, training materials, database guides, blogs, marketing copy, and UI text as appropriate. I have a proven track record of providing technical communication that speeds customer on-boarding and return on investment, maximises customer satisfaction, and reduces support calls.
+An experienced technical writer and communicator with the ability to manage multiple projects simultaneously, meeting deadlines while improving quality and maintainability. I have earned a reputation for making the technical communications concerns of the business go away by working closely with developers, product managers, support engineers, consultants, and customers to provide a range of technical documentation. These have included HTML-based help, videos, API documentation, training materials, database guides, blogs, marketing copy, and UI text as appropriate. I have a proven track record of providing technical communication that speeds customer on-boarding and return on investment, maximises customer satisfaction, and reduces support calls. I have experience in localisation.
 
-I am a Fellow of the Institute of Technical Communicators (FISTC). References are available upon request.
+I am a Fellow of the Institute of Technical Communicators (FISTC) and have worked as a Scrum Master. References are available upon request.
 
 ## Professional Experience
 ### Principal Technical Writer, Ivanti (2017 – present)
