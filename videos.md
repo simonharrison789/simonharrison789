@@ -1,6 +1,6 @@
 # Video library
 
-Here is a list of the YouTube videos I created while at Ivanti.
+Here is a list of the YouTube videos I created while at Ivanti. These videos have been watched over 40 000 times and are not only used by customers wanting to learn about the software, but also by colleagues wanting to understand new features and by sales engineers as part of the sales process.
 
 ## Ivanti Neurons for Spend Intelligence
 
