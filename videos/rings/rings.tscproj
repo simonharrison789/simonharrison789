@@ -18,33 +18,9 @@
   "sourceBin" : [
     {
       "id" : 1,
-      "src" : "C:\\GitHub-Dev\\TechComms-zResources\\VideoResources\\2021\\Music\\Daniele Musto\\Daniele_Musto_Common_Sense_instrumental_10 min Loop_mixdown.mp3",
-      "rect" : [0, 0, 0, 0],
-      "lastMod" : "not-a-date-time",
-      "loudnessNormalization" : true,
-      "sourceTracks" : [
-        {
-          "range" : [0, 6053280000],
-          "type" : 2,
-          "editRate" : 10000000,
-          "trackRect" : [0, 0, 0, 0],
-          "sampleRate" : 48000,
-          "bitDepth" : 0,
-          "numChannels" : 2,
-          "integratedLUFS" : -12.2475519319694,
-          "peakLevel" : 0.930465579032898,
-          "metaData" : ""
-        }
-      ],
-      "metadata" : {
-        "timeAdded" : "20240214T112825.910076"
-      }
-    },
-    {
-      "id" : 2,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\0intro.mp3",
       "rect" : [0, 0, 0, 0],
-      "lastMod" : "20241205T142705",
+      "lastMod" : "20241211T091138",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -65,10 +41,10 @@
       }
     },
     {
-      "id" : 3,
+      "id" : 2,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\1scenario.mp3",
       "rect" : [0, 0, 0, 0],
-      "lastMod" : "20241205T142705",
+      "lastMod" : "20241211T091138",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -89,10 +65,10 @@
       }
     },
     {
-      "id" : 4,
+      "id" : 3,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\2-3rings.mp3",
       "rect" : [0, 0, 0, 0],
-      "lastMod" : "20241205T142705",
+      "lastMod" : "20241211T091138",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -113,10 +89,10 @@
       }
     },
     {
-      "id" : 5,
+      "id" : 4,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\3ringpercents.mp3",
       "rect" : [0, 0, 0, 0],
-      "lastMod" : "20241205T142705",
+      "lastMod" : "20241211T091138",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -137,10 +113,10 @@
       }
     },
     {
-      "id" : 6,
+      "id" : 5,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\4ceo-firefox.mp3",
       "rect" : [0, 0, 0, 0],
-      "lastMod" : "20241205T142705",
+      "lastMod" : "20241211T091138",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -161,10 +137,10 @@
       }
     },
     {
-      "id" : 7,
+      "id" : 6,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\5start-rollout.mp3",
       "rect" : [0, 0, 0, 0],
-      "lastMod" : "20241205T142705",
+      "lastMod" : "20241211T091138",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -185,10 +161,10 @@
       }
     },
     {
-      "id" : 8,
+      "id" : 7,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\6goldilocks.mp3",
       "rect" : [0, 0, 0, 0],
-      "lastMod" : "20241205T142705",
+      "lastMod" : "20241211T091138",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -209,10 +185,10 @@
       }
     },
     {
-      "id" : 9,
+      "id" : 8,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\7rollout.mp3",
       "rect" : [0, 0, 0, 0],
-      "lastMod" : "20241205T142705",
+      "lastMod" : "20241211T091138",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -233,10 +209,10 @@
       }
     },
     {
-      "id" : 10,
+      "id" : 9,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\end.mp3",
       "rect" : [0, 0, 0, 0],
-      "lastMod" : "20241205T142705",
+      "lastMod" : "20241211T091138",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -257,10 +233,10 @@
       }
     },
     {
-      "id" : 11,
+      "id" : 10,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\black-laptop.png",
       "rect" : [0, 0, 68, 45],
-      "lastMod" : "20241205T142705",
+      "lastMod" : "20241211T091138",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -281,10 +257,10 @@
       }
     },
     {
-      "id" : 12,
+      "id" : 11,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\laptop.png",
       "rect" : [0, 0, 67, 45],
-      "lastMod" : "20241205T142705",
+      "lastMod" : "20241211T091138",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -305,10 +281,10 @@
       }
     },
     {
-      "id" : 13,
+      "id" : 12,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\smoke.png",
       "rect" : [0, 0, 53, 76],
-      "lastMod" : "20241205T142706",
+      "lastMod" : "20241211T091139",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -329,10 +305,10 @@
       }
     },
     {
-      "id" : 14,
+      "id" : 13,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\patch-trans.png",
       "rect" : [0, 0, 184, 160],
-      "lastMod" : "20241205T142705",
+      "lastMod" : "20241211T091138",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -353,10 +329,10 @@
       }
     },
     {
-      "id" : 15,
+      "id" : 14,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\ceo-laptop.png",
       "rect" : [0, 0, 68, 57],
-      "lastMod" : "20241205T142705",
+      "lastMod" : "20241211T091138",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -377,10 +353,10 @@
       }
     },
     {
-      "id" : 16,
+      "id" : 15,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\finger.png",
       "rect" : [0, 0, 125, 106],
-      "lastMod" : "20241205T142705",
+      "lastMod" : "20241211T091138",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -401,10 +377,10 @@
       }
     },
     {
-      "id" : 17,
+      "id" : 16,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\rings.trec",
       "rect" : [0, 0, 1921, 1080],
-      "lastMod" : "20241205T142706",
+      "lastMod" : "20241211T091138",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -437,10 +413,10 @@
       }
     },
     {
-      "id" : 18,
+      "id" : 17,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\clock.png",
       "rect" : [0, 0, 203, 238],
-      "lastMod" : "20241205T142705",
+      "lastMod" : "20241211T091138",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -461,10 +437,10 @@
       }
     },
     {
-      "id" : 19,
+      "id" : 18,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\calculcator.png",
       "rect" : [0, 0, 155, 205],
-      "lastMod" : "20241205T142705",
+      "lastMod" : "20241211T091138",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -485,10 +461,10 @@
       }
     },
     {
-      "id" : 20,
+      "id" : 19,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\bored.png",
       "rect" : [0, 0, 226, 246],
-      "lastMod" : "20241205T142705",
+      "lastMod" : "20241211T091138",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -509,10 +485,10 @@
       }
     },
     {
-      "id" : 21,
+      "id" : 20,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\confused.png",
       "rect" : [0, 0, 204, 235],
-      "lastMod" : "20241205T142705",
+      "lastMod" : "20241211T091138",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -533,10 +509,10 @@
       }
     },
     {
-      "id" : 22,
+      "id" : 21,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\correct.png",
       "rect" : [0, 0, 169, 209],
-      "lastMod" : "20241205T142705",
+      "lastMod" : "20241211T091138",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -557,10 +533,10 @@
       }
     },
     {
-      "id" : 23,
+      "id" : 22,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\deployed.png",
       "rect" : [0, 0, 1920, 1080],
-      "lastMod" : "20241205T142705",
+      "lastMod" : "20241211T091138",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -582,7 +558,7 @@
     }
   ],
   "timeline" : {
-    "id" : 24,
+    "id" : 23,
     "sceneTrack" : {
       "scenes" : [
         {
@@ -592,9 +568,9 @@
                 "trackIndex" : 0,
                 "medias" : [
                   {
-                    "id" : 25,
+                    "id" : 24,
                     "_type" : "AMFile",
-                    "src" : 2,
+                    "src" : 1,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "0intro",
@@ -619,9 +595,9 @@
                     }
                   },
                   {
-                    "id" : 26,
+                    "id" : 25,
                     "_type" : "AMFile",
-                    "src" : 3,
+                    "src" : 2,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "1scenario",
@@ -646,9 +622,9 @@
                     }
                   },
                   {
-                    "id" : 27,
+                    "id" : 26,
                     "_type" : "AMFile",
-                    "src" : 4,
+                    "src" : 3,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "2-3rings",
@@ -673,9 +649,9 @@
                     }
                   },
                   {
-                    "id" : 28,
+                    "id" : 27,
                     "_type" : "AMFile",
-                    "src" : 5,
+                    "src" : 4,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "3ringpercents",
@@ -700,9 +676,9 @@
                     }
                   },
                   {
-                    "id" : 29,
+                    "id" : 28,
                     "_type" : "AMFile",
-                    "src" : 6,
+                    "src" : 5,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "4ceo-firefox",
@@ -727,9 +703,9 @@
                     }
                   },
                   {
-                    "id" : 30,
+                    "id" : 29,
                     "_type" : "AMFile",
-                    "src" : 7,
+                    "src" : 6,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "5start-rollout",
@@ -754,9 +730,9 @@
                     }
                   },
                   {
-                    "id" : 31,
+                    "id" : 30,
                     "_type" : "AMFile",
-                    "src" : 8,
+                    "src" : 7,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "6goldilocks",
@@ -781,9 +757,9 @@
                     }
                   },
                   {
-                    "id" : 32,
+                    "id" : 31,
                     "_type" : "AMFile",
-                    "src" : 9,
+                    "src" : 8,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "7rollout",
@@ -808,9 +784,9 @@
                     }
                   },
                   {
-                    "id" : 33,
+                    "id" : 32,
                     "_type" : "AMFile",
-                    "src" : 10,
+                    "src" : 9,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "end",
@@ -840,7 +816,7 @@
                 "trackIndex" : 1,
                 "medias" : [
                   {
-                    "id" : 34,
+                    "id" : 33,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -1075,7 +1051,7 @@
                     }
                   },
                   {
-                    "id" : 35,
+                    "id" : 34,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -1310,7 +1286,7 @@
                     }
                   },
                   {
-                    "id" : 36,
+                    "id" : 35,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -1454,7 +1430,7 @@
                     }
                   },
                   {
-                    "id" : 37,
+                    "id" : 36,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -1689,13 +1665,13 @@
                     }
                   },
                   {
-                    "id" : 38,
+                    "id" : 37,
                     "_type" : "UnifiedMedia",
                     "video" : 
                         {
-                          "id" : 39,
+                          "id" : 38,
                           "_type" : "ScreenVMFile",
-                          "src" : 17,
+                          "src" : 16,
                           "trackNumber" : 0,
                           "attributes" : {
                             "ident" : "rings"
@@ -1786,9 +1762,9 @@
                         },
                     "audio" : 
                         {
-                          "id" : 40,
+                          "id" : 39,
                           "_type" : "AMFile",
-                          "src" : 17,
+                          "src" : 16,
                           "trackNumber" : 1,
                           "attributes" : {
                             "ident" : "",
@@ -1856,7 +1832,7 @@
                     }
                   },
                   {
-                    "id" : 41,
+                    "id" : 40,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -2091,13 +2067,13 @@
                     }
                   },
                   {
-                    "id" : 42,
+                    "id" : 41,
                     "_type" : "UnifiedMedia",
                     "video" : 
                         {
-                          "id" : 43,
+                          "id" : 42,
                           "_type" : "ScreenVMFile",
-                          "src" : 17,
+                          "src" : 16,
                           "trackNumber" : 0,
                           "attributes" : {
                             "ident" : "rings"
@@ -2188,9 +2164,9 @@
                         },
                     "audio" : 
                         {
-                          "id" : 44,
+                          "id" : 43,
                           "_type" : "AMFile",
-                          "src" : 17,
+                          "src" : 16,
                           "trackNumber" : 1,
                           "attributes" : {
                             "ident" : "",
@@ -2227,9 +2203,9 @@
                     }
                   },
                   {
-                    "id" : 45,
+                    "id" : 44,
                     "_type" : "ScreenVMFile",
-                    "src" : 17,
+                    "src" : 16,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "rings"
@@ -2323,9 +2299,9 @@
                     }
                   },
                   {
-                    "id" : 46,
+                    "id" : 45,
                     "_type" : "ScreenVMFile",
-                    "src" : 17,
+                    "src" : 16,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "rings"
@@ -2419,9 +2395,9 @@
                     }
                   },
                   {
-                    "id" : 47,
+                    "id" : 46,
                     "_type" : "ScreenVMFile",
-                    "src" : 17,
+                    "src" : 16,
                     "trackNumber" : 0,
                     "attributes" : {
                       "ident" : "rings"
@@ -2515,13 +2491,13 @@
                     }
                   },
                   {
-                    "id" : 48,
+                    "id" : 47,
                     "_type" : "UnifiedMedia",
                     "video" : 
                         {
-                          "id" : 49,
+                          "id" : 48,
                           "_type" : "ScreenVMFile",
-                          "src" : 17,
+                          "src" : 16,
                           "trackNumber" : 0,
                           "attributes" : {
                             "ident" : "rings"
@@ -2612,9 +2588,9 @@
                         },
                     "audio" : 
                         {
-                          "id" : 50,
+                          "id" : 49,
                           "_type" : "AMFile",
-                          "src" : 17,
+                          "src" : 16,
                           "trackNumber" : 1,
                           "attributes" : {
                             "ident" : "",
@@ -2688,13 +2664,13 @@
                     }
                   },
                   {
-                    "id" : 51,
+                    "id" : 50,
                     "_type" : "UnifiedMedia",
                     "video" : 
                         {
-                          "id" : 52,
+                          "id" : 51,
                           "_type" : "ScreenVMFile",
-                          "src" : 17,
+                          "src" : 16,
                           "trackNumber" : 0,
                           "attributes" : {
                             "ident" : "rings"
@@ -2785,9 +2761,9 @@
                         },
                     "audio" : 
                         {
-                          "id" : 53,
+                          "id" : 52,
                           "_type" : "AMFile",
-                          "src" : 17,
+                          "src" : 16,
                           "trackNumber" : 1,
                           "attributes" : {
                             "ident" : "",
@@ -2861,13 +2837,13 @@
                     }
                   },
                   {
-                    "id" : 54,
+                    "id" : 53,
                     "_type" : "UnifiedMedia",
                     "video" : 
                         {
-                          "id" : 55,
+                          "id" : 54,
                           "_type" : "ScreenVMFile",
-                          "src" : 17,
+                          "src" : 16,
                           "trackNumber" : 0,
                           "attributes" : {
                             "ident" : "rings"
@@ -2958,9 +2934,9 @@
                         },
                     "audio" : 
                         {
-                          "id" : 56,
+                          "id" : 55,
                           "_type" : "AMFile",
-                          "src" : 17,
+                          "src" : 16,
                           "trackNumber" : 1,
                           "attributes" : {
                             "ident" : "",
@@ -3034,9 +3010,9 @@
                     }
                   },
                   {
-                    "id" : 57,
+                    "id" : 56,
                     "_type" : "IMFile",
-                    "src" : 23,
+                    "src" : 22,
                     "trackNumber" : 0,
                     "trimStartSum" : 0,
                     "attributes" : {
@@ -3073,7 +3049,7 @@
                     }
                   },
                   {
-                    "id" : 58,
+                    "id" : 57,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -3317,7 +3293,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 35
+                    "leftMedia" : 34
                   },
                   {
                     "name" : "Fade",
@@ -3327,7 +3303,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 36
+                    "rightMedia" : 35
                   }
                 ]
               },
@@ -3335,7 +3311,7 @@
                 "trackIndex" : 2,
                 "medias" : [
                   {
-                    "id" : 59,
+                    "id" : 58,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -3430,7 +3406,7 @@
                     }
                   },
                   {
-                    "id" : 60,
+                    "id" : 59,
                     "_type" : "Group",
                     "parameters" : {
                       "translation0" : 116.506822612086,
@@ -3450,9 +3426,9 @@
                         "trackIndex" : 0,
                         "medias" : [
                           {
-                            "id" : 61,
+                            "id" : 60,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -3509,9 +3485,9 @@
                         "trackIndex" : 1,
                         "medias" : [
                           {
-                            "id" : 62,
+                            "id" : 61,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -3568,9 +3544,9 @@
                         "trackIndex" : 2,
                         "medias" : [
                           {
-                            "id" : 63,
+                            "id" : 62,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -3612,9 +3588,9 @@
                             }
                           },
                           {
-                            "id" : 64,
+                            "id" : 63,
                             "_type" : "IMFile",
-                            "src" : 11,
+                            "src" : 10,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -3671,9 +3647,9 @@
                         "trackIndex" : 3,
                         "medias" : [
                           {
-                            "id" : 65,
+                            "id" : 64,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -3715,9 +3691,9 @@
                             }
                           },
                           {
-                            "id" : 66,
+                            "id" : 65,
                             "_type" : "IMFile",
-                            "src" : 11,
+                            "src" : 10,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -3774,9 +3750,9 @@
                         "trackIndex" : 4,
                         "medias" : [
                           {
-                            "id" : 67,
+                            "id" : 66,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -3833,9 +3809,9 @@
                         "trackIndex" : 5,
                         "medias" : [
                           {
-                            "id" : 68,
+                            "id" : 67,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -3892,9 +3868,9 @@
                         "trackIndex" : 6,
                         "medias" : [
                           {
-                            "id" : 69,
+                            "id" : 68,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -3951,9 +3927,9 @@
                         "trackIndex" : 7,
                         "medias" : [
                           {
-                            "id" : 70,
+                            "id" : 69,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -4010,9 +3986,9 @@
                         "trackIndex" : 8,
                         "medias" : [
                           {
-                            "id" : 71,
+                            "id" : 70,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -4069,9 +4045,9 @@
                         "trackIndex" : 9,
                         "medias" : [
                           {
-                            "id" : 72,
+                            "id" : 71,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -4128,9 +4104,9 @@
                         "trackIndex" : 10,
                         "medias" : [
                           {
-                            "id" : 73,
+                            "id" : 72,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -4187,9 +4163,9 @@
                         "trackIndex" : 11,
                         "medias" : [
                           {
-                            "id" : 74,
+                            "id" : 73,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -4246,9 +4222,9 @@
                         "trackIndex" : 12,
                         "medias" : [
                           {
-                            "id" : 75,
+                            "id" : 74,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -4305,9 +4281,9 @@
                         "trackIndex" : 13,
                         "medias" : [
                           {
-                            "id" : 76,
+                            "id" : 75,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -4364,9 +4340,9 @@
                         "trackIndex" : 14,
                         "medias" : [
                           {
-                            "id" : 77,
+                            "id" : 76,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -4408,9 +4384,9 @@
                             }
                           },
                           {
-                            "id" : 78,
+                            "id" : 77,
                             "_type" : "IMFile",
-                            "src" : 11,
+                            "src" : 10,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -4467,9 +4443,9 @@
                         "trackIndex" : 15,
                         "medias" : [
                           {
-                            "id" : 79,
+                            "id" : 78,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -4526,9 +4502,9 @@
                         "trackIndex" : 16,
                         "medias" : [
                           {
-                            "id" : 80,
+                            "id" : 79,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -4570,9 +4546,9 @@
                             }
                           },
                           {
-                            "id" : 81,
+                            "id" : 80,
                             "_type" : "IMFile",
-                            "src" : 11,
+                            "src" : 10,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -4629,9 +4605,9 @@
                         "trackIndex" : 17,
                         "medias" : [
                           {
-                            "id" : 82,
+                            "id" : 81,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -4688,9 +4664,9 @@
                         "trackIndex" : 18,
                         "medias" : [
                           {
-                            "id" : 83,
+                            "id" : 82,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -4747,9 +4723,9 @@
                         "trackIndex" : 19,
                         "medias" : [
                           {
-                            "id" : 84,
+                            "id" : 83,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -4806,9 +4782,9 @@
                         "trackIndex" : 20,
                         "medias" : [
                           {
-                            "id" : 85,
+                            "id" : 84,
                             "_type" : "IMFile",
-                            "src" : 13,
+                            "src" : 12,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -4861,9 +4837,9 @@
                         "trackIndex" : 21,
                         "medias" : [
                           {
-                            "id" : 86,
+                            "id" : 85,
                             "_type" : "IMFile",
-                            "src" : 13,
+                            "src" : 12,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -4917,9 +4893,9 @@
                         "trackIndex" : 22,
                         "medias" : [
                           {
-                            "id" : 87,
+                            "id" : 86,
                             "_type" : "IMFile",
-                            "src" : 13,
+                            "src" : 12,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -4972,9 +4948,9 @@
                         "trackIndex" : 23,
                         "medias" : [
                           {
-                            "id" : 88,
+                            "id" : 87,
                             "_type" : "IMFile",
-                            "src" : 13,
+                            "src" : 12,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -5049,7 +5025,7 @@
                     }
                   },
                   {
-                    "id" : 89,
+                    "id" : 88,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -5106,7 +5082,7 @@
                     }
                   },
                   {
-                    "id" : 90,
+                    "id" : 89,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -5201,7 +5177,7 @@
                     }
                   },
                   {
-                    "id" : 91,
+                    "id" : 90,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -5391,7 +5367,7 @@
                     }
                   },
                   {
-                    "id" : 92,
+                    "id" : 91,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -5486,7 +5462,7 @@
                     }
                   },
                   {
-                    "id" : 93,
+                    "id" : 92,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -5581,7 +5557,7 @@
                     }
                   },
                   {
-                    "id" : 94,
+                    "id" : 93,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -5676,9 +5652,9 @@
                     }
                   },
                   {
-                    "id" : 95,
+                    "id" : 94,
                     "_type" : "IMFile",
-                    "src" : 18,
+                    "src" : 17,
                     "trackNumber" : 0,
                     "trimStartSum" : 0,
                     "attributes" : {
@@ -5720,7 +5696,7 @@
                     }
                   },
                   {
-                    "id" : 96,
+                    "id" : 95,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -5815,7 +5791,7 @@
                     }
                   },
                   {
-                    "id" : 97,
+                    "id" : 96,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -5910,7 +5886,7 @@
                     }
                   },
                   {
-                    "id" : 98,
+                    "id" : 97,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -6003,7 +5979,7 @@
                     }
                   },
                   {
-                    "id" : 99,
+                    "id" : 98,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -6098,7 +6074,7 @@
                     }
                   },
                   {
-                    "id" : 100,
+                    "id" : 99,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -6202,7 +6178,27 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 59
+                    "rightMedia" : 58
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 89
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 89
                   },
                   {
                     "name" : "Fade",
@@ -6213,16 +6209,6 @@
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
                     "rightMedia" : 90
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "leftMedia" : 90
                   },
                   {
                     "name" : "Fade",
@@ -6252,7 +6238,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 93
+                    "leftMedia" : 92
                   },
                   {
                     "name" : "Fade",
@@ -6262,7 +6248,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 93
+                    "rightMedia" : 93
                   },
                   {
                     "name" : "Fade",
@@ -6283,6 +6269,16 @@
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
                     "rightMedia" : 95
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 95
                   },
                   {
                     "name" : "Fade",
@@ -6353,26 +6349,6 @@
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
                     "rightMedia" : 99
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "leftMedia" : 99
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "rightMedia" : 100
                   }
                 ]
               },
@@ -6380,92 +6356,28 @@
                 "trackIndex" : 3,
                 "medias" : [
                   {
-                    "id" : 101,
+                    "id" : 100,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
                       "shape" : "text-rectangle",
                       "style" : "basic",
-                      "enable-ligatures" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-blue" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-green" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-opacity" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-red" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "height" : {
-                        "type" : "double",
-                        "defaultValue" : 1241.46737511424,
-                        "interp" : "linr"
-                      },
-                      "line-spacing" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-blue" : {
-                        "type" : "double",
-                        "defaultValue" : 0.56078431372549,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-green" : {
-                        "type" : "double",
-                        "defaultValue" : 0.686274509803922,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-opacity" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-red" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0196078431372549,
-                        "interp" : "linr"
-                      },
-                      "stroke-width" : {
-                        "type" : "double",
-                        "defaultValue" : 2.0,
-                        "interp" : "linr"
-                      },
-                      "tail-x" : {
-                        "type" : "double",
-                        "defaultValue" : -3.44827586206901,
-                        "interp" : "linr"
-                      },
-                      "tail-y" : {
-                        "type" : "double",
-                        "defaultValue" : 37.7145883049484,
-                        "interp" : "linr"
-                      },
-                      "width" : {
-                        "type" : "double",
-                        "defaultValue" : 2022.41379310345,
-                        "interp" : "linr"
-                      },
-                      "word-wrap" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
+                      "enable-ligatures" : 1.0,
+                      "fill-color-blue" : 1.0,
+                      "fill-color-green" : 1.0,
+                      "fill-color-opacity" : 1.0,
+                      "fill-color-red" : 1.0,
+                      "height" : 1241.46737511424,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 0.56078431372549,
+                      "stroke-color-green" : 0.686274509803922,
+                      "stroke-color-opacity" : 1.0,
+                      "stroke-color-red" : 0.0196078431372549,
+                      "stroke-width" : 2.0,
+                      "tail-x" : -3.44827586206901,
+                      "tail-y" : 37.7145883049484,
+                      "width" : 2022.41379310345,
+                      "word-wrap" : 1.0,
                       "fill-style" : "solid",
                       "horizontal-alignment" : "center",
                       "resize-behavior" : "resizeText",
@@ -6473,36 +6385,12 @@
                       "text" : "",
                       "vertical-alignment" : "center",
                       "font" : {
-                        "color-blue" : {
-                          "type" : "double",
-                          "defaultValue" : 0.266666666666667,
-                          "interp" : "linr"
-                        },
-                        "color-green" : {
-                          "type" : "double",
-                          "defaultValue" : 0.231372549019608,
-                          "interp" : "linr"
-                        },
-                        "color-opacity" : {
-                          "type" : "double",
-                          "defaultValue" : 1.0,
-                          "interp" : "linr"
-                        },
-                        "color-red" : {
-                          "type" : "double",
-                          "defaultValue" : 0.184313725490196,
-                          "interp" : "linr"
-                        },
-                        "size" : {
-                          "type" : "double",
-                          "defaultValue" : 64.0,
-                          "interp" : "linr"
-                        },
-                        "tracking" : {
-                          "type" : "double",
-                          "defaultValue" : 0.0,
-                          "interp" : "linr"
-                        },
+                        "color-blue" : 0.266666666666667,
+                        "color-green" : 0.231372549019608,
+                        "color-opacity" : 1.0,
+                        "color-red" : 0.184313725490196,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
                         "name" : "Montserrat",
                         "weight" : "Regular"
                       },
@@ -6525,7 +6413,6 @@
                       "translation0" : {
                         "type" : "double",
                         "defaultValue" : -2006.89655172414,
-                        "interp" : "eioe",
                         "keyframes" : [
                           {
                             "endTime" : 74,
@@ -6538,7 +6425,6 @@
                       "translation1" : {
                         "type" : "double",
                         "defaultValue" : -57.7146043611094,
-                        "interp" : "eioe",
                         "keyframes" : [
                           {
                             "endTime" : 74,
@@ -6548,46 +6434,14 @@
                           }
                         ]
                       },
-                      "sourceCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      }
+                      "sourceCrop0" : 0.0,
+                      "sourceCrop1" : 0.0,
+                      "sourceCrop2" : 0.0,
+                      "sourceCrop3" : 0.0,
+                      "geometryCrop0" : 0.0,
+                      "geometryCrop1" : 0.0,
+                      "geometryCrop2" : 0.0,
+                      "geometryCrop3" : 0.0
                     },
                     "effects" : [
 
@@ -6603,7 +6457,6 @@
                       "default-LineSpace" : 0.0,
                       "default-VAlign" : "center",
                       "default-height" : 1268.0,
-                      "default-text-attributes" : null,
                       "default-translation0" : 0.0,
                       "default-translation1" : 0.0,
                       "default-width" : 2049.0
@@ -6619,7 +6472,7 @@
                     }
                   },
                   {
-                    "id" : 102,
+                    "id" : 101,
                     "_type" : "Group",
                     "parameters" : {
                       "translation0" : 150.006822612086,
@@ -6639,9 +6492,9 @@
                         "trackIndex" : 0,
                         "medias" : [
                           {
-                            "id" : 103,
+                            "id" : 102,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : 30,
                             "attributes" : {
@@ -6698,9 +6551,9 @@
                         "trackIndex" : 1,
                         "medias" : [
                           {
-                            "id" : 104,
+                            "id" : 103,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : 30,
                             "attributes" : {
@@ -6757,9 +6610,9 @@
                         "trackIndex" : 2,
                         "medias" : [
                           {
-                            "id" : 105,
+                            "id" : 104,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : 30,
                             "attributes" : {
@@ -6816,9 +6669,9 @@
                         "trackIndex" : 3,
                         "medias" : [
                           {
-                            "id" : 106,
+                            "id" : 105,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : 30,
                             "attributes" : {
@@ -6875,9 +6728,9 @@
                         "trackIndex" : 4,
                         "medias" : [
                           {
-                            "id" : 107,
+                            "id" : 106,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : 30,
                             "attributes" : {
@@ -6934,9 +6787,9 @@
                         "trackIndex" : 5,
                         "medias" : [
                           {
-                            "id" : 108,
+                            "id" : 107,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : 30,
                             "attributes" : {
@@ -6993,9 +6846,9 @@
                         "trackIndex" : 6,
                         "medias" : [
                           {
-                            "id" : 109,
+                            "id" : 108,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : 30,
                             "attributes" : {
@@ -7052,9 +6905,9 @@
                         "trackIndex" : 7,
                         "medias" : [
                           {
-                            "id" : 110,
+                            "id" : 109,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : 30,
                             "attributes" : {
@@ -7111,9 +6964,9 @@
                         "trackIndex" : 8,
                         "medias" : [
                           {
-                            "id" : 111,
+                            "id" : 110,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : 30,
                             "attributes" : {
@@ -7170,9 +7023,9 @@
                         "trackIndex" : 9,
                         "medias" : [
                           {
-                            "id" : 112,
+                            "id" : 111,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : 30,
                             "attributes" : {
@@ -7229,9 +7082,9 @@
                         "trackIndex" : 10,
                         "medias" : [
                           {
-                            "id" : 113,
+                            "id" : 112,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : 30,
                             "attributes" : {
@@ -7289,9 +7142,9 @@
                         "trackIndex" : 11,
                         "medias" : [
                           {
-                            "id" : 114,
+                            "id" : 113,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : 30,
                             "attributes" : {
@@ -7348,9 +7201,9 @@
                         "trackIndex" : 12,
                         "medias" : [
                           {
-                            "id" : 115,
+                            "id" : 114,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : 30,
                             "attributes" : {
@@ -7407,9 +7260,9 @@
                         "trackIndex" : 13,
                         "medias" : [
                           {
-                            "id" : 116,
+                            "id" : 115,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : 30,
                             "attributes" : {
@@ -7466,9 +7319,9 @@
                         "trackIndex" : 14,
                         "medias" : [
                           {
-                            "id" : 117,
+                            "id" : 116,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : 30,
                             "attributes" : {
@@ -7525,9 +7378,9 @@
                         "trackIndex" : 15,
                         "medias" : [
                           {
-                            "id" : 118,
+                            "id" : 117,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : 30,
                             "attributes" : {
@@ -7584,9 +7437,9 @@
                         "trackIndex" : 16,
                         "medias" : [
                           {
-                            "id" : 119,
+                            "id" : 118,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : 30,
                             "attributes" : {
@@ -7643,9 +7496,9 @@
                         "trackIndex" : 17,
                         "medias" : [
                           {
-                            "id" : 120,
+                            "id" : 119,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : 30,
                             "attributes" : {
@@ -7702,9 +7555,9 @@
                         "trackIndex" : 18,
                         "medias" : [
                           {
-                            "id" : 121,
+                            "id" : 120,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : 30,
                             "attributes" : {
@@ -7761,9 +7614,9 @@
                         "trackIndex" : 19,
                         "medias" : [
                           {
-                            "id" : 122,
+                            "id" : 121,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : 30,
                             "attributes" : {
@@ -7842,7 +7695,7 @@
                     }
                   },
                   {
-                    "id" : 123,
+                    "id" : 122,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -7899,7 +7752,7 @@
                     }
                   },
                   {
-                    "id" : 124,
+                    "id" : 123,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -7994,7 +7847,7 @@
                     }
                   },
                   {
-                    "id" : 125,
+                    "id" : 124,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -8138,7 +7991,7 @@
                     }
                   },
                   {
-                    "id" : 126,
+                    "id" : 125,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -8233,7 +8086,7 @@
                     }
                   },
                   {
-                    "id" : 127,
+                    "id" : 126,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -8328,9 +8181,9 @@
                     }
                   },
                   {
-                    "id" : 128,
+                    "id" : 127,
                     "_type" : "IMFile",
-                    "src" : 18,
+                    "src" : 17,
                     "trackNumber" : 0,
                     "trimStartSum" : 0,
                     "attributes" : {
@@ -8372,7 +8225,7 @@
                     }
                   },
                   {
-                    "id" : 129,
+                    "id" : 128,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -8441,7 +8294,7 @@
                     }
                   },
                   {
-                    "id" : 130,
+                    "id" : 129,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -8536,7 +8389,7 @@
                     }
                   },
                   {
-                    "id" : 131,
+                    "id" : 130,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -8631,7 +8484,7 @@
                     }
                   },
                   {
-                    "id" : 132,
+                    "id" : 131,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -8726,7 +8579,7 @@
                     }
                   },
                   {
-                    "id" : 133,
+                    "id" : 132,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -8832,7 +8685,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 124
+                    "rightMedia" : 123
                   },
                   {
                     "name" : "Fade",
@@ -8842,7 +8695,17 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 124
+                    "leftMedia" : 123
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 124
                   },
                   {
                     "name" : "Fade",
@@ -8872,7 +8735,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 127
+                    "leftMedia" : 126
                   },
                   {
                     "name" : "Fade",
@@ -8882,7 +8745,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 127
+                    "rightMedia" : 127
                   },
                   {
                     "name" : "Fade",
@@ -8903,6 +8766,16 @@
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
                     "rightMedia" : 129
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 129
                   },
                   {
                     "name" : "Fade",
@@ -8953,26 +8826,6 @@
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
                     "rightMedia" : 132
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "leftMedia" : 132
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "rightMedia" : 133
                   }
                 ]
               },
@@ -8980,7 +8833,7 @@
                 "trackIndex" : 4,
                 "medias" : [
                   {
-                    "id" : 134,
+                    "id" : 133,
                     "_type" : "Group",
                     "parameters" : {
                       "translation0" : 6.42348927875264,
@@ -9000,9 +8853,9 @@
                         "trackIndex" : 0,
                         "medias" : [
                           {
-                            "id" : 135,
+                            "id" : 134,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -9059,9 +8912,9 @@
                         "trackIndex" : 1,
                         "medias" : [
                           {
-                            "id" : 136,
+                            "id" : 135,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -9118,9 +8971,9 @@
                         "trackIndex" : 2,
                         "medias" : [
                           {
-                            "id" : 137,
+                            "id" : 136,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -9177,9 +9030,9 @@
                         "trackIndex" : 3,
                         "medias" : [
                           {
-                            "id" : 138,
+                            "id" : 137,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -9236,9 +9089,9 @@
                         "trackIndex" : 4,
                         "medias" : [
                           {
-                            "id" : 139,
+                            "id" : 138,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -9295,9 +9148,9 @@
                         "trackIndex" : 5,
                         "medias" : [
                           {
-                            "id" : 140,
+                            "id" : 139,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -9354,9 +9207,9 @@
                         "trackIndex" : 6,
                         "medias" : [
                           {
-                            "id" : 141,
+                            "id" : 140,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -9413,9 +9266,9 @@
                         "trackIndex" : 7,
                         "medias" : [
                           {
-                            "id" : 142,
+                            "id" : 141,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -9472,9 +9325,9 @@
                         "trackIndex" : 8,
                         "medias" : [
                           {
-                            "id" : 143,
+                            "id" : 142,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -9531,9 +9384,9 @@
                         "trackIndex" : 9,
                         "medias" : [
                           {
-                            "id" : 144,
+                            "id" : 143,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -9590,9 +9443,9 @@
                         "trackIndex" : 10,
                         "medias" : [
                           {
-                            "id" : 145,
+                            "id" : 144,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -9649,9 +9502,9 @@
                         "trackIndex" : 11,
                         "medias" : [
                           {
-                            "id" : 146,
+                            "id" : 145,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -9708,9 +9561,9 @@
                         "trackIndex" : 12,
                         "medias" : [
                           {
-                            "id" : 147,
+                            "id" : 146,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -9767,9 +9620,9 @@
                         "trackIndex" : 13,
                         "medias" : [
                           {
-                            "id" : 148,
+                            "id" : 147,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -9826,9 +9679,9 @@
                         "trackIndex" : 14,
                         "medias" : [
                           {
-                            "id" : 149,
+                            "id" : 148,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -9885,9 +9738,9 @@
                         "trackIndex" : 15,
                         "medias" : [
                           {
-                            "id" : 150,
+                            "id" : 149,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -9944,9 +9797,9 @@
                         "trackIndex" : 16,
                         "medias" : [
                           {
-                            "id" : 151,
+                            "id" : 150,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -10003,9 +9856,9 @@
                         "trackIndex" : 17,
                         "medias" : [
                           {
-                            "id" : 152,
+                            "id" : 151,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -10062,9 +9915,9 @@
                         "trackIndex" : 18,
                         "medias" : [
                           {
-                            "id" : 153,
+                            "id" : 152,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -10121,9 +9974,9 @@
                         "trackIndex" : 19,
                         "medias" : [
                           {
-                            "id" : 154,
+                            "id" : 153,
                             "_type" : "IMFile",
-                            "src" : 12,
+                            "src" : 11,
                             "trackNumber" : 0,
                             "trimStartSum" : 0,
                             "attributes" : {
@@ -10202,7 +10055,7 @@
                     }
                   },
                   {
-                    "id" : 155,
+                    "id" : 154,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -10299,7 +10152,7 @@
                     }
                   },
                   {
-                    "id" : 156,
+                    "id" : 155,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -10389,7 +10242,7 @@
                     }
                   },
                   {
-                    "id" : 157,
+                    "id" : 156,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -10484,7 +10337,7 @@
                     }
                   },
                   {
-                    "id" : 158,
+                    "id" : 157,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -10579,7 +10432,7 @@
                     }
                   },
                   {
-                    "id" : 159,
+                    "id" : 158,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -10756,7 +10609,7 @@
                     }
                   },
                   {
-                    "id" : 160,
+                    "id" : 159,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -10851,7 +10704,7 @@
                     }
                   },
                   {
-                    "id" : 161,
+                    "id" : 160,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -10946,7 +10799,7 @@
                     }
                   },
                   {
-                    "id" : 162,
+                    "id" : 161,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "TypeWinSVG",
@@ -11030,7 +10883,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 155
+                    "rightMedia" : 154
                   },
                   {
                     "name" : "Fade",
@@ -11040,7 +10893,17 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 155
+                    "leftMedia" : 154
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 156
                   },
                   {
                     "name" : "Fade",
@@ -11080,6 +10943,16 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
+                    "leftMedia" : 159
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
                     "rightMedia" : 160
                   },
                   {
@@ -11101,26 +10974,6 @@
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
                     "rightMedia" : 161
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "leftMedia" : 161
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "rightMedia" : 162
                   }
                 ]
               },
@@ -11128,92 +10981,28 @@
                 "trackIndex" : 5,
                 "medias" : [
                   {
-                    "id" : 163,
+                    "id" : 162,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
                       "shape" : "text-rectangle",
                       "style" : "basic",
-                      "enable-ligatures" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-blue" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-green" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-opacity" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-red" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "height" : {
-                        "type" : "double",
-                        "defaultValue" : 1241.46737511424,
-                        "interp" : "linr"
-                      },
-                      "line-spacing" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-blue" : {
-                        "type" : "double",
-                        "defaultValue" : 0.56078431372549,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-green" : {
-                        "type" : "double",
-                        "defaultValue" : 0.686274509803922,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-opacity" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-red" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0196078431372549,
-                        "interp" : "linr"
-                      },
-                      "stroke-width" : {
-                        "type" : "double",
-                        "defaultValue" : 2.0,
-                        "interp" : "linr"
-                      },
-                      "tail-x" : {
-                        "type" : "double",
-                        "defaultValue" : -3.44827586206901,
-                        "interp" : "linr"
-                      },
-                      "tail-y" : {
-                        "type" : "double",
-                        "defaultValue" : 37.7145883049484,
-                        "interp" : "linr"
-                      },
-                      "width" : {
-                        "type" : "double",
-                        "defaultValue" : 2022.41379310345,
-                        "interp" : "linr"
-                      },
-                      "word-wrap" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
+                      "enable-ligatures" : 1.0,
+                      "fill-color-blue" : 1.0,
+                      "fill-color-green" : 1.0,
+                      "fill-color-opacity" : 1.0,
+                      "fill-color-red" : 1.0,
+                      "height" : 1241.46737511424,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 0.56078431372549,
+                      "stroke-color-green" : 0.686274509803922,
+                      "stroke-color-opacity" : 1.0,
+                      "stroke-color-red" : 0.0196078431372549,
+                      "stroke-width" : 2.0,
+                      "tail-x" : -3.44827586206901,
+                      "tail-y" : 37.7145883049484,
+                      "width" : 2022.41379310345,
+                      "word-wrap" : 1.0,
                       "fill-style" : "solid",
                       "horizontal-alignment" : "center",
                       "resize-behavior" : "resizeText",
@@ -11221,36 +11010,12 @@
                       "text" : "",
                       "vertical-alignment" : "center",
                       "font" : {
-                        "color-blue" : {
-                          "type" : "double",
-                          "defaultValue" : 0.266666666666667,
-                          "interp" : "linr"
-                        },
-                        "color-green" : {
-                          "type" : "double",
-                          "defaultValue" : 0.231372549019608,
-                          "interp" : "linr"
-                        },
-                        "color-opacity" : {
-                          "type" : "double",
-                          "defaultValue" : 1.0,
-                          "interp" : "linr"
-                        },
-                        "color-red" : {
-                          "type" : "double",
-                          "defaultValue" : 0.184313725490196,
-                          "interp" : "linr"
-                        },
-                        "size" : {
-                          "type" : "double",
-                          "defaultValue" : 64.0,
-                          "interp" : "linr"
-                        },
-                        "tracking" : {
-                          "type" : "double",
-                          "defaultValue" : 0.0,
-                          "interp" : "linr"
-                        },
+                        "color-blue" : 0.266666666666667,
+                        "color-green" : 0.231372549019608,
+                        "color-opacity" : 1.0,
+                        "color-red" : 0.184313725490196,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
                         "name" : "Montserrat",
                         "weight" : "Regular"
                       },
@@ -11273,7 +11038,6 @@
                       "translation0" : {
                         "type" : "double",
                         "defaultValue" : -2006.89655172414,
-                        "interp" : "eioe",
                         "keyframes" : [
                           {
                             "endTime" : 74,
@@ -11286,7 +11050,6 @@
                       "translation1" : {
                         "type" : "double",
                         "defaultValue" : -57.7146043611094,
-                        "interp" : "eioe",
                         "keyframes" : [
                           {
                             "endTime" : 74,
@@ -11296,46 +11059,14 @@
                           }
                         ]
                       },
-                      "sourceCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      }
+                      "sourceCrop0" : 0.0,
+                      "sourceCrop1" : 0.0,
+                      "sourceCrop2" : 0.0,
+                      "sourceCrop3" : 0.0,
+                      "geometryCrop0" : 0.0,
+                      "geometryCrop1" : 0.0,
+                      "geometryCrop2" : 0.0,
+                      "geometryCrop3" : 0.0
                     },
                     "effects" : [
 
@@ -11351,7 +11082,6 @@
                       "default-LineSpace" : 0.0,
                       "default-VAlign" : "center",
                       "default-height" : 1268.0,
-                      "default-text-attributes" : null,
                       "default-translation0" : 0.0,
                       "default-translation1" : 0.0,
                       "default-width" : 2049.0
@@ -11367,7 +11097,7 @@
                     }
                   },
                   {
-                    "id" : 164,
+                    "id" : 163,
                     "_type" : "Group",
                     "parameters" : {
                       "translation0" : 37.3367446393765,
@@ -11387,9 +11117,9 @@
                         "trackIndex" : 0,
                         "medias" : [
                           {
-                            "id" : 165,
+                            "id" : 164,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : -10,
                             "attributes" : {
@@ -11446,9 +11176,9 @@
                         "trackIndex" : 1,
                         "medias" : [
                           {
-                            "id" : 166,
+                            "id" : 165,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : -10,
                             "attributes" : {
@@ -11505,9 +11235,9 @@
                         "trackIndex" : 2,
                         "medias" : [
                           {
-                            "id" : 167,
+                            "id" : 166,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : -10,
                             "attributes" : {
@@ -11564,9 +11294,9 @@
                         "trackIndex" : 3,
                         "medias" : [
                           {
-                            "id" : 168,
+                            "id" : 167,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : -10,
                             "attributes" : {
@@ -11645,7 +11375,7 @@
                     }
                   },
                   {
-                    "id" : 169,
+                    "id" : 168,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "TypeWinSVG",
@@ -11720,7 +11450,7 @@
                     }
                   },
                   {
-                    "id" : 170,
+                    "id" : 169,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -11810,92 +11540,28 @@
                     }
                   },
                   {
-                    "id" : 171,
+                    "id" : 170,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
                       "shape" : "text-rectangle",
                       "style" : "basic",
-                      "enable-ligatures" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-blue" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-green" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-opacity" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-red" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "height" : {
-                        "type" : "double",
-                        "defaultValue" : 1241.46737511424,
-                        "interp" : "linr"
-                      },
-                      "line-spacing" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-blue" : {
-                        "type" : "double",
-                        "defaultValue" : 0.56078431372549,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-green" : {
-                        "type" : "double",
-                        "defaultValue" : 0.686274509803922,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-opacity" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-red" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0196078431372549,
-                        "interp" : "linr"
-                      },
-                      "stroke-width" : {
-                        "type" : "double",
-                        "defaultValue" : 2.0,
-                        "interp" : "linr"
-                      },
-                      "tail-x" : {
-                        "type" : "double",
-                        "defaultValue" : -3.44827586206901,
-                        "interp" : "linr"
-                      },
-                      "tail-y" : {
-                        "type" : "double",
-                        "defaultValue" : 37.7145883049484,
-                        "interp" : "linr"
-                      },
-                      "width" : {
-                        "type" : "double",
-                        "defaultValue" : 2022.41379310345,
-                        "interp" : "linr"
-                      },
-                      "word-wrap" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
+                      "enable-ligatures" : 1.0,
+                      "fill-color-blue" : 1.0,
+                      "fill-color-green" : 1.0,
+                      "fill-color-opacity" : 1.0,
+                      "fill-color-red" : 1.0,
+                      "height" : 1241.46737511424,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 0.56078431372549,
+                      "stroke-color-green" : 0.686274509803922,
+                      "stroke-color-opacity" : 1.0,
+                      "stroke-color-red" : 0.0196078431372549,
+                      "stroke-width" : 2.0,
+                      "tail-x" : -3.44827586206901,
+                      "tail-y" : 37.7145883049484,
+                      "width" : 2022.41379310345,
+                      "word-wrap" : 1.0,
                       "fill-style" : "solid",
                       "horizontal-alignment" : "center",
                       "resize-behavior" : "resizeText",
@@ -11903,36 +11569,12 @@
                       "text" : "",
                       "vertical-alignment" : "center",
                       "font" : {
-                        "color-blue" : {
-                          "type" : "double",
-                          "defaultValue" : 0.266666666666667,
-                          "interp" : "linr"
-                        },
-                        "color-green" : {
-                          "type" : "double",
-                          "defaultValue" : 0.231372549019608,
-                          "interp" : "linr"
-                        },
-                        "color-opacity" : {
-                          "type" : "double",
-                          "defaultValue" : 1.0,
-                          "interp" : "linr"
-                        },
-                        "color-red" : {
-                          "type" : "double",
-                          "defaultValue" : 0.184313725490196,
-                          "interp" : "linr"
-                        },
-                        "size" : {
-                          "type" : "double",
-                          "defaultValue" : 64.0,
-                          "interp" : "linr"
-                        },
-                        "tracking" : {
-                          "type" : "double",
-                          "defaultValue" : 0.0,
-                          "interp" : "linr"
-                        },
+                        "color-blue" : 0.266666666666667,
+                        "color-green" : 0.231372549019608,
+                        "color-opacity" : 1.0,
+                        "color-red" : 0.184313725490196,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
                         "name" : "Montserrat",
                         "weight" : "Regular"
                       },
@@ -11955,7 +11597,6 @@
                       "translation0" : {
                         "type" : "double",
                         "defaultValue" : -2006.89655172414,
-                        "interp" : "eioe",
                         "keyframes" : [
                           {
                             "endTime" : 74,
@@ -11968,7 +11609,6 @@
                       "translation1" : {
                         "type" : "double",
                         "defaultValue" : -57.7146043611094,
-                        "interp" : "eioe",
                         "keyframes" : [
                           {
                             "endTime" : 74,
@@ -11978,46 +11618,14 @@
                           }
                         ]
                       },
-                      "sourceCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      }
+                      "sourceCrop0" : 0.0,
+                      "sourceCrop1" : 0.0,
+                      "sourceCrop2" : 0.0,
+                      "sourceCrop3" : 0.0,
+                      "geometryCrop0" : 0.0,
+                      "geometryCrop1" : 0.0,
+                      "geometryCrop2" : 0.0,
+                      "geometryCrop3" : 0.0
                     },
                     "effects" : [
 
@@ -12033,7 +11641,6 @@
                       "default-LineSpace" : 0.0,
                       "default-VAlign" : "center",
                       "default-height" : 1268.0,
-                      "default-text-attributes" : null,
                       "default-translation0" : 0.0,
                       "default-translation1" : 0.0,
                       "default-width" : 2049.0
@@ -12049,7 +11656,7 @@
                     }
                   },
                   {
-                    "id" : 172,
+                    "id" : 171,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -12143,7 +11750,7 @@
                     }
                   },
                   {
-                    "id" : 173,
+                    "id" : 172,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -12349,7 +11956,7 @@
                     }
                   },
                   {
-                    "id" : 174,
+                    "id" : 173,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -12442,7 +12049,7 @@
                     }
                   },
                   {
-                    "id" : 175,
+                    "id" : 174,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -12535,7 +12142,7 @@
                     }
                   },
                   {
-                    "id" : 176,
+                    "id" : 175,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -12625,7 +12232,7 @@
                     }
                   },
                   {
-                    "id" : 177,
+                    "id" : 176,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -12720,7 +12327,7 @@
                     }
                   },
                   {
-                    "id" : 178,
+                    "id" : 177,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -12821,7 +12428,6 @@
                       "default-LineSpace" : 0.0,
                       "default-VAlign" : "center",
                       "default-height" : 1268.0,
-                      "default-text-attributes" : null,
                       "default-translation0" : 0.0,
                       "default-translation1" : 0.0,
                       "default-width" : 2049.0
@@ -12846,7 +12452,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 169
+                    "rightMedia" : 168
                   },
                   {
                     "name" : "Fade",
@@ -12856,7 +12462,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 169
+                    "leftMedia" : 168
                   },
                   {
                     "name" : "Fade",
@@ -12866,7 +12472,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 172
+                    "rightMedia" : 171
                   },
                   {
                     "name" : "Fade",
@@ -12876,7 +12482,27 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 172
+                    "leftMedia" : 171
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 173
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 173
                   },
                   {
                     "name" : "Fade",
@@ -12937,26 +12563,6 @@
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
                     "leftMedia" : 176
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "rightMedia" : 177
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "leftMedia" : 177
                   }
                 ]
               },
@@ -12964,7 +12570,7 @@
                 "trackIndex" : 6,
                 "medias" : [
                   {
-                    "id" : 179,
+                    "id" : 178,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -13054,7 +12660,7 @@
                     }
                   },
                   {
-                    "id" : 180,
+                    "id" : 179,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -13144,7 +12750,7 @@
                     }
                   },
                   {
-                    "id" : 181,
+                    "id" : 180,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -13236,7 +12842,7 @@
                     }
                   },
                   {
-                    "id" : 182,
+                    "id" : 181,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -13329,7 +12935,7 @@
                     }
                   },
                   {
-                    "id" : 183,
+                    "id" : 182,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -13433,6 +13039,26 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
+                    "rightMedia" : 181
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 181
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
                     "rightMedia" : 182
                   },
                   {
@@ -13444,26 +13070,6 @@
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
                     "leftMedia" : 182
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "rightMedia" : 183
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "leftMedia" : 183
                   }
                 ]
               },
@@ -13471,7 +13077,7 @@
                 "trackIndex" : 7,
                 "medias" : [
                   {
-                    "id" : 184,
+                    "id" : 183,
                     "_type" : "Group",
                     "parameters" : {
                       "translation0" : 23.2568226120861,
@@ -13491,9 +13097,9 @@
                         "trackIndex" : 0,
                         "medias" : [
                           {
-                            "id" : 185,
+                            "id" : 184,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : -10,
                             "attributes" : {
@@ -13550,9 +13156,9 @@
                         "trackIndex" : 1,
                         "medias" : [
                           {
-                            "id" : 186,
+                            "id" : 185,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : -10,
                             "attributes" : {
@@ -13609,9 +13215,9 @@
                         "trackIndex" : 2,
                         "medias" : [
                           {
-                            "id" : 187,
+                            "id" : 186,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : -10,
                             "attributes" : {
@@ -13668,9 +13274,9 @@
                         "trackIndex" : 3,
                         "medias" : [
                           {
-                            "id" : 188,
+                            "id" : 187,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : -10,
                             "attributes" : {
@@ -13727,9 +13333,9 @@
                         "trackIndex" : 4,
                         "medias" : [
                           {
-                            "id" : 189,
+                            "id" : 188,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : -10,
                             "attributes" : {
@@ -13786,9 +13392,9 @@
                         "trackIndex" : 5,
                         "medias" : [
                           {
-                            "id" : 190,
+                            "id" : 189,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : -10,
                             "attributes" : {
@@ -13845,9 +13451,9 @@
                         "trackIndex" : 6,
                         "medias" : [
                           {
-                            "id" : 191,
+                            "id" : 190,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : -10,
                             "attributes" : {
@@ -13904,9 +13510,9 @@
                         "trackIndex" : 7,
                         "medias" : [
                           {
-                            "id" : 192,
+                            "id" : 191,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : -10,
                             "attributes" : {
@@ -13985,9 +13591,9 @@
                     }
                   },
                   {
-                    "id" : 193,
+                    "id" : 192,
                     "_type" : "IMFile",
-                    "src" : 15,
+                    "src" : 14,
                     "trackNumber" : 0,
                     "trimStartSum" : 0,
                     "attributes" : {
@@ -14079,9 +13685,9 @@
                     }
                   },
                   {
-                    "id" : 194,
+                    "id" : 193,
                     "_type" : "IMFile",
-                    "src" : 19,
+                    "src" : 18,
                     "trackNumber" : 0,
                     "trimStartSum" : 0,
                     "attributes" : {
@@ -14123,9 +13729,9 @@
                     }
                   },
                   {
-                    "id" : 195,
+                    "id" : 194,
                     "_type" : "IMFile",
-                    "src" : 20,
+                    "src" : 19,
                     "trackNumber" : 0,
                     "trimStartSum" : 0,
                     "attributes" : {
@@ -14163,9 +13769,9 @@
                     }
                   },
                   {
-                    "id" : 196,
+                    "id" : 195,
                     "_type" : "IMFile",
-                    "src" : 21,
+                    "src" : 20,
                     "trackNumber" : 0,
                     "trimStartSum" : 0,
                     "attributes" : {
@@ -14203,9 +13809,9 @@
                     }
                   },
                   {
-                    "id" : 197,
+                    "id" : 196,
                     "_type" : "IMFile",
-                    "src" : 22,
+                    "src" : 21,
                     "trackNumber" : 0,
                     "trimStartSum" : -13,
                     "attributes" : {
@@ -14243,7 +13849,7 @@
                     }
                   },
                   {
-                    "id" : 198,
+                    "id" : 197,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -14336,7 +13942,7 @@
                     }
                   },
                   {
-                    "id" : 199,
+                    "id" : 198,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -14440,11 +14046,31 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 194
+                    "rightMedia" : 193
                   },
                   {
                     "name" : "Fade",
                     "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 193
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 194
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 28,
                     "trivial" : false,
                     "reverse" : false,
                     "bypass" : false,
@@ -14464,7 +14090,7 @@
                   },
                   {
                     "name" : "Fade",
-                    "duration" : 28,
+                    "duration" : 30,
                     "trivial" : false,
                     "reverse" : false,
                     "bypass" : false,
@@ -14490,7 +14116,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 196
+                    "rightMedia" : 197
                   },
                   {
                     "name" : "Fade",
@@ -14500,7 +14126,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 197
+                    "leftMedia" : 197
                   },
                   {
                     "name" : "Fade",
@@ -14521,26 +14147,6 @@
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
                     "leftMedia" : 198
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "rightMedia" : 199
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "leftMedia" : 199
                   }
                 ]
               },
@@ -14548,7 +14154,7 @@
                 "trackIndex" : 8,
                 "medias" : [
                   {
-                    "id" : 200,
+                    "id" : 199,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -14638,9 +14244,9 @@
                     }
                   },
                   {
-                    "id" : 201,
+                    "id" : 200,
                     "_type" : "IMFile",
-                    "src" : 16,
+                    "src" : 15,
                     "trackNumber" : 0,
                     "trimStartSum" : 0,
                     "attributes" : {
@@ -14706,7 +14312,7 @@
                     }
                   },
                   {
-                    "id" : 202,
+                    "id" : 201,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -14796,7 +14402,7 @@
                     }
                   },
                   {
-                    "id" : 203,
+                    "id" : 202,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -14887,92 +14493,28 @@
                     }
                   },
                   {
-                    "id" : 204,
+                    "id" : 203,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
                       "shape" : "text-rectangle",
                       "style" : "basic",
-                      "enable-ligatures" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-blue" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-green" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-opacity" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-red" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "height" : {
-                        "type" : "double",
-                        "defaultValue" : 1241.46737511424,
-                        "interp" : "linr"
-                      },
-                      "line-spacing" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-blue" : {
-                        "type" : "double",
-                        "defaultValue" : 0.56078431372549,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-green" : {
-                        "type" : "double",
-                        "defaultValue" : 0.686274509803922,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-opacity" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-red" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0196078431372549,
-                        "interp" : "linr"
-                      },
-                      "stroke-width" : {
-                        "type" : "double",
-                        "defaultValue" : 2.0,
-                        "interp" : "linr"
-                      },
-                      "tail-x" : {
-                        "type" : "double",
-                        "defaultValue" : -3.44827586206901,
-                        "interp" : "linr"
-                      },
-                      "tail-y" : {
-                        "type" : "double",
-                        "defaultValue" : 37.7145883049484,
-                        "interp" : "linr"
-                      },
-                      "width" : {
-                        "type" : "double",
-                        "defaultValue" : 2022.41379310345,
-                        "interp" : "linr"
-                      },
-                      "word-wrap" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
+                      "enable-ligatures" : 1.0,
+                      "fill-color-blue" : 1.0,
+                      "fill-color-green" : 1.0,
+                      "fill-color-opacity" : 1.0,
+                      "fill-color-red" : 1.0,
+                      "height" : 1241.46737511424,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 0.56078431372549,
+                      "stroke-color-green" : 0.686274509803922,
+                      "stroke-color-opacity" : 1.0,
+                      "stroke-color-red" : 0.0196078431372549,
+                      "stroke-width" : 2.0,
+                      "tail-x" : -3.44827586206901,
+                      "tail-y" : 37.7145883049484,
+                      "width" : 2022.41379310345,
+                      "word-wrap" : 1.0,
                       "fill-style" : "solid",
                       "horizontal-alignment" : "center",
                       "resize-behavior" : "resizeText",
@@ -14980,36 +14522,12 @@
                       "text" : "",
                       "vertical-alignment" : "center",
                       "font" : {
-                        "color-blue" : {
-                          "type" : "double",
-                          "defaultValue" : 0.266666666666667,
-                          "interp" : "linr"
-                        },
-                        "color-green" : {
-                          "type" : "double",
-                          "defaultValue" : 0.231372549019608,
-                          "interp" : "linr"
-                        },
-                        "color-opacity" : {
-                          "type" : "double",
-                          "defaultValue" : 1.0,
-                          "interp" : "linr"
-                        },
-                        "color-red" : {
-                          "type" : "double",
-                          "defaultValue" : 0.184313725490196,
-                          "interp" : "linr"
-                        },
-                        "size" : {
-                          "type" : "double",
-                          "defaultValue" : 64.0,
-                          "interp" : "linr"
-                        },
-                        "tracking" : {
-                          "type" : "double",
-                          "defaultValue" : 0.0,
-                          "interp" : "linr"
-                        },
+                        "color-blue" : 0.266666666666667,
+                        "color-green" : 0.231372549019608,
+                        "color-opacity" : 1.0,
+                        "color-red" : 0.184313725490196,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
                         "name" : "Montserrat",
                         "weight" : "Regular"
                       },
@@ -15032,7 +14550,6 @@
                       "translation0" : {
                         "type" : "double",
                         "defaultValue" : -2006.89655172414,
-                        "interp" : "eioe",
                         "keyframes" : [
                           {
                             "endTime" : 74,
@@ -15045,7 +14562,6 @@
                       "translation1" : {
                         "type" : "double",
                         "defaultValue" : -57.7146043611094,
-                        "interp" : "eioe",
                         "keyframes" : [
                           {
                             "endTime" : 74,
@@ -15055,46 +14571,14 @@
                           }
                         ]
                       },
-                      "sourceCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      }
+                      "sourceCrop0" : 0.0,
+                      "sourceCrop1" : 0.0,
+                      "sourceCrop2" : 0.0,
+                      "sourceCrop3" : 0.0,
+                      "geometryCrop0" : 0.0,
+                      "geometryCrop1" : 0.0,
+                      "geometryCrop2" : 0.0,
+                      "geometryCrop3" : 0.0
                     },
                     "effects" : [
 
@@ -15110,7 +14594,6 @@
                       "default-LineSpace" : 0.0,
                       "default-VAlign" : "center",
                       "default-height" : 1268.0,
-                      "default-text-attributes" : null,
                       "default-translation0" : 0.0,
                       "default-translation1" : 0.0,
                       "default-width" : 2049.0
@@ -15126,7 +14609,7 @@
                     }
                   },
                   {
-                    "id" : 205,
+                    "id" : 204,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -15226,7 +14709,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 201
+                    "leftMedia" : 200
                   },
                   {
                     "name" : "Fade",
@@ -15236,7 +14719,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 203
+                    "rightMedia" : 202
                   },
                   {
                     "name" : "Fade",
@@ -15246,7 +14729,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 203
+                    "leftMedia" : 202
                   },
                   {
                     "name" : "Fade",
@@ -15256,7 +14739,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 205
+                    "rightMedia" : 204
                   },
                   {
                     "name" : "Fade",
@@ -15266,7 +14749,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 205
+                    "leftMedia" : 204
                   }
                 ]
               },
@@ -15274,7 +14757,7 @@
                 "trackIndex" : 9,
                 "medias" : [
                   {
-                    "id" : 206,
+                    "id" : 205,
                     "_type" : "Group",
                     "parameters" : {
                       "translation0" : 39.0068226120861,
@@ -15294,9 +14777,9 @@
                         "trackIndex" : 0,
                         "medias" : [
                           {
-                            "id" : 207,
+                            "id" : 206,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : -10,
                             "attributes" : {
@@ -15353,9 +14836,9 @@
                         "trackIndex" : 1,
                         "medias" : [
                           {
-                            "id" : 208,
+                            "id" : 207,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : -10,
                             "attributes" : {
@@ -15412,9 +14895,9 @@
                         "trackIndex" : 2,
                         "medias" : [
                           {
-                            "id" : 209,
+                            "id" : 208,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : -10,
                             "attributes" : {
@@ -15471,9 +14954,9 @@
                         "trackIndex" : 3,
                         "medias" : [
                           {
-                            "id" : 210,
+                            "id" : 209,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : -10,
                             "attributes" : {
@@ -15530,9 +15013,9 @@
                         "trackIndex" : 4,
                         "medias" : [
                           {
-                            "id" : 211,
+                            "id" : 210,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : -10,
                             "attributes" : {
@@ -15589,9 +15072,9 @@
                         "trackIndex" : 5,
                         "medias" : [
                           {
-                            "id" : 212,
+                            "id" : 211,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : -10,
                             "attributes" : {
@@ -15648,9 +15131,9 @@
                         "trackIndex" : 6,
                         "medias" : [
                           {
-                            "id" : 213,
+                            "id" : 212,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : -10,
                             "attributes" : {
@@ -15707,9 +15190,9 @@
                         "trackIndex" : 7,
                         "medias" : [
                           {
-                            "id" : 214,
+                            "id" : 213,
                             "_type" : "IMFile",
-                            "src" : 14,
+                            "src" : 13,
                             "trackNumber" : 0,
                             "trimStartSum" : -10,
                             "attributes" : {
@@ -15788,7 +15271,7 @@
                     }
                   },
                   {
-                    "id" : 215,
+                    "id" : 214,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "TypeWinSVG",
@@ -15862,7 +15345,7 @@
                     }
                   },
                   {
-                    "id" : 216,
+                    "id" : 215,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -15953,7 +15436,7 @@
                     }
                   },
                   {
-                    "id" : 217,
+                    "id" : 216,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -16046,7 +15529,7 @@
                     }
                   },
                   {
-                    "id" : 218,
+                    "id" : 217,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -16150,6 +15633,26 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
+                    "rightMedia" : 215
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 215
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
                     "rightMedia" : 216
                   },
                   {
@@ -16181,26 +15684,6 @@
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
                     "leftMedia" : 217
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "rightMedia" : 218
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "leftMedia" : 218
                   }
                 ]
               },
@@ -16208,92 +15691,28 @@
                 "trackIndex" : 10,
                 "medias" : [
                   {
-                    "id" : 219,
+                    "id" : 218,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
                       "shape" : "text-rectangle",
                       "style" : "basic",
-                      "enable-ligatures" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-blue" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-green" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-opacity" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-red" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "height" : {
-                        "type" : "double",
-                        "defaultValue" : 1241.46737511424,
-                        "interp" : "linr"
-                      },
-                      "line-spacing" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-blue" : {
-                        "type" : "double",
-                        "defaultValue" : 0.56078431372549,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-green" : {
-                        "type" : "double",
-                        "defaultValue" : 0.686274509803922,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-opacity" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-red" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0196078431372549,
-                        "interp" : "linr"
-                      },
-                      "stroke-width" : {
-                        "type" : "double",
-                        "defaultValue" : 2.0,
-                        "interp" : "linr"
-                      },
-                      "tail-x" : {
-                        "type" : "double",
-                        "defaultValue" : -3.44827586206901,
-                        "interp" : "linr"
-                      },
-                      "tail-y" : {
-                        "type" : "double",
-                        "defaultValue" : 37.7145883049484,
-                        "interp" : "linr"
-                      },
-                      "width" : {
-                        "type" : "double",
-                        "defaultValue" : 2022.41379310345,
-                        "interp" : "linr"
-                      },
-                      "word-wrap" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
+                      "enable-ligatures" : 1.0,
+                      "fill-color-blue" : 1.0,
+                      "fill-color-green" : 1.0,
+                      "fill-color-opacity" : 1.0,
+                      "fill-color-red" : 1.0,
+                      "height" : 1241.46737511424,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 0.56078431372549,
+                      "stroke-color-green" : 0.686274509803922,
+                      "stroke-color-opacity" : 1.0,
+                      "stroke-color-red" : 0.0196078431372549,
+                      "stroke-width" : 2.0,
+                      "tail-x" : -3.44827586206901,
+                      "tail-y" : 37.7145883049484,
+                      "width" : 2022.41379310345,
+                      "word-wrap" : 1.0,
                       "fill-style" : "solid",
                       "horizontal-alignment" : "center",
                       "resize-behavior" : "resizeText",
@@ -16301,36 +15720,12 @@
                       "text" : "",
                       "vertical-alignment" : "center",
                       "font" : {
-                        "color-blue" : {
-                          "type" : "double",
-                          "defaultValue" : 0.266666666666667,
-                          "interp" : "linr"
-                        },
-                        "color-green" : {
-                          "type" : "double",
-                          "defaultValue" : 0.231372549019608,
-                          "interp" : "linr"
-                        },
-                        "color-opacity" : {
-                          "type" : "double",
-                          "defaultValue" : 1.0,
-                          "interp" : "linr"
-                        },
-                        "color-red" : {
-                          "type" : "double",
-                          "defaultValue" : 0.184313725490196,
-                          "interp" : "linr"
-                        },
-                        "size" : {
-                          "type" : "double",
-                          "defaultValue" : 64.0,
-                          "interp" : "linr"
-                        },
-                        "tracking" : {
-                          "type" : "double",
-                          "defaultValue" : 0.0,
-                          "interp" : "linr"
-                        },
+                        "color-blue" : 0.266666666666667,
+                        "color-green" : 0.231372549019608,
+                        "color-opacity" : 1.0,
+                        "color-red" : 0.184313725490196,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
                         "name" : "Montserrat",
                         "weight" : "Regular"
                       },
@@ -16353,7 +15748,6 @@
                       "translation0" : {
                         "type" : "double",
                         "defaultValue" : -2006.89655172414,
-                        "interp" : "eioe",
                         "keyframes" : [
                           {
                             "endTime" : 74,
@@ -16366,7 +15760,6 @@
                       "translation1" : {
                         "type" : "double",
                         "defaultValue" : -57.7146043611094,
-                        "interp" : "eioe",
                         "keyframes" : [
                           {
                             "endTime" : 74,
@@ -16376,46 +15769,14 @@
                           }
                         ]
                       },
-                      "sourceCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      }
+                      "sourceCrop0" : 0.0,
+                      "sourceCrop1" : 0.0,
+                      "sourceCrop2" : 0.0,
+                      "sourceCrop3" : 0.0,
+                      "geometryCrop0" : 0.0,
+                      "geometryCrop1" : 0.0,
+                      "geometryCrop2" : 0.0,
+                      "geometryCrop3" : 0.0
                     },
                     "effects" : [
 
@@ -16431,7 +15792,6 @@
                       "default-LineSpace" : 0.0,
                       "default-VAlign" : "center",
                       "default-height" : 1268.0,
-                      "default-text-attributes" : null,
                       "default-translation0" : 0.0,
                       "default-translation1" : 0.0,
                       "default-width" : 2049.0
@@ -16447,7 +15807,7 @@
                     }
                   },
                   {
-                    "id" : 220,
+                    "id" : 219,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -16537,7 +15897,7 @@
                     }
                   },
                   {
-                    "id" : 221,
+                    "id" : 220,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -16628,7 +15988,7 @@
                     }
                   },
                   {
-                    "id" : 222,
+                    "id" : 221,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -16721,7 +16081,7 @@
                     }
                   },
                   {
-                    "id" : 223,
+                    "id" : 222,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -16820,6 +16180,26 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
+                    "rightMedia" : 220
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 220
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
                     "rightMedia" : 221
                   },
                   {
@@ -16851,26 +16231,6 @@
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
                     "leftMedia" : 222
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "rightMedia" : 223
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "leftMedia" : 223
                   }
                 ]
               },
@@ -16878,7 +16238,7 @@
                 "trackIndex" : 11,
                 "medias" : [
                   {
-                    "id" : 224,
+                    "id" : 223,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "TypeWinSVG",
@@ -16952,7 +16312,7 @@
                     }
                   },
                   {
-                    "id" : 225,
+                    "id" : 224,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -17043,7 +16403,7 @@
                     }
                   },
                   {
-                    "id" : 226,
+                    "id" : 225,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -17136,7 +16496,7 @@
                     }
                   },
                   {
-                    "id" : 227,
+                    "id" : 226,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -17235,6 +16595,26 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
+                    "rightMedia" : 224
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 224
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
                     "rightMedia" : 225
                   },
                   {
@@ -17266,26 +16646,6 @@
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
                     "leftMedia" : 226
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "rightMedia" : 227
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "leftMedia" : 227
                   }
                 ]
               },
@@ -17293,7 +16653,7 @@
                 "trackIndex" : 12,
                 "medias" : [
                   {
-                    "id" : 228,
+                    "id" : 227,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -17383,7 +16743,7 @@
                     }
                   },
                   {
-                    "id" : 229,
+                    "id" : 228,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -17473,7 +16833,7 @@
                     }
                   },
                   {
-                    "id" : 230,
+                    "id" : 229,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -17575,6 +16935,26 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
+                    "rightMedia" : 228
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 228
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
                     "rightMedia" : 229
                   },
                   {
@@ -17586,26 +16966,6 @@
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
                     "leftMedia" : 229
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "rightMedia" : 230
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "leftMedia" : 230
                   }
                 ]
               },
@@ -17613,92 +16973,28 @@
                 "trackIndex" : 13,
                 "medias" : [
                   {
-                    "id" : 231,
+                    "id" : 230,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
                       "shape" : "text-rectangle",
                       "style" : "basic",
-                      "enable-ligatures" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-blue" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-green" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-opacity" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-red" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "height" : {
-                        "type" : "double",
-                        "defaultValue" : 1241.46737511424,
-                        "interp" : "linr"
-                      },
-                      "line-spacing" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-blue" : {
-                        "type" : "double",
-                        "defaultValue" : 0.56078431372549,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-green" : {
-                        "type" : "double",
-                        "defaultValue" : 0.686274509803922,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-opacity" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-red" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0196078431372549,
-                        "interp" : "linr"
-                      },
-                      "stroke-width" : {
-                        "type" : "double",
-                        "defaultValue" : 2.0,
-                        "interp" : "linr"
-                      },
-                      "tail-x" : {
-                        "type" : "double",
-                        "defaultValue" : -3.44827586206901,
-                        "interp" : "linr"
-                      },
-                      "tail-y" : {
-                        "type" : "double",
-                        "defaultValue" : 37.7145883049484,
-                        "interp" : "linr"
-                      },
-                      "width" : {
-                        "type" : "double",
-                        "defaultValue" : 2022.41379310345,
-                        "interp" : "linr"
-                      },
-                      "word-wrap" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
+                      "enable-ligatures" : 1.0,
+                      "fill-color-blue" : 1.0,
+                      "fill-color-green" : 1.0,
+                      "fill-color-opacity" : 1.0,
+                      "fill-color-red" : 1.0,
+                      "height" : 1241.46737511424,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 0.56078431372549,
+                      "stroke-color-green" : 0.686274509803922,
+                      "stroke-color-opacity" : 1.0,
+                      "stroke-color-red" : 0.0196078431372549,
+                      "stroke-width" : 2.0,
+                      "tail-x" : -3.44827586206901,
+                      "tail-y" : 37.7145883049484,
+                      "width" : 2022.41379310345,
+                      "word-wrap" : 1.0,
                       "fill-style" : "solid",
                       "horizontal-alignment" : "center",
                       "resize-behavior" : "resizeText",
@@ -17706,36 +17002,12 @@
                       "text" : "",
                       "vertical-alignment" : "center",
                       "font" : {
-                        "color-blue" : {
-                          "type" : "double",
-                          "defaultValue" : 0.266666666666667,
-                          "interp" : "linr"
-                        },
-                        "color-green" : {
-                          "type" : "double",
-                          "defaultValue" : 0.231372549019608,
-                          "interp" : "linr"
-                        },
-                        "color-opacity" : {
-                          "type" : "double",
-                          "defaultValue" : 1.0,
-                          "interp" : "linr"
-                        },
-                        "color-red" : {
-                          "type" : "double",
-                          "defaultValue" : 0.184313725490196,
-                          "interp" : "linr"
-                        },
-                        "size" : {
-                          "type" : "double",
-                          "defaultValue" : 64.0,
-                          "interp" : "linr"
-                        },
-                        "tracking" : {
-                          "type" : "double",
-                          "defaultValue" : 0.0,
-                          "interp" : "linr"
-                        },
+                        "color-blue" : 0.266666666666667,
+                        "color-green" : 0.231372549019608,
+                        "color-opacity" : 1.0,
+                        "color-red" : 0.184313725490196,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
                         "name" : "Montserrat",
                         "weight" : "Regular"
                       },
@@ -17758,7 +17030,6 @@
                       "translation0" : {
                         "type" : "double",
                         "defaultValue" : -2006.89655172414,
-                        "interp" : "eioe",
                         "keyframes" : [
                           {
                             "endTime" : 74,
@@ -17771,7 +17042,6 @@
                       "translation1" : {
                         "type" : "double",
                         "defaultValue" : -57.7146043611094,
-                        "interp" : "eioe",
                         "keyframes" : [
                           {
                             "endTime" : 74,
@@ -17781,46 +17051,14 @@
                           }
                         ]
                       },
-                      "sourceCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      }
+                      "sourceCrop0" : 0.0,
+                      "sourceCrop1" : 0.0,
+                      "sourceCrop2" : 0.0,
+                      "sourceCrop3" : 0.0,
+                      "geometryCrop0" : 0.0,
+                      "geometryCrop1" : 0.0,
+                      "geometryCrop2" : 0.0,
+                      "geometryCrop3" : 0.0
                     },
                     "effects" : [
 
@@ -17836,7 +17074,6 @@
                       "default-LineSpace" : 0.0,
                       "default-VAlign" : "center",
                       "default-height" : 1268.0,
-                      "default-text-attributes" : null,
                       "default-translation0" : 0.0,
                       "default-translation1" : 0.0,
                       "default-width" : 2049.0
@@ -17852,7 +17089,7 @@
                     }
                   },
                   {
-                    "id" : 232,
+                    "id" : 231,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -17942,7 +17179,7 @@
                     }
                   },
                   {
-                    "id" : 233,
+                    "id" : 232,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -18044,6 +17281,26 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
+                    "rightMedia" : 231
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 231
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
                     "rightMedia" : 232
                   },
                   {
@@ -18055,26 +17312,6 @@
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
                     "leftMedia" : 232
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "rightMedia" : 233
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "leftMedia" : 233
                   }
                 ]
               },
@@ -18082,7 +17319,7 @@
                 "trackIndex" : 14,
                 "medias" : [
                   {
-                    "id" : 234,
+                    "id" : 233,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -18173,7 +17410,7 @@
                     }
                   },
                   {
-                    "id" : 235,
+                    "id" : 234,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -18275,6 +17512,26 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
+                    "rightMedia" : 233
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 233
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
                     "rightMedia" : 234
                   },
                   {
@@ -18286,26 +17543,6 @@
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
                     "leftMedia" : 234
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "rightMedia" : 235
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "leftMedia" : 235
                   }
                 ]
               },
@@ -18313,7 +17550,7 @@
                 "trackIndex" : 15,
                 "medias" : [
                   {
-                    "id" : 236,
+                    "id" : 235,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -18403,7 +17640,7 @@
                     }
                   },
                   {
-                    "id" : 237,
+                    "id" : 236,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -18505,6 +17742,26 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
+                    "rightMedia" : 235
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 235
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
                     "rightMedia" : 236
                   },
                   {
@@ -18516,26 +17773,6 @@
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
                     "leftMedia" : 236
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "rightMedia" : 237
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "leftMedia" : 237
                   }
                 ]
               },
@@ -18543,7 +17780,7 @@
                 "trackIndex" : 16,
                 "medias" : [
                   {
-                    "id" : 238,
+                    "id" : 237,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -18645,7 +17882,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 238
+                    "rightMedia" : 237
                   },
                   {
                     "name" : "Fade",
@@ -18655,7 +17892,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 238
+                    "leftMedia" : 237
                   }
                 ]
               },
@@ -18663,7 +17900,7 @@
                 "trackIndex" : 17,
                 "medias" : [
                   {
-                    "id" : 239,
+                    "id" : 238,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -18765,7 +18002,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 239
+                    "rightMedia" : 238
                   },
                   {
                     "name" : "Fade",
@@ -18775,7 +18012,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 239
+                    "leftMedia" : 238
                   }
                 ]
               },
@@ -18783,7 +18020,7 @@
                 "trackIndex" : 18,
                 "medias" : [
                   {
-                    "id" : 240,
+                    "id" : 239,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -18885,7 +18122,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 240
+                    "rightMedia" : 239
                   },
                   {
                     "name" : "Fade",
@@ -18895,7 +18132,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 240
+                    "leftMedia" : 239
                   }
                 ]
               },
@@ -18903,7 +18140,7 @@
                 "trackIndex" : 19,
                 "medias" : [
                   {
-                    "id" : 241,
+                    "id" : 240,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -19005,7 +18242,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 241
+                    "rightMedia" : 240
                   },
                   {
                     "name" : "Fade",
@@ -19015,7 +18252,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 241
+                    "leftMedia" : 240
                   }
                 ]
               },
@@ -19023,7 +18260,7 @@
                 "trackIndex" : 20,
                 "medias" : [
                   {
-                    "id" : 242,
+                    "id" : 241,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -19125,7 +18362,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 242
+                    "rightMedia" : 241
                   },
                   {
                     "name" : "Fade",
@@ -19135,7 +18372,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 242
+                    "leftMedia" : 241
                   }
                 ]
               },
@@ -19143,7 +18380,7 @@
                 "trackIndex" : 21,
                 "medias" : [
                   {
-                    "id" : 243,
+                    "id" : 242,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -19245,7 +18482,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 243
+                    "rightMedia" : 242
                   },
                   {
                     "name" : "Fade",
@@ -19255,7 +18492,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 243
+                    "leftMedia" : 242
                   }
                 ]
               }            ]
