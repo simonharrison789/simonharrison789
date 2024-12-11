@@ -699,10 +699,106 @@
       "metadata" : {
         "timeAdded" : "20241211T100852.937517"
       }
+    },
+    {
+      "id" : 29,
+      "src" : "C:\\git\\simonharrison789\\videos\\rings\\rings.png",
+      "rect" : [0, 0, 177, 177],
+      "lastMod" : "20241211T091138",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 177, 177],
+          "sampleRate" : 0,
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20241211T102859.851380"
+      }
+    },
+    {
+      "id" : 30,
+      "src" : "C:\\git\\simonharrison789\\videos\\rings\\no.png",
+      "rect" : [0, 0, 174, 146],
+      "lastMod" : "20241211T091138",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 174, 146],
+          "sampleRate" : 0,
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20241211T103218.177548"
+      }
+    },
+    {
+      "id" : 31,
+      "src" : "C:\\git\\simonharrison789\\videos\\rings\\simplified-patch.png",
+      "rect" : [0, 0, 170, 171],
+      "lastMod" : "20241211T091139",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 170, 171],
+          "sampleRate" : 0,
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20241211T103218.186539"
+      }
+    },
+    {
+      "id" : 32,
+      "src" : "C:\\git\\simonharrison789\\videos\\rings\\yes.png",
+      "rect" : [0, 0, 174, 146],
+      "lastMod" : "20241211T091139",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 174, 146],
+          "sampleRate" : 0,
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20241211T103218.194533"
+      }
     }
   ],
   "timeline" : {
-    "id" : 29,
+    "id" : 33,
     "sceneTrack" : {
       "scenes" : [
         {
@@ -712,7 +808,7 @@
                 "trackIndex" : 0,
                 "medias" : [
                   {
-                    "id" : 30,
+                    "id" : 34,
                     "_type" : "AMFile",
                     "src" : 1,
                     "trackNumber" : 0,
@@ -739,7 +835,7 @@
                     }
                   },
                   {
-                    "id" : 31,
+                    "id" : 35,
                     "_type" : "AMFile",
                     "src" : 2,
                     "trackNumber" : 0,
@@ -766,7 +862,7 @@
                     }
                   },
                   {
-                    "id" : 32,
+                    "id" : 36,
                     "_type" : "AMFile",
                     "src" : 3,
                     "trackNumber" : 0,
@@ -793,7 +889,7 @@
                     }
                   },
                   {
-                    "id" : 33,
+                    "id" : 37,
                     "_type" : "AMFile",
                     "src" : 3,
                     "trackNumber" : 0,
@@ -820,7 +916,7 @@
                     }
                   },
                   {
-                    "id" : 34,
+                    "id" : 38,
                     "_type" : "AMFile",
                     "src" : 4,
                     "trackNumber" : 0,
@@ -847,7 +943,7 @@
                     }
                   },
                   {
-                    "id" : 35,
+                    "id" : 39,
                     "_type" : "AMFile",
                     "src" : 5,
                     "trackNumber" : 0,
@@ -874,7 +970,7 @@
                     }
                   },
                   {
-                    "id" : 36,
+                    "id" : 40,
                     "_type" : "AMFile",
                     "src" : 6,
                     "trackNumber" : 0,
@@ -901,7 +997,7 @@
                     }
                   },
                   {
-                    "id" : 37,
+                    "id" : 41,
                     "_type" : "AMFile",
                     "src" : 7,
                     "trackNumber" : 0,
@@ -953,7 +1049,7 @@
                     }
                   },
                   {
-                    "id" : 38,
+                    "id" : 42,
                     "_type" : "AMFile",
                     "src" : 8,
                     "trackNumber" : 0,
@@ -1017,7 +1113,7 @@
                     }
                   },
                   {
-                    "id" : 39,
+                    "id" : 43,
                     "_type" : "AMFile",
                     "src" : 24,
                     "trackNumber" : 0,
@@ -1044,7 +1140,7 @@
                     }
                   },
                   {
-                    "id" : 40,
+                    "id" : 44,
                     "_type" : "AMFile",
                     "src" : 23,
                     "trackNumber" : 0,
@@ -1071,7 +1167,7 @@
                     }
                   },
                   {
-                    "id" : 41,
+                    "id" : 45,
                     "_type" : "AMFile",
                     "src" : 9,
                     "trackNumber" : 0,
@@ -1098,7 +1194,7 @@
                     }
                   },
                   {
-                    "id" : 42,
+                    "id" : 46,
                     "_type" : "AMFile",
                     "src" : 9,
                     "trackNumber" : 0,
@@ -1130,7 +1226,7 @@
                 "trackIndex" : 1,
                 "medias" : [
                   {
-                    "id" : 43,
+                    "id" : 47,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -1365,7 +1461,7 @@
                     }
                   },
                   {
-                    "id" : 44,
+                    "id" : 48,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -1600,7 +1696,7 @@
                     }
                   },
                   {
-                    "id" : 45,
+                    "id" : 49,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -1744,7 +1840,7 @@
                     }
                   },
                   {
-                    "id" : 46,
+                    "id" : 50,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -1979,11 +2075,11 @@
                     }
                   },
                   {
-                    "id" : 47,
+                    "id" : 51,
                     "_type" : "UnifiedMedia",
                     "video" : 
                         {
-                          "id" : 48,
+                          "id" : 52,
                           "_type" : "ScreenVMFile",
                           "src" : 16,
                           "trackNumber" : 0,
@@ -2076,7 +2172,7 @@
                         },
                     "audio" : 
                         {
-                          "id" : 49,
+                          "id" : 53,
                           "_type" : "AMFile",
                           "src" : 16,
                           "trackNumber" : 1,
@@ -2146,7 +2242,7 @@
                     }
                   },
                   {
-                    "id" : 50,
+                    "id" : 54,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -2381,11 +2477,11 @@
                     }
                   },
                   {
-                    "id" : 51,
+                    "id" : 55,
                     "_type" : "UnifiedMedia",
                     "video" : 
                         {
-                          "id" : 52,
+                          "id" : 56,
                           "_type" : "ScreenVMFile",
                           "src" : 16,
                           "trackNumber" : 0,
@@ -2478,7 +2574,7 @@
                         },
                     "audio" : 
                         {
-                          "id" : 53,
+                          "id" : 57,
                           "_type" : "AMFile",
                           "src" : 16,
                           "trackNumber" : 1,
@@ -2517,7 +2613,7 @@
                     }
                   },
                   {
-                    "id" : 54,
+                    "id" : 58,
                     "_type" : "ScreenVMFile",
                     "src" : 16,
                     "trackNumber" : 0,
@@ -2613,7 +2709,7 @@
                     }
                   },
                   {
-                    "id" : 55,
+                    "id" : 59,
                     "_type" : "ScreenVMFile",
                     "src" : 16,
                     "trackNumber" : 0,
@@ -2709,7 +2805,7 @@
                     }
                   },
                   {
-                    "id" : 56,
+                    "id" : 60,
                     "_type" : "ScreenVMFile",
                     "src" : 16,
                     "trackNumber" : 0,
@@ -2805,11 +2901,11 @@
                     }
                   },
                   {
-                    "id" : 57,
+                    "id" : 61,
                     "_type" : "UnifiedMedia",
                     "video" : 
                         {
-                          "id" : 58,
+                          "id" : 62,
                           "_type" : "ScreenVMFile",
                           "src" : 16,
                           "trackNumber" : 0,
@@ -2902,7 +2998,7 @@
                         },
                     "audio" : 
                         {
-                          "id" : 59,
+                          "id" : 63,
                           "_type" : "AMFile",
                           "src" : 16,
                           "trackNumber" : 1,
@@ -2978,11 +3074,11 @@
                     }
                   },
                   {
-                    "id" : 60,
+                    "id" : 64,
                     "_type" : "UnifiedMedia",
                     "video" : 
                         {
-                          "id" : 61,
+                          "id" : 65,
                           "_type" : "ScreenVMFile",
                           "src" : 16,
                           "trackNumber" : 0,
@@ -3075,7 +3171,7 @@
                         },
                     "audio" : 
                         {
-                          "id" : 62,
+                          "id" : 66,
                           "_type" : "AMFile",
                           "src" : 16,
                           "trackNumber" : 1,
@@ -3151,11 +3247,11 @@
                     }
                   },
                   {
-                    "id" : 63,
+                    "id" : 67,
                     "_type" : "UnifiedMedia",
                     "video" : 
                         {
-                          "id" : 64,
+                          "id" : 68,
                           "_type" : "ScreenVMFile",
                           "src" : 16,
                           "trackNumber" : 0,
@@ -3248,7 +3344,7 @@
                         },
                     "audio" : 
                         {
-                          "id" : 65,
+                          "id" : 69,
                           "_type" : "AMFile",
                           "src" : 16,
                           "trackNumber" : 1,
@@ -3324,7 +3420,7 @@
                     }
                   },
                   {
-                    "id" : 66,
+                    "id" : 70,
                     "_type" : "IMFile",
                     "src" : 22,
                     "trackNumber" : 0,
@@ -3363,7 +3459,7 @@
                     }
                   },
                   {
-                    "id" : 67,
+                    "id" : 71,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -3607,7 +3703,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 44
+                    "leftMedia" : 48
                   },
                   {
                     "name" : "Fade",
@@ -3617,7 +3713,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 45
+                    "rightMedia" : 49
                   }
                 ]
               },
@@ -3625,7 +3721,7 @@
                 "trackIndex" : 2,
                 "medias" : [
                   {
-                    "id" : 68,
+                    "id" : 72,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -3643,9 +3739,9 @@
                       "stroke-color-opacity" : 0.0,
                       "stroke-color-red" : 0.847058823529412,
                       "stroke-width" : 0.0,
-                      "tail-x" : -329.242424242424,
+                      "tail-x" : 1.83865683865719,
                       "tail-y" : -20.0,
-                      "width" : 1550.71515151515,
+                      "width" : 888.552989352988,
                       "word-wrap" : 1.0,
                       "fill-style" : "solid",
                       "horizontal-alignment" : "left",
@@ -3679,8 +3775,8 @@
                       "autoRotateText" : true
                     },
                     "parameters" : {
-                      "translation0" : 9.9475983006414e-14,
-                      "translation1" : 279.511587610654,
+                      "translation0" : -22.9729729729729,
+                      "translation1" : 65.9980740971404,
                       "sourceCrop0" : 0.0,
                       "sourceCrop1" : 0.0,
                       "sourceCrop2" : 0.0,
@@ -3720,7 +3816,7 @@
                     }
                   },
                   {
-                    "id" : 69,
+                    "id" : 73,
                     "_type" : "Group",
                     "parameters" : {
                       "translation0" : 116.506822612086,
@@ -3740,7 +3836,7 @@
                         "trackIndex" : 0,
                         "medias" : [
                           {
-                            "id" : 70,
+                            "id" : 74,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -3799,7 +3895,7 @@
                         "trackIndex" : 1,
                         "medias" : [
                           {
-                            "id" : 71,
+                            "id" : 75,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -3858,7 +3954,7 @@
                         "trackIndex" : 2,
                         "medias" : [
                           {
-                            "id" : 72,
+                            "id" : 76,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -3902,7 +3998,7 @@
                             }
                           },
                           {
-                            "id" : 73,
+                            "id" : 77,
                             "_type" : "IMFile",
                             "src" : 10,
                             "trackNumber" : 0,
@@ -3961,7 +4057,7 @@
                         "trackIndex" : 3,
                         "medias" : [
                           {
-                            "id" : 74,
+                            "id" : 78,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -4005,7 +4101,7 @@
                             }
                           },
                           {
-                            "id" : 75,
+                            "id" : 79,
                             "_type" : "IMFile",
                             "src" : 10,
                             "trackNumber" : 0,
@@ -4064,7 +4160,7 @@
                         "trackIndex" : 4,
                         "medias" : [
                           {
-                            "id" : 76,
+                            "id" : 80,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -4123,7 +4219,7 @@
                         "trackIndex" : 5,
                         "medias" : [
                           {
-                            "id" : 77,
+                            "id" : 81,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -4182,7 +4278,7 @@
                         "trackIndex" : 6,
                         "medias" : [
                           {
-                            "id" : 78,
+                            "id" : 82,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -4241,7 +4337,7 @@
                         "trackIndex" : 7,
                         "medias" : [
                           {
-                            "id" : 79,
+                            "id" : 83,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -4300,7 +4396,7 @@
                         "trackIndex" : 8,
                         "medias" : [
                           {
-                            "id" : 80,
+                            "id" : 84,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -4359,7 +4455,7 @@
                         "trackIndex" : 9,
                         "medias" : [
                           {
-                            "id" : 81,
+                            "id" : 85,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -4418,7 +4514,7 @@
                         "trackIndex" : 10,
                         "medias" : [
                           {
-                            "id" : 82,
+                            "id" : 86,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -4477,7 +4573,7 @@
                         "trackIndex" : 11,
                         "medias" : [
                           {
-                            "id" : 83,
+                            "id" : 87,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -4536,7 +4632,7 @@
                         "trackIndex" : 12,
                         "medias" : [
                           {
-                            "id" : 84,
+                            "id" : 88,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -4595,7 +4691,7 @@
                         "trackIndex" : 13,
                         "medias" : [
                           {
-                            "id" : 85,
+                            "id" : 89,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -4654,7 +4750,7 @@
                         "trackIndex" : 14,
                         "medias" : [
                           {
-                            "id" : 86,
+                            "id" : 90,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -4698,7 +4794,7 @@
                             }
                           },
                           {
-                            "id" : 87,
+                            "id" : 91,
                             "_type" : "IMFile",
                             "src" : 10,
                             "trackNumber" : 0,
@@ -4757,7 +4853,7 @@
                         "trackIndex" : 15,
                         "medias" : [
                           {
-                            "id" : 88,
+                            "id" : 92,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -4816,7 +4912,7 @@
                         "trackIndex" : 16,
                         "medias" : [
                           {
-                            "id" : 89,
+                            "id" : 93,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -4860,7 +4956,7 @@
                             }
                           },
                           {
-                            "id" : 90,
+                            "id" : 94,
                             "_type" : "IMFile",
                             "src" : 10,
                             "trackNumber" : 0,
@@ -4919,7 +5015,7 @@
                         "trackIndex" : 17,
                         "medias" : [
                           {
-                            "id" : 91,
+                            "id" : 95,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -4978,7 +5074,7 @@
                         "trackIndex" : 18,
                         "medias" : [
                           {
-                            "id" : 92,
+                            "id" : 96,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -5037,7 +5133,7 @@
                         "trackIndex" : 19,
                         "medias" : [
                           {
-                            "id" : 93,
+                            "id" : 97,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -5096,7 +5192,7 @@
                         "trackIndex" : 20,
                         "medias" : [
                           {
-                            "id" : 94,
+                            "id" : 98,
                             "_type" : "IMFile",
                             "src" : 12,
                             "trackNumber" : 0,
@@ -5151,7 +5247,7 @@
                         "trackIndex" : 21,
                         "medias" : [
                           {
-                            "id" : 95,
+                            "id" : 99,
                             "_type" : "IMFile",
                             "src" : 12,
                             "trackNumber" : 0,
@@ -5207,7 +5303,7 @@
                         "trackIndex" : 22,
                         "medias" : [
                           {
-                            "id" : 96,
+                            "id" : 100,
                             "_type" : "IMFile",
                             "src" : 12,
                             "trackNumber" : 0,
@@ -5262,7 +5358,7 @@
                         "trackIndex" : 23,
                         "medias" : [
                           {
-                            "id" : 97,
+                            "id" : 101,
                             "_type" : "IMFile",
                             "src" : 12,
                             "trackNumber" : 0,
@@ -5339,7 +5435,7 @@
                     }
                   },
                   {
-                    "id" : 98,
+                    "id" : 102,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -5396,7 +5492,7 @@
                     }
                   },
                   {
-                    "id" : 99,
+                    "id" : 103,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -5414,9 +5510,9 @@
                       "stroke-color-opacity" : 0.0,
                       "stroke-color-red" : 0.847058823529412,
                       "stroke-width" : 0.0,
-                      "tail-x" : -329.242424242424,
+                      "tail-x" : -491.404586404586,
                       "tail-y" : -20.0,
-                      "width" : 1550.71515151515,
+                      "width" : 1226.39082719083,
                       "word-wrap" : 1.0,
                       "fill-style" : "solid",
                       "horizontal-alignment" : "left",
@@ -5450,8 +5546,8 @@
                       "autoRotateText" : true
                     },
                     "parameters" : {
-                      "translation0" : 9.9475983006414e-14,
-                      "translation1" : 279.511587610654,
+                      "translation0" : 89.1891891891894,
+                      "translation1" : 79.9999999999999,
                       "sourceCrop0" : 0.0,
                       "sourceCrop1" : 0.0,
                       "sourceCrop2" : 0.0,
@@ -5491,7 +5587,7 @@
                     }
                   },
                   {
-                    "id" : 100,
+                    "id" : 104,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -5681,7 +5777,7 @@
                     }
                   },
                   {
-                    "id" : 101,
+                    "id" : 105,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -5707,7 +5803,7 @@
                       "horizontal-alignment" : "left",
                       "resize-behavior" : "resizeText",
                       "stroke-style" : "solid",
-                      "text" : "automatic only if success criteria are met",
+                      "text" : "Automatic only if success criteria are met",
                       "vertical-alignment" : "center",
                       "font" : {
                         "color-blue" : 0.266666666666667,
@@ -5725,7 +5821,7 @@
                           {
                             "endTime" : 0,
                             "time" : 0,
-                            "value" : [{"name":"fgColor","rangeEnd":42,"rangeStart":0,"value":"(35,40,47,255)","valueType":"color"},{"name":"fontSize","rangeEnd":42,"rangeStart":0,"value":80,"valueType":"double"},{"name":"kerning","rangeEnd":42,"rangeStart":0,"value":0,"valueType":"double"},{"name":"underline","rangeEnd":42,"rangeStart":0,"value":0,"valueType":"int"},{"name":"strikethrough","rangeEnd":42,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontWeight","rangeEnd":42,"rangeStart":0,"value":400,"valueType":"int"},{"name":"fontItalic","rangeEnd":42,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontName","rangeEnd":42,"rangeStart":0,"value":"Faktum Medium","valueType":"string"}],
+                            "value" : [{"name":"fontWeight","rangeEnd":42,"rangeStart":0,"value":400,"valueType":"int"},{"name":"fgColor","rangeEnd":42,"rangeStart":0,"value":"(35,40,47,255)","valueType":"color"},{"name":"underline","rangeEnd":42,"rangeStart":0,"value":0,"valueType":"int"},{"name":"strikethrough","rangeEnd":42,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":42,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fontItalic","rangeEnd":42,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":42,"rangeStart":0,"value":75,"valueType":"double"},{"name":"fontName","rangeEnd":42,"rangeStart":0,"value":"???????","valueType":"string"}],
                             "duration" : 0
                           }
                         ]
@@ -5735,7 +5831,7 @@
                       "autoRotateText" : true
                     },
                     "parameters" : {
-                      "translation0" : 93.1804991604545,
+                      "translation0" : 117.504823484779,
                       "translation1" : 279.511587610654,
                       "sourceCrop0" : 0.0,
                       "sourceCrop1" : 0.0,
@@ -5776,7 +5872,7 @@
                     }
                   },
                   {
-                    "id" : 102,
+                    "id" : 106,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -5871,7 +5967,7 @@
                     }
                   },
                   {
-                    "id" : 103,
+                    "id" : 107,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -5966,7 +6062,7 @@
                     }
                   },
                   {
-                    "id" : 104,
+                    "id" : 108,
                     "_type" : "IMFile",
                     "src" : 17,
                     "trackNumber" : 0,
@@ -6010,7 +6106,7 @@
                     }
                   },
                   {
-                    "id" : 105,
+                    "id" : 109,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -6105,7 +6201,7 @@
                     }
                   },
                   {
-                    "id" : 106,
+                    "id" : 110,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -6160,7 +6256,7 @@
                     },
                     "parameters" : {
                       "translation0" : 620.788154662847,
-                      "translation1" : 88.2605450333879,
+                      "translation1" : 58.5308153036582,
                       "sourceCrop0" : 0.0,
                       "sourceCrop1" : 0.0,
                       "sourceCrop2" : 0.0,
@@ -6200,7 +6296,7 @@
                     }
                   },
                   {
-                    "id" : 107,
+                    "id" : 111,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -6293,7 +6389,7 @@
                     }
                   },
                   {
-                    "id" : 108,
+                    "id" : 112,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -6348,7 +6444,7 @@
                     },
                     "parameters" : {
                       "translation0" : 620.788154662847,
-                      "translation1" : 88.2605450333879,
+                      "translation1" : -19.8475630747202,
                       "sourceCrop0" : 0.0,
                       "sourceCrop1" : 0.0,
                       "sourceCrop2" : 0.0,
@@ -6388,7 +6484,7 @@
                     }
                   },
                   {
-                    "id" : 109,
+                    "id" : 113,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -6620,67 +6716,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 68
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "rightMedia" : 99
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "leftMedia" : 99
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "rightMedia" : 100
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "rightMedia" : 101
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "rightMedia" : 102
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "leftMedia" : 102
+                    "rightMedia" : 72
                   },
                   {
                     "name" : "Fade",
@@ -6691,6 +6727,16 @@
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
                     "rightMedia" : 103
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 103
                   },
                   {
                     "name" : "Fade",
@@ -6711,16 +6757,6 @@
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
                     "rightMedia" : 105
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "leftMedia" : 105
                   },
                   {
                     "name" : "Fade",
@@ -6760,16 +6796,6 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 107
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
                     "rightMedia" : 108
                   },
                   {
@@ -6781,6 +6807,76 @@
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
                     "rightMedia" : 109
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 109
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 110
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 110
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 111
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 111
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 112
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 113
                   }
                 ]
               },
@@ -6788,123 +6884,87 @@
                 "trackIndex" : 3,
                 "medias" : [
                   {
-                    "id" : 110,
-                    "_type" : "Callout",
-                    "def" : {
-                      "kind" : "remix",
-                      "shape" : "text-rectangle",
-                      "style" : "basic",
-                      "enable-ligatures" : 1.0,
-                      "fill-color-blue" : 1.0,
-                      "fill-color-green" : 1.0,
-                      "fill-color-opacity" : 1.0,
-                      "fill-color-red" : 1.0,
-                      "height" : 1241.46737511424,
-                      "line-spacing" : 0.0,
-                      "stroke-color-blue" : 0.56078431372549,
-                      "stroke-color-green" : 0.686274509803922,
-                      "stroke-color-opacity" : 1.0,
-                      "stroke-color-red" : 0.0196078431372549,
-                      "stroke-width" : 2.0,
-                      "tail-x" : -3.44827586206901,
-                      "tail-y" : 37.7145883049484,
-                      "width" : 2022.41379310345,
-                      "word-wrap" : 1.0,
-                      "fill-style" : "solid",
-                      "horizontal-alignment" : "center",
-                      "resize-behavior" : "resizeText",
-                      "stroke-style" : "solid",
-                      "text" : "",
-                      "vertical-alignment" : "center",
-                      "font" : {
-                        "color-blue" : 0.266666666666667,
-                        "color-green" : 0.231372549019608,
-                        "color-opacity" : 1.0,
-                        "color-red" : 0.184313725490196,
-                        "size" : 64.0,
-                        "tracking" : 0.0,
-                        "name" : "Montserrat",
-                        "weight" : "Regular"
-                      },
-                      "textAttributes" : {
-                        "type" : "textAttributeList",
-                        "keyframes" : [
-                          {
-                            "endTime" : 0,
-                            "time" : 0,
-                            "value" : [{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"},{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(47,59,68,255)","valueType":"color"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"}],
-                            "duration" : 0
-                          }
-                        ]
-                      }
-                    },
+                    "id" : 114,
+                    "_type" : "IMFile",
+                    "src" : 29,
+                    "trackNumber" : 0,
+                    "trimStartSum" : -3,
                     "attributes" : {
-                      "autoRotateText" : true
+                      "ident" : "rings"
                     },
                     "parameters" : {
                       "translation0" : {
                         "type" : "double",
-                        "defaultValue" : -2006.89655172414,
-                        "keyframes" : [
-                          {
-                            "endTime" : 74,
-                            "time" : 3,
-                            "value" : 2050.0,
-                            "duration" : 71
-                          }
-                        ]
+                        "defaultValue" : -611.310810810811,
+                        "interp" : "eioe"
                       },
                       "translation1" : {
                         "type" : "double",
-                        "defaultValue" : -57.7146043611094,
-                        "keyframes" : [
-                          {
-                            "endTime" : 74,
-                            "time" : 3,
-                            "value" : -1.59872115546023e-14,
-                            "duration" : 71
-                          }
-                        ]
+                        "defaultValue" : 53.4980740971404,
+                        "interp" : "eioe"
                       },
-                      "sourceCrop0" : 0.0,
-                      "sourceCrop1" : 0.0,
-                      "sourceCrop2" : 0.0,
-                      "sourceCrop3" : 0.0,
-                      "geometryCrop0" : 0.0,
-                      "geometryCrop1" : 0.0,
-                      "geometryCrop2" : 0.0,
-                      "geometryCrop3" : 0.0
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
                     },
                     "effects" : [
 
                     ],
-                    "start" : 162,
-                    "duration" : 75,
+                    "start" : 84,
+                    "duration" : 116,
                     "mediaStart" : 0,
-                    "mediaDuration" : 75,
+                    "mediaDuration" : 1,
                     "scalar" : 1,
                     "metadata" : {
                       "clipSpeedAttribute" : false,
-                      "default-HAlign" : "center",
-                      "default-LineSpace" : 0.0,
-                      "default-VAlign" : "center",
-                      "default-height" : 1268.0,
-                      "default-translation0" : 0.0,
-                      "default-translation1" : 0.0,
-                      "default-width" : 2049.0
+                      "default-height" : 177.0,
+                      "default-translation0" : -0.5,
+                      "default-translation1" : -0.5,
+                      "default-width" : 177.0
                     },
                     "animationTracks" : {
-                      "visual" : [
-                        {
-                          "endTime" : 74,
-                          "duration" : 71,
-                          "range" : [ 3, 71]
-                        }
-                      ]
+
                     }
                   },
                   {
-                    "id" : 111,
+                    "id" : 115,
                     "_type" : "Group",
                     "parameters" : {
                       "translation0" : 150.006822612086,
@@ -6924,7 +6984,7 @@
                         "trackIndex" : 0,
                         "medias" : [
                           {
-                            "id" : 112,
+                            "id" : 116,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -6983,7 +7043,7 @@
                         "trackIndex" : 1,
                         "medias" : [
                           {
-                            "id" : 113,
+                            "id" : 117,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -7042,7 +7102,7 @@
                         "trackIndex" : 2,
                         "medias" : [
                           {
-                            "id" : 114,
+                            "id" : 118,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -7101,7 +7161,7 @@
                         "trackIndex" : 3,
                         "medias" : [
                           {
-                            "id" : 115,
+                            "id" : 119,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -7160,7 +7220,7 @@
                         "trackIndex" : 4,
                         "medias" : [
                           {
-                            "id" : 116,
+                            "id" : 120,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -7219,7 +7279,7 @@
                         "trackIndex" : 5,
                         "medias" : [
                           {
-                            "id" : 117,
+                            "id" : 121,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -7278,7 +7338,7 @@
                         "trackIndex" : 6,
                         "medias" : [
                           {
-                            "id" : 118,
+                            "id" : 122,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -7337,7 +7397,7 @@
                         "trackIndex" : 7,
                         "medias" : [
                           {
-                            "id" : 119,
+                            "id" : 123,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -7396,7 +7456,7 @@
                         "trackIndex" : 8,
                         "medias" : [
                           {
-                            "id" : 120,
+                            "id" : 124,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -7455,7 +7515,7 @@
                         "trackIndex" : 9,
                         "medias" : [
                           {
-                            "id" : 121,
+                            "id" : 125,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -7514,7 +7574,7 @@
                         "trackIndex" : 10,
                         "medias" : [
                           {
-                            "id" : 122,
+                            "id" : 126,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -7574,7 +7634,7 @@
                         "trackIndex" : 11,
                         "medias" : [
                           {
-                            "id" : 123,
+                            "id" : 127,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -7633,7 +7693,7 @@
                         "trackIndex" : 12,
                         "medias" : [
                           {
-                            "id" : 124,
+                            "id" : 128,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -7692,7 +7752,7 @@
                         "trackIndex" : 13,
                         "medias" : [
                           {
-                            "id" : 125,
+                            "id" : 129,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -7751,7 +7811,7 @@
                         "trackIndex" : 14,
                         "medias" : [
                           {
-                            "id" : 126,
+                            "id" : 130,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -7810,7 +7870,7 @@
                         "trackIndex" : 15,
                         "medias" : [
                           {
-                            "id" : 127,
+                            "id" : 131,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -7869,7 +7929,7 @@
                         "trackIndex" : 16,
                         "medias" : [
                           {
-                            "id" : 128,
+                            "id" : 132,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -7928,7 +7988,7 @@
                         "trackIndex" : 17,
                         "medias" : [
                           {
-                            "id" : 129,
+                            "id" : 133,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -7987,7 +8047,7 @@
                         "trackIndex" : 18,
                         "medias" : [
                           {
-                            "id" : 130,
+                            "id" : 134,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -8046,7 +8106,7 @@
                         "trackIndex" : 19,
                         "medias" : [
                           {
-                            "id" : 131,
+                            "id" : 135,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -8127,7 +8187,7 @@
                     }
                   },
                   {
-                    "id" : 132,
+                    "id" : 136,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -8184,7 +8244,87 @@
                     }
                   },
                   {
-                    "id" : 133,
+                    "id" : 137,
+                    "_type" : "IMFile",
+                    "src" : 13,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "patch-trans"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -654.054054054054,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 80.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 1086,
+                    "duration" : 144,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-height" : 160.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0,
+                      "default-width" : 184.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 138,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -8328,102 +8468,99 @@
                     }
                   },
                   {
-                    "id" : 134,
-                    "_type" : "Callout",
-                    "def" : {
-                      "kind" : "remix",
-                      "shape" : "text-rectangle",
-                      "style" : "basic",
-                      "enable-ligatures" : 1.0,
-                      "fill-color-blue" : 1.0,
-                      "fill-color-green" : 1.0,
-                      "fill-color-opacity" : 0.0,
-                      "fill-color-red" : 1.0,
-                      "height" : 202.0,
-                      "line-spacing" : 0.0,
-                      "stroke-color-blue" : 0.890196078431372,
-                      "stroke-color-green" : 0.870588235294118,
-                      "stroke-color-opacity" : 0.0,
-                      "stroke-color-red" : 0.847058823529412,
-                      "stroke-width" : 0.0,
-                      "tail-x" : -422.422923402878,
-                      "tail-y" : -20.0,
-                      "width" : 1658.81528027084,
-                      "word-wrap" : 1.0,
-                      "fill-style" : "solid",
-                      "horizontal-alignment" : "left",
-                      "resize-behavior" : "resizeText",
-                      "stroke-style" : "solid",
-                      "text" : "must have applications you want to patch",
-                      "vertical-alignment" : "center",
-                      "font" : {
-                        "color-blue" : 0.266666666666667,
-                        "color-green" : 0.231372549019608,
-                        "color-opacity" : 1.0,
-                        "color-red" : 0.184313725490196,
-                        "size" : 64.0,
-                        "tracking" : 0.0,
-                        "name" : "Montserrat",
-                        "weight" : "Regular"
-                      },
-                      "textAttributes" : {
-                        "type" : "textAttributeList",
-                        "keyframes" : [
-                          {
-                            "endTime" : 0,
-                            "time" : 0,
-                            "value" : [{"name":"fontWeight","rangeEnd":40,"rangeStart":0,"value":400,"valueType":"int"},{"name":"fontName","rangeEnd":40,"rangeStart":0,"value":"Faktum Medium","valueType":"string"},{"name":"strikethrough","rangeEnd":40,"rangeStart":0,"value":0,"valueType":"int"},{"name":"underline","rangeEnd":40,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":40,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fgColor","rangeEnd":40,"rangeStart":0,"value":"(35,40,47,255)","valueType":"color"},{"name":"fontItalic","rangeEnd":40,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":40,"rangeStart":0,"value":80,"valueType":"double"}],
-                            "duration" : 0
-                          }
-                        ]
-                      }
-                    },
+                    "id" : 139,
+                    "_type" : "IMFile",
+                    "src" : 31,
+                    "trackNumber" : 0,
+                    "trimStartSum" : -488,
                     "attributes" : {
-                      "autoRotateText" : true
+                      "ident" : "simplified-patch"
                     },
                     "parameters" : {
-                      "translation0" : 93.1804991604545,
-                      "translation1" : 71.337674567176,
-                      "sourceCrop0" : 0.0,
-                      "sourceCrop1" : 0.0,
-                      "sourceCrop2" : 0.0,
-                      "sourceCrop3" : 0.0,
-                      "geometryCrop0" : 0.0,
-                      "geometryCrop1" : 0.0,
-                      "geometryCrop2" : 0.0,
-                      "geometryCrop3" : 0.0
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -812.272399457732,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 291.383238796017,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.861150278533766,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.861150278533766,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
                     },
                     "effects" : [
 
                     ],
-                    "start" : 3104,
-                    "duration" : 406,
-                    "mediaStart" : 58,
-                    "mediaDuration" : 406,
+                    "start" : 2872,
+                    "duration" : 638,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
                     "scalar" : 1,
                     "metadata" : {
                       "clipSpeedAttribute" : false,
-                      "default-HAlign" : "center",
-                      "default-LineSpace" : 0.0,
-                      "default-VAlign" : "center",
-                      "default-fill-color-opacity" : 1.0,
-                      "default-height" : 176.0,
-                      "default-stroke-color-blue" : 0.56078431372549,
-                      "default-stroke-color-green" : 0.686274509803922,
-                      "default-stroke-color-opacity" : 1.0,
-                      "default-stroke-color-red" : 0.0196078431372549,
-                      "default-stroke-width" : 2.0,
-                      "default-text-attributes" : "[{\"name\":\"fgColor\",\"rangeEnd\":23,\"rangeStart\":0,\"value\":\"(47,59,68,255)\",\"valueType\":\"color\"},{\"name\":\"underline\",\"rangeEnd\":23,\"rangeStart\":0,\"value\":0,\"valueType\":\"int\"},{\"name\":\"strikethrough\",\"rangeEnd\":23,\"rangeStart\":0,\"value\":0,\"valueType\":\"int\"},{\"name\":\"fontWeight\",\"rangeEnd\":23,\"rangeStart\":0,\"value\":400,\"valueType\":\"int\"},{\"name\":\"fontItalic\",\"rangeEnd\":23,\"rangeStart\":0,\"value\":0,\"valueType\":\"int\"},{\"name\":\"fontName\",\"rangeEnd\":23,\"rangeStart\":0,\"value\":\"Faktum Medium\",\"valueType\":\"string\"},{\"name\":\"kerning\",\"rangeEnd\":23,\"rangeStart\":0,\"value\":0,\"valueType\":\"double\"},{\"name\":\"fontSize\",\"rangeEnd\":23,\"rangeStart\":0,\"value\":80,\"valueType\":\"double\"}]",
+                      "default-height" : 171.0,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
                       "default-translation0" : 0.0,
-                      "default-translation1" : 0.0,
-                      "default-width" : 376.0
+                      "default-translation1" : -0.5,
+                      "default-width" : 170.0
                     },
                     "animationTracks" : {
 
                     }
                   },
                   {
-                    "id" : 135,
+                    "id" : 140,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -8518,7 +8655,7 @@
                     }
                   },
                   {
-                    "id" : 136,
+                    "id" : 141,
                     "_type" : "IMFile",
                     "src" : 17,
                     "trackNumber" : 0,
@@ -8562,7 +8699,7 @@
                     }
                   },
                   {
-                    "id" : 137,
+                    "id" : 142,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -8631,7 +8768,7 @@
                     }
                   },
                   {
-                    "id" : 138,
+                    "id" : 143,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -8726,7 +8863,7 @@
                     }
                   },
                   {
-                    "id" : 139,
+                    "id" : 144,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -8781,7 +8918,7 @@
                     },
                     "parameters" : {
                       "translation0" : 620.788154662847,
-                      "translation1" : -64.4667276938847,
+                      "translation1" : -137.439700666858,
                       "sourceCrop0" : 0.0,
                       "sourceCrop1" : 0.0,
                       "sourceCrop2" : 0.0,
@@ -8821,7 +8958,7 @@
                     }
                   },
                   {
-                    "id" : 140,
+                    "id" : 145,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -8916,7 +9053,7 @@
                     }
                   },
                   {
-                    "id" : 141,
+                    "id" : 146,
                     "_type" : "IMFile",
                     "src" : 27,
                     "trackNumber" : 0,
@@ -9017,47 +9154,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 133
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "rightMedia" : 134
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "rightMedia" : 135
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "leftMedia" : 135
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "rightMedia" : 136
+                    "rightMedia" : 114
                   },
                   {
                     "name" : "Fade",
@@ -9077,7 +9174,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 138
+                    "leftMedia" : 137
                   },
                   {
                     "name" : "Fade",
@@ -9087,7 +9184,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 138
+                    "rightMedia" : 138
                   },
                   {
                     "name" : "Fade",
@@ -9107,16 +9204,6 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 139
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
                     "rightMedia" : 140
                   },
                   {
@@ -9127,7 +9214,87 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
+                    "leftMedia" : 140
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
                     "rightMedia" : 141
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 142
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 143
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 143
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 144
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 144
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 145
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 146
                   }
                 ]
               },
@@ -9135,7 +9302,123 @@
                 "trackIndex" : 4,
                 "medias" : [
                   {
-                    "id" : 142,
+                    "id" : 147,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-rectangle",
+                      "style" : "basic",
+                      "enable-ligatures" : 1.0,
+                      "fill-color-blue" : 1.0,
+                      "fill-color-green" : 1.0,
+                      "fill-color-opacity" : 1.0,
+                      "fill-color-red" : 1.0,
+                      "height" : 1241.46737511424,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 0.56078431372549,
+                      "stroke-color-green" : 0.686274509803922,
+                      "stroke-color-opacity" : 1.0,
+                      "stroke-color-red" : 0.0196078431372549,
+                      "stroke-width" : 2.0,
+                      "tail-x" : -3.44827586206901,
+                      "tail-y" : 37.7145883049484,
+                      "width" : 2022.41379310345,
+                      "word-wrap" : 1.0,
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : 0.266666666666667,
+                        "color-green" : 0.231372549019608,
+                        "color-opacity" : 1.0,
+                        "color-red" : 0.184313725490196,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"},{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(47,59,68,255)","valueType":"color"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -2006.89655172414,
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 3,
+                            "value" : 2050.0,
+                            "duration" : 71
+                          }
+                        ]
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -57.7146043611094,
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 3,
+                            "value" : -1.59872115546023e-14,
+                            "duration" : 71
+                          }
+                        ]
+                      },
+                      "sourceCrop0" : 0.0,
+                      "sourceCrop1" : 0.0,
+                      "sourceCrop2" : 0.0,
+                      "sourceCrop3" : 0.0,
+                      "geometryCrop0" : 0.0,
+                      "geometryCrop1" : 0.0,
+                      "geometryCrop2" : 0.0,
+                      "geometryCrop3" : 0.0
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 160,
+                    "duration" : 75,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 75,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-height" : 1268.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0,
+                      "default-width" : 2049.0
+                    },
+                    "animationTracks" : {
+                      "visual" : [
+                        {
+                          "endTime" : 74,
+                          "duration" : 71,
+                          "range" : [ 3, 71]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "id" : 148,
                     "_type" : "Group",
                     "parameters" : {
                       "translation0" : 6.42348927875264,
@@ -9155,7 +9438,7 @@
                         "trackIndex" : 0,
                         "medias" : [
                           {
-                            "id" : 143,
+                            "id" : 149,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -9214,7 +9497,7 @@
                         "trackIndex" : 1,
                         "medias" : [
                           {
-                            "id" : 144,
+                            "id" : 150,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -9273,7 +9556,7 @@
                         "trackIndex" : 2,
                         "medias" : [
                           {
-                            "id" : 145,
+                            "id" : 151,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -9332,7 +9615,7 @@
                         "trackIndex" : 3,
                         "medias" : [
                           {
-                            "id" : 146,
+                            "id" : 152,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -9391,7 +9674,7 @@
                         "trackIndex" : 4,
                         "medias" : [
                           {
-                            "id" : 147,
+                            "id" : 153,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -9450,7 +9733,7 @@
                         "trackIndex" : 5,
                         "medias" : [
                           {
-                            "id" : 148,
+                            "id" : 154,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -9509,7 +9792,7 @@
                         "trackIndex" : 6,
                         "medias" : [
                           {
-                            "id" : 149,
+                            "id" : 155,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -9568,7 +9851,7 @@
                         "trackIndex" : 7,
                         "medias" : [
                           {
-                            "id" : 150,
+                            "id" : 156,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -9627,7 +9910,7 @@
                         "trackIndex" : 8,
                         "medias" : [
                           {
-                            "id" : 151,
+                            "id" : 157,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -9686,7 +9969,7 @@
                         "trackIndex" : 9,
                         "medias" : [
                           {
-                            "id" : 152,
+                            "id" : 158,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -9745,7 +10028,7 @@
                         "trackIndex" : 10,
                         "medias" : [
                           {
-                            "id" : 153,
+                            "id" : 159,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -9804,7 +10087,7 @@
                         "trackIndex" : 11,
                         "medias" : [
                           {
-                            "id" : 154,
+                            "id" : 160,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -9863,7 +10146,7 @@
                         "trackIndex" : 12,
                         "medias" : [
                           {
-                            "id" : 155,
+                            "id" : 161,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -9922,7 +10205,7 @@
                         "trackIndex" : 13,
                         "medias" : [
                           {
-                            "id" : 156,
+                            "id" : 162,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -9981,7 +10264,7 @@
                         "trackIndex" : 14,
                         "medias" : [
                           {
-                            "id" : 157,
+                            "id" : 163,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -10040,7 +10323,7 @@
                         "trackIndex" : 15,
                         "medias" : [
                           {
-                            "id" : 158,
+                            "id" : 164,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -10099,7 +10382,7 @@
                         "trackIndex" : 16,
                         "medias" : [
                           {
-                            "id" : 159,
+                            "id" : 165,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -10158,7 +10441,7 @@
                         "trackIndex" : 17,
                         "medias" : [
                           {
-                            "id" : 160,
+                            "id" : 166,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -10217,7 +10500,7 @@
                         "trackIndex" : 18,
                         "medias" : [
                           {
-                            "id" : 161,
+                            "id" : 167,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -10276,7 +10559,7 @@
                         "trackIndex" : 19,
                         "medias" : [
                           {
-                            "id" : 162,
+                            "id" : 168,
                             "_type" : "IMFile",
                             "src" : 11,
                             "trackNumber" : 0,
@@ -10357,7 +10640,7 @@
                     }
                   },
                   {
-                    "id" : 163,
+                    "id" : 169,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -10447,7 +10730,7 @@
                     }
                   },
                   {
-                    "id" : 164,
+                    "id" : 170,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -10458,7 +10741,7 @@
                       "fill-color-green" : 1.0,
                       "fill-color-opacity" : 0.0,
                       "fill-color-red" : 1.0,
-                      "height" : 156.347826086957,
+                      "height" : 202.0,
                       "line-spacing" : 0.0,
                       "stroke-color-blue" : 0.890196078431372,
                       "stroke-color-green" : 0.870588235294118,
@@ -10466,14 +10749,14 @@
                       "stroke-color-red" : 0.847058823529412,
                       "stroke-width" : 0.0,
                       "tail-x" : -422.422923402878,
-                      "tail-y" : -42.8260869565217,
+                      "tail-y" : -20.0,
                       "width" : 1658.81528027084,
                       "word-wrap" : 1.0,
                       "fill-style" : "solid",
                       "horizontal-alignment" : "left",
                       "resize-behavior" : "resizeText",
                       "stroke-style" : "solid",
-                      "text" : "no Firefox? then no Firefox patches",
+                      "text" : "Must have applications you want to patch",
                       "vertical-alignment" : "center",
                       "font" : {
                         "color-blue" : 0.266666666666667,
@@ -10491,7 +10774,7 @@
                           {
                             "endTime" : 0,
                             "time" : 0,
-                            "value" : [{"name":"fontName","rangeEnd":35,"rangeStart":0,"value":"Faktum Medium","valueType":"string"},{"name":"fontSize","rangeEnd":35,"rangeStart":0,"value":80,"valueType":"double"},{"name":"strikethrough","rangeEnd":35,"rangeStart":0,"value":0,"valueType":"int"},{"name":"underline","rangeEnd":35,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":35,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fgColor","rangeEnd":35,"rangeStart":0,"value":"(35,40,47,255)","valueType":"color"},{"name":"fontWeight","rangeEnd":35,"rangeStart":0,"value":400,"valueType":"int"},{"name":"fontItalic","rangeEnd":35,"rangeStart":0,"value":0,"valueType":"int"}],
+                            "value" : [{"name":"fontItalic","rangeEnd":40,"rangeStart":0,"value":0,"valueType":"int"},{"name":"strikethrough","rangeEnd":40,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":40,"rangeStart":0,"value":75,"valueType":"double"},{"name":"fontWeight","rangeEnd":40,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":40,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":40,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fontName","rangeEnd":40,"rangeStart":0,"value":"???????","valueType":"string"},{"name":"fgColor","rangeEnd":40,"rangeStart":0,"value":"(35,40,47,255)","valueType":"color"}],
                             "duration" : 0
                           }
                         ]
@@ -10501,8 +10784,8 @@
                       "autoRotateText" : true
                     },
                     "parameters" : {
-                      "translation0" : 93.1804991604545,
-                      "translation1" : -123.140586302389,
+                      "translation0" : 117.504823484779,
+                      "translation1" : 71.337674567176,
                       "sourceCrop0" : 0.0,
                       "sourceCrop1" : 0.0,
                       "sourceCrop2" : 0.0,
@@ -10515,10 +10798,10 @@
                     "effects" : [
 
                     ],
-                    "start" : 3298,
-                    "duration" : 212,
+                    "start" : 3104,
+                    "duration" : 406,
                     "mediaStart" : 58,
-                    "mediaDuration" : 212,
+                    "mediaDuration" : 406,
                     "scalar" : 1,
                     "metadata" : {
                       "clipSpeedAttribute" : false,
@@ -10542,7 +10825,7 @@
                     }
                   },
                   {
-                    "id" : 165,
+                    "id" : 171,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -10637,7 +10920,7 @@
                     }
                   },
                   {
-                    "id" : 166,
+                    "id" : 172,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -10814,7 +11097,7 @@
                     }
                   },
                   {
-                    "id" : 167,
+                    "id" : 173,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -10909,7 +11192,7 @@
                     }
                   },
                   {
-                    "id" : 168,
+                    "id" : 174,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -11004,7 +11287,7 @@
                     }
                   },
                   {
-                    "id" : 169,
+                    "id" : 175,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -11236,7 +11519,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 164
+                    "rightMedia" : 170
                   },
                   {
                     "name" : "Fade",
@@ -11246,7 +11529,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 165
+                    "rightMedia" : 171
                   },
                   {
                     "name" : "Fade",
@@ -11256,7 +11539,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 166
+                    "rightMedia" : 172
                   },
                   {
                     "name" : "Fade",
@@ -11266,7 +11549,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 167
+                    "rightMedia" : 173
                   },
                   {
                     "name" : "Fade",
@@ -11276,7 +11559,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 167
+                    "leftMedia" : 173
                   },
                   {
                     "name" : "Fade",
@@ -11286,7 +11569,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 168
+                    "rightMedia" : 174
                   },
                   {
                     "name" : "Fade",
@@ -11296,7 +11579,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 169
+                    "rightMedia" : 175
                   }
                 ]
               },
@@ -11304,7 +11587,7 @@
                 "trackIndex" : 5,
                 "medias" : [
                   {
-                    "id" : 170,
+                    "id" : 176,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -11420,7 +11703,7 @@
                     }
                   },
                   {
-                    "id" : 171,
+                    "id" : 177,
                     "_type" : "Group",
                     "parameters" : {
                       "translation0" : 37.3367446393765,
@@ -11440,7 +11723,7 @@
                         "trackIndex" : 0,
                         "medias" : [
                           {
-                            "id" : 172,
+                            "id" : 178,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -11499,7 +11782,7 @@
                         "trackIndex" : 1,
                         "medias" : [
                           {
-                            "id" : 173,
+                            "id" : 179,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -11558,7 +11841,7 @@
                         "trackIndex" : 2,
                         "medias" : [
                           {
-                            "id" : 174,
+                            "id" : 180,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -11617,7 +11900,7 @@
                         "trackIndex" : 3,
                         "medias" : [
                           {
-                            "id" : 175,
+                            "id" : 181,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -11698,7 +11981,7 @@
                     }
                   },
                   {
-                    "id" : 176,
+                    "id" : 182,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -11788,123 +12071,99 @@
                     }
                   },
                   {
-                    "id" : 177,
-                    "_type" : "Callout",
-                    "def" : {
-                      "kind" : "remix",
-                      "shape" : "text-rectangle",
-                      "style" : "basic",
-                      "enable-ligatures" : 1.0,
-                      "fill-color-blue" : 1.0,
-                      "fill-color-green" : 1.0,
-                      "fill-color-opacity" : 1.0,
-                      "fill-color-red" : 1.0,
-                      "height" : 1241.46737511424,
-                      "line-spacing" : 0.0,
-                      "stroke-color-blue" : 0.56078431372549,
-                      "stroke-color-green" : 0.686274509803922,
-                      "stroke-color-opacity" : 1.0,
-                      "stroke-color-red" : 0.0196078431372549,
-                      "stroke-width" : 2.0,
-                      "tail-x" : -3.44827586206901,
-                      "tail-y" : 37.7145883049484,
-                      "width" : 2022.41379310345,
-                      "word-wrap" : 1.0,
-                      "fill-style" : "solid",
-                      "horizontal-alignment" : "center",
-                      "resize-behavior" : "resizeText",
-                      "stroke-style" : "solid",
-                      "text" : "",
-                      "vertical-alignment" : "center",
-                      "font" : {
-                        "color-blue" : 0.266666666666667,
-                        "color-green" : 0.231372549019608,
-                        "color-opacity" : 1.0,
-                        "color-red" : 0.184313725490196,
-                        "size" : 64.0,
-                        "tracking" : 0.0,
-                        "name" : "Montserrat",
-                        "weight" : "Regular"
-                      },
-                      "textAttributes" : {
-                        "type" : "textAttributeList",
-                        "keyframes" : [
-                          {
-                            "endTime" : 0,
-                            "time" : 0,
-                            "value" : [{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"},{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(47,59,68,255)","valueType":"color"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"}],
-                            "duration" : 0
-                          }
-                        ]
-                      }
-                    },
+                    "id" : 183,
+                    "_type" : "IMFile",
+                    "src" : 32,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
                     "attributes" : {
-                      "autoRotateText" : true
+                      "ident" : "yes"
                     },
                     "parameters" : {
                       "translation0" : {
                         "type" : "double",
-                        "defaultValue" : -2006.89655172414,
-                        "keyframes" : [
-                          {
-                            "endTime" : 74,
-                            "time" : 3,
-                            "value" : 2050.0,
-                            "duration" : 71
-                          }
-                        ]
+                        "defaultValue" : -819.029156214488,
+                        "interp" : "eioe"
                       },
                       "translation1" : {
                         "type" : "double",
-                        "defaultValue" : -57.7146043611094,
-                        "keyframes" : [
-                          {
-                            "endTime" : 74,
-                            "time" : 3,
-                            "value" : -1.59872115546023e-14,
-                            "duration" : 71
-                          }
-                        ]
+                        "defaultValue" : 73.0000000000001,
+                        "interp" : "eioe"
                       },
-                      "sourceCrop0" : 0.0,
-                      "sourceCrop1" : 0.0,
-                      "sourceCrop2" : 0.0,
-                      "sourceCrop3" : 0.0,
-                      "geometryCrop0" : 0.0,
-                      "geometryCrop1" : 0.0,
-                      "geometryCrop2" : 0.0,
-                      "geometryCrop3" : 0.0
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.79,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.79,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
                     },
                     "effects" : [
 
                     ],
-                    "start" : 3472,
-                    "duration" : 75,
+                    "start" : 3104,
+                    "duration" : 406,
                     "mediaStart" : 0,
-                    "mediaDuration" : 75,
+                    "mediaDuration" : 1,
                     "scalar" : 1,
                     "metadata" : {
                       "clipSpeedAttribute" : false,
-                      "default-HAlign" : "center",
-                      "default-LineSpace" : 0.0,
-                      "default-VAlign" : "center",
-                      "default-height" : 1268.0,
+                      "default-height" : 146.0,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
                       "default-translation0" : 0.0,
                       "default-translation1" : 0.0,
-                      "default-width" : 2049.0
+                      "default-width" : 174.0
                     },
                     "animationTracks" : {
-                      "visual" : [
-                        {
-                          "endTime" : 74,
-                          "duration" : 71,
-                          "range" : [ 3, 71]
-                        }
-                      ]
+
                     }
                   },
                   {
-                    "id" : 178,
+                    "id" : 184,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -11998,7 +12257,7 @@
                     }
                   },
                   {
-                    "id" : 179,
+                    "id" : 185,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -12204,7 +12463,7 @@
                     }
                   },
                   {
-                    "id" : 180,
+                    "id" : 186,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -12297,7 +12556,7 @@
                     }
                   },
                   {
-                    "id" : 181,
+                    "id" : 187,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -12390,7 +12649,7 @@
                     }
                   },
                   {
-                    "id" : 182,
+                    "id" : 188,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -12480,7 +12739,7 @@
                     }
                   },
                   {
-                    "id" : 183,
+                    "id" : 189,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -12575,7 +12834,7 @@
                     }
                   },
                   {
-                    "id" : 184,
+                    "id" : 190,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -12691,7 +12950,7 @@
                     }
                   },
                   {
-                    "id" : 185,
+                    "id" : 191,
                     "_type" : "IMFile",
                     "src" : 28,
                     "trackNumber" : 0,
@@ -12786,86 +13045,6 @@
                 "transitions" : [
                   {
                     "name" : "Fade",
-                    "duration" : 29,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "rightMedia" : 178
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "leftMedia" : 178
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "rightMedia" : 180
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "leftMedia" : 180
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "rightMedia" : 181
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "leftMedia" : 181
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "rightMedia" : 182
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "leftMedia" : 182
-                  },
-                  {
-                    "name" : "Fade",
                     "duration" : 30,
                     "trivial" : false,
                     "reverse" : false,
@@ -12876,13 +13055,13 @@
                   },
                   {
                     "name" : "Fade",
-                    "duration" : 30,
+                    "duration" : 29,
                     "trivial" : false,
                     "reverse" : false,
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 183
+                    "rightMedia" : 184
                   },
                   {
                     "name" : "Fade",
@@ -12892,7 +13071,97 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 185
+                    "leftMedia" : 184
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 186
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 186
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 187
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 187
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 188
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 188
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 189
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 189
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 191
                   }
                 ]
               },
@@ -12900,7 +13169,7 @@
                 "trackIndex" : 6,
                 "medias" : [
                   {
-                    "id" : 186,
+                    "id" : 192,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -12990,7 +13259,7 @@
                     }
                   },
                   {
-                    "id" : 187,
+                    "id" : 193,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -13080,7 +13349,102 @@
                     }
                   },
                   {
-                    "id" : 188,
+                    "id" : 194,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-rectangle",
+                      "style" : "basic",
+                      "enable-ligatures" : 1.0,
+                      "fill-color-blue" : 1.0,
+                      "fill-color-green" : 1.0,
+                      "fill-color-opacity" : 0.0,
+                      "fill-color-red" : 1.0,
+                      "height" : 156.347826086957,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 0.890196078431372,
+                      "stroke-color-green" : 0.870588235294118,
+                      "stroke-color-opacity" : 0.0,
+                      "stroke-color-red" : 0.847058823529412,
+                      "stroke-width" : 0.0,
+                      "tail-x" : -422.422923402878,
+                      "tail-y" : -42.8260869565217,
+                      "width" : 1658.81528027084,
+                      "word-wrap" : 1.0,
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "left",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "No Firefox? then no Firefox patches",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : 0.266666666666667,
+                        "color-green" : 0.231372549019608,
+                        "color-opacity" : 1.0,
+                        "color-red" : 0.184313725490196,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fontName","rangeEnd":35,"rangeStart":0,"value":"???????","valueType":"string"},{"name":"strikethrough","rangeEnd":35,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontWeight","rangeEnd":35,"rangeStart":0,"value":400,"valueType":"int"},{"name":"kerning","rangeEnd":35,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fontSize","rangeEnd":35,"rangeStart":0,"value":75,"valueType":"double"},{"name":"fontItalic","rangeEnd":35,"rangeStart":0,"value":0,"valueType":"int"},{"name":"underline","rangeEnd":35,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fgColor","rangeEnd":35,"rangeStart":0,"value":"(35,40,47,255)","valueType":"color"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : 117.504823484779,
+                      "translation1" : -123.140586302389,
+                      "sourceCrop0" : 0.0,
+                      "sourceCrop1" : 0.0,
+                      "sourceCrop2" : 0.0,
+                      "sourceCrop3" : 0.0,
+                      "geometryCrop0" : 0.0,
+                      "geometryCrop1" : 0.0,
+                      "geometryCrop2" : 0.0,
+                      "geometryCrop3" : 0.0
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 3298,
+                    "duration" : 212,
+                    "mediaStart" : 58,
+                    "mediaDuration" : 212,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-fill-color-opacity" : 1.0,
+                      "default-height" : 176.0,
+                      "default-stroke-color-blue" : 0.56078431372549,
+                      "default-stroke-color-green" : 0.686274509803922,
+                      "default-stroke-color-opacity" : 1.0,
+                      "default-stroke-color-red" : 0.0196078431372549,
+                      "default-stroke-width" : 2.0,
+                      "default-text-attributes" : "[{\"name\":\"fgColor\",\"rangeEnd\":23,\"rangeStart\":0,\"value\":\"(47,59,68,255)\",\"valueType\":\"color\"},{\"name\":\"underline\",\"rangeEnd\":23,\"rangeStart\":0,\"value\":0,\"valueType\":\"int\"},{\"name\":\"strikethrough\",\"rangeEnd\":23,\"rangeStart\":0,\"value\":0,\"valueType\":\"int\"},{\"name\":\"fontWeight\",\"rangeEnd\":23,\"rangeStart\":0,\"value\":400,\"valueType\":\"int\"},{\"name\":\"fontItalic\",\"rangeEnd\":23,\"rangeStart\":0,\"value\":0,\"valueType\":\"int\"},{\"name\":\"fontName\",\"rangeEnd\":23,\"rangeStart\":0,\"value\":\"Faktum Medium\",\"valueType\":\"string\"},{\"name\":\"kerning\",\"rangeEnd\":23,\"rangeStart\":0,\"value\":0,\"valueType\":\"double\"},{\"name\":\"fontSize\",\"rangeEnd\":23,\"rangeStart\":0,\"value\":80,\"valueType\":\"double\"}]",
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0,
+                      "default-width" : 376.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 195,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -13172,7 +13536,7 @@
                     }
                   },
                   {
-                    "id" : 189,
+                    "id" : 196,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -13265,7 +13629,7 @@
                     }
                   },
                   {
-                    "id" : 190,
+                    "id" : 197,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -13360,7 +13724,7 @@
                     }
                   },
                   {
-                    "id" : 191,
+                    "id" : 198,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -13592,7 +13956,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 189
+                    "rightMedia" : 194
                   },
                   {
                     "name" : "Fade",
@@ -13602,7 +13966,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 189
+                    "rightMedia" : 196
                   },
                   {
                     "name" : "Fade",
@@ -13612,7 +13976,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 190
+                    "leftMedia" : 196
                   },
                   {
                     "name" : "Fade",
@@ -13622,7 +13986,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 190
+                    "rightMedia" : 197
                   },
                   {
                     "name" : "Fade",
@@ -13632,7 +13996,17 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 191
+                    "leftMedia" : 197
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 198
                   }
                 ]
               },
@@ -13640,7 +14014,7 @@
                 "trackIndex" : 7,
                 "medias" : [
                   {
-                    "id" : 192,
+                    "id" : 199,
                     "_type" : "Group",
                     "parameters" : {
                       "translation0" : 23.2568226120861,
@@ -13660,7 +14034,7 @@
                         "trackIndex" : 0,
                         "medias" : [
                           {
-                            "id" : 193,
+                            "id" : 200,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -13719,7 +14093,7 @@
                         "trackIndex" : 1,
                         "medias" : [
                           {
-                            "id" : 194,
+                            "id" : 201,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -13778,7 +14152,7 @@
                         "trackIndex" : 2,
                         "medias" : [
                           {
-                            "id" : 195,
+                            "id" : 202,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -13837,7 +14211,7 @@
                         "trackIndex" : 3,
                         "medias" : [
                           {
-                            "id" : 196,
+                            "id" : 203,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -13896,7 +14270,7 @@
                         "trackIndex" : 4,
                         "medias" : [
                           {
-                            "id" : 197,
+                            "id" : 204,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -13955,7 +14329,7 @@
                         "trackIndex" : 5,
                         "medias" : [
                           {
-                            "id" : 198,
+                            "id" : 205,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -14014,7 +14388,7 @@
                         "trackIndex" : 6,
                         "medias" : [
                           {
-                            "id" : 199,
+                            "id" : 206,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -14073,7 +14447,7 @@
                         "trackIndex" : 7,
                         "medias" : [
                           {
-                            "id" : 200,
+                            "id" : 207,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -14154,7 +14528,7 @@
                     }
                   },
                   {
-                    "id" : 201,
+                    "id" : 208,
                     "_type" : "IMFile",
                     "src" : 14,
                     "trackNumber" : 0,
@@ -14248,7 +14622,99 @@
                     }
                   },
                   {
-                    "id" : 202,
+                    "id" : 209,
+                    "_type" : "IMFile",
+                    "src" : 30,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "no"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -817.029156214488,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -143.886979402664,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.78667835538636,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.78667835538636,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 3298,
+                    "duration" : 212,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-height" : 146.0,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0,
+                      "default-width" : 174.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 210,
                     "_type" : "IMFile",
                     "src" : 18,
                     "trackNumber" : 0,
@@ -14292,7 +14758,7 @@
                     }
                   },
                   {
-                    "id" : 203,
+                    "id" : 211,
                     "_type" : "IMFile",
                     "src" : 19,
                     "trackNumber" : 0,
@@ -14332,7 +14798,7 @@
                     }
                   },
                   {
-                    "id" : 204,
+                    "id" : 212,
                     "_type" : "IMFile",
                     "src" : 20,
                     "trackNumber" : 0,
@@ -14372,7 +14838,7 @@
                     }
                   },
                   {
-                    "id" : 205,
+                    "id" : 213,
                     "_type" : "IMFile",
                     "src" : 21,
                     "trackNumber" : 0,
@@ -14412,7 +14878,7 @@
                     }
                   },
                   {
-                    "id" : 206,
+                    "id" : 214,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -14505,7 +14971,7 @@
                     }
                   },
                   {
-                    "id" : 207,
+                    "id" : 215,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -14600,7 +15066,7 @@
                     }
                   },
                   {
-                    "id" : 208,
+                    "id" : 216,
                     "_type" : "IMFile",
                     "src" : 25,
                     "trackNumber" : 0,
@@ -14701,7 +15167,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 202
+                    "rightMedia" : 209
                   },
                   {
                     "name" : "Fade",
@@ -14711,7 +15177,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 202
+                    "rightMedia" : 210
                   },
                   {
                     "name" : "Fade",
@@ -14721,7 +15187,17 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 203
+                    "leftMedia" : 210
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 211
                   },
                   {
                     "name" : "Fade",
@@ -14731,7 +15207,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 203
+                    "leftMedia" : 211
                   },
                   {
                     "name" : "Fade",
@@ -14741,7 +15217,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 204
+                    "rightMedia" : 212
                   },
                   {
                     "name" : "Fade",
@@ -14751,7 +15227,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 204
+                    "leftMedia" : 212
                   },
                   {
                     "name" : "Fade",
@@ -14761,7 +15237,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 205
+                    "rightMedia" : 213
                   },
                   {
                     "name" : "Fade",
@@ -14771,7 +15247,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 206
+                    "rightMedia" : 214
                   },
                   {
                     "name" : "Fade",
@@ -14781,7 +15257,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 206
+                    "leftMedia" : 214
                   },
                   {
                     "name" : "Fade",
@@ -14791,7 +15267,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 207
+                    "rightMedia" : 215
                   },
                   {
                     "name" : "Fade",
@@ -14801,7 +15277,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 207
+                    "leftMedia" : 215
                   },
                   {
                     "name" : "Fade",
@@ -14811,7 +15287,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 208
+                    "rightMedia" : 216
                   }
                 ]
               },
@@ -14819,7 +15295,7 @@
                 "trackIndex" : 8,
                 "medias" : [
                   {
-                    "id" : 209,
+                    "id" : 217,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -14909,7 +15385,7 @@
                     }
                   },
                   {
-                    "id" : 210,
+                    "id" : 218,
                     "_type" : "IMFile",
                     "src" : 15,
                     "trackNumber" : 0,
@@ -14977,7 +15453,7 @@
                     }
                   },
                   {
-                    "id" : 211,
+                    "id" : 219,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -15067,7 +15543,123 @@
                     }
                   },
                   {
-                    "id" : 212,
+                    "id" : 220,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-rectangle",
+                      "style" : "basic",
+                      "enable-ligatures" : 1.0,
+                      "fill-color-blue" : 1.0,
+                      "fill-color-green" : 1.0,
+                      "fill-color-opacity" : 1.0,
+                      "fill-color-red" : 1.0,
+                      "height" : 1241.46737511424,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 0.56078431372549,
+                      "stroke-color-green" : 0.686274509803922,
+                      "stroke-color-opacity" : 1.0,
+                      "stroke-color-red" : 0.0196078431372549,
+                      "stroke-width" : 2.0,
+                      "tail-x" : -3.44827586206901,
+                      "tail-y" : 37.7145883049484,
+                      "width" : 2022.41379310345,
+                      "word-wrap" : 1.0,
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : 0.266666666666667,
+                        "color-green" : 0.231372549019608,
+                        "color-opacity" : 1.0,
+                        "color-red" : 0.184313725490196,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"},{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(47,59,68,255)","valueType":"color"},{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -2006.89655172414,
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 3,
+                            "value" : 2050.0,
+                            "duration" : 71
+                          }
+                        ]
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -57.7146043611094,
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 3,
+                            "value" : -1.59872115546023e-14,
+                            "duration" : 71
+                          }
+                        ]
+                      },
+                      "sourceCrop0" : 0.0,
+                      "sourceCrop1" : 0.0,
+                      "sourceCrop2" : 0.0,
+                      "sourceCrop3" : 0.0,
+                      "geometryCrop0" : 0.0,
+                      "geometryCrop1" : 0.0,
+                      "geometryCrop2" : 0.0,
+                      "geometryCrop3" : 0.0
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 3472,
+                    "duration" : 75,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 75,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-height" : 1268.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0,
+                      "default-width" : 2049.0
+                    },
+                    "animationTracks" : {
+                      "visual" : [
+                        {
+                          "endTime" : 74,
+                          "duration" : 71,
+                          "range" : [ 3, 71]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "id" : 221,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -15158,7 +15750,7 @@
                     }
                   },
                   {
-                    "id" : 213,
+                    "id" : 222,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -15274,7 +15866,7 @@
                     }
                   },
                   {
-                    "id" : 214,
+                    "id" : 223,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -15365,7 +15957,7 @@
                     }
                   },
                   {
-                    "id" : 215,
+                    "id" : 224,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -15597,7 +16189,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 210
+                    "leftMedia" : 218
                   },
                   {
                     "name" : "Fade",
@@ -15607,7 +16199,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 212
+                    "rightMedia" : 221
                   },
                   {
                     "name" : "Fade",
@@ -15617,7 +16209,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 212
+                    "leftMedia" : 221
                   },
                   {
                     "name" : "Fade",
@@ -15627,7 +16219,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 214
+                    "rightMedia" : 223
                   },
                   {
                     "name" : "Fade",
@@ -15637,7 +16229,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 214
+                    "leftMedia" : 223
                   },
                   {
                     "name" : "Fade",
@@ -15647,7 +16239,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 215
+                    "rightMedia" : 224
                   }
                 ]
               },
@@ -15655,7 +16247,7 @@
                 "trackIndex" : 9,
                 "medias" : [
                   {
-                    "id" : 216,
+                    "id" : 225,
                     "_type" : "Group",
                     "parameters" : {
                       "translation0" : 39.0068226120861,
@@ -15675,7 +16267,7 @@
                         "trackIndex" : 0,
                         "medias" : [
                           {
-                            "id" : 217,
+                            "id" : 226,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -15734,7 +16326,7 @@
                         "trackIndex" : 1,
                         "medias" : [
                           {
-                            "id" : 218,
+                            "id" : 227,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -15793,7 +16385,7 @@
                         "trackIndex" : 2,
                         "medias" : [
                           {
-                            "id" : 219,
+                            "id" : 228,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -15852,7 +16444,7 @@
                         "trackIndex" : 3,
                         "medias" : [
                           {
-                            "id" : 220,
+                            "id" : 229,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -15911,7 +16503,7 @@
                         "trackIndex" : 4,
                         "medias" : [
                           {
-                            "id" : 221,
+                            "id" : 230,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -15970,7 +16562,7 @@
                         "trackIndex" : 5,
                         "medias" : [
                           {
-                            "id" : 222,
+                            "id" : 231,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -16029,7 +16621,7 @@
                         "trackIndex" : 6,
                         "medias" : [
                           {
-                            "id" : 223,
+                            "id" : 232,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -16088,7 +16680,7 @@
                         "trackIndex" : 7,
                         "medias" : [
                           {
-                            "id" : 224,
+                            "id" : 233,
                             "_type" : "IMFile",
                             "src" : 13,
                             "trackNumber" : 0,
@@ -16169,7 +16761,7 @@
                     }
                   },
                   {
-                    "id" : 225,
+                    "id" : 234,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "TypeWinSVG",
@@ -16243,7 +16835,7 @@
                     }
                   },
                   {
-                    "id" : 226,
+                    "id" : 235,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -16334,7 +16926,7 @@
                     }
                   },
                   {
-                    "id" : 227,
+                    "id" : 236,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -16427,7 +17019,7 @@
                     }
                   },
                   {
-                    "id" : 228,
+                    "id" : 237,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -16522,7 +17114,7 @@
                     }
                   },
                   {
-                    "id" : 229,
+                    "id" : 238,
                     "_type" : "IMFile",
                     "src" : 26,
                     "trackNumber" : 0,
@@ -16623,7 +17215,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 226
+                    "rightMedia" : 235
                   },
                   {
                     "name" : "Fade",
@@ -16633,7 +17225,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 226
+                    "leftMedia" : 235
                   },
                   {
                     "name" : "Fade",
@@ -16643,7 +17235,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 227
+                    "rightMedia" : 236
                   },
                   {
                     "name" : "Fade",
@@ -16653,7 +17245,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 227
+                    "leftMedia" : 236
                   },
                   {
                     "name" : "Fade",
@@ -16663,7 +17255,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 228
+                    "rightMedia" : 237
                   },
                   {
                     "name" : "Fade",
@@ -16673,7 +17265,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 228
+                    "leftMedia" : 237
                   },
                   {
                     "name" : "Fade",
@@ -16683,7 +17275,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 229
+                    "rightMedia" : 238
                   }
                 ]
               },
@@ -16691,7 +17283,7 @@
                 "trackIndex" : 10,
                 "medias" : [
                   {
-                    "id" : 230,
+                    "id" : 239,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -16807,7 +17399,7 @@
                     }
                   },
                   {
-                    "id" : 231,
+                    "id" : 240,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -16897,7 +17489,7 @@
                     }
                   },
                   {
-                    "id" : 232,
+                    "id" : 241,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -16988,7 +17580,7 @@
                     }
                   },
                   {
-                    "id" : 233,
+                    "id" : 242,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -17081,7 +17673,7 @@
                     }
                   },
                   {
-                    "id" : 234,
+                    "id" : 243,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -17180,7 +17772,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 232
+                    "rightMedia" : 241
                   },
                   {
                     "name" : "Fade",
@@ -17190,7 +17782,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 232
+                    "leftMedia" : 241
                   },
                   {
                     "name" : "Fade",
@@ -17200,7 +17792,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 233
+                    "rightMedia" : 242
                   },
                   {
                     "name" : "Fade",
@@ -17210,7 +17802,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 233
+                    "leftMedia" : 242
                   },
                   {
                     "name" : "Fade",
@@ -17220,7 +17812,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 234
+                    "rightMedia" : 243
                   },
                   {
                     "name" : "Fade",
@@ -17230,7 +17822,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 234
+                    "leftMedia" : 243
                   }
                 ]
               },
@@ -17238,7 +17830,7 @@
                 "trackIndex" : 11,
                 "medias" : [
                   {
-                    "id" : 235,
+                    "id" : 244,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "TypeWinSVG",
@@ -17312,7 +17904,7 @@
                     }
                   },
                   {
-                    "id" : 236,
+                    "id" : 245,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -17403,7 +17995,7 @@
                     }
                   },
                   {
-                    "id" : 237,
+                    "id" : 246,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -17496,7 +18088,7 @@
                     }
                   },
                   {
-                    "id" : 238,
+                    "id" : 247,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -17595,7 +18187,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 236
+                    "rightMedia" : 245
                   },
                   {
                     "name" : "Fade",
@@ -17605,7 +18197,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 236
+                    "leftMedia" : 245
                   },
                   {
                     "name" : "Fade",
@@ -17615,7 +18207,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 237
+                    "rightMedia" : 246
                   },
                   {
                     "name" : "Fade",
@@ -17625,7 +18217,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 237
+                    "leftMedia" : 246
                   },
                   {
                     "name" : "Fade",
@@ -17635,7 +18227,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 238
+                    "rightMedia" : 247
                   },
                   {
                     "name" : "Fade",
@@ -17645,7 +18237,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 238
+                    "leftMedia" : 247
                   }
                 ]
               },
@@ -17653,7 +18245,7 @@
                 "trackIndex" : 12,
                 "medias" : [
                   {
-                    "id" : 239,
+                    "id" : 248,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -17743,7 +18335,7 @@
                     }
                   },
                   {
-                    "id" : 240,
+                    "id" : 249,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -17833,7 +18425,7 @@
                     }
                   },
                   {
-                    "id" : 241,
+                    "id" : 250,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -17935,7 +18527,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 240
+                    "rightMedia" : 249
                   },
                   {
                     "name" : "Fade",
@@ -17945,7 +18537,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 240
+                    "leftMedia" : 249
                   },
                   {
                     "name" : "Fade",
@@ -17955,7 +18547,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 241
+                    "rightMedia" : 250
                   },
                   {
                     "name" : "Fade",
@@ -17965,7 +18557,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 241
+                    "leftMedia" : 250
                   }
                 ]
               },
@@ -17973,7 +18565,7 @@
                 "trackIndex" : 13,
                 "medias" : [
                   {
-                    "id" : 242,
+                    "id" : 251,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -18089,7 +18681,7 @@
                     }
                   },
                   {
-                    "id" : 243,
+                    "id" : 252,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -18179,7 +18771,7 @@
                     }
                   },
                   {
-                    "id" : 244,
+                    "id" : 253,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -18281,7 +18873,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 243
+                    "rightMedia" : 252
                   },
                   {
                     "name" : "Fade",
@@ -18291,7 +18883,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 243
+                    "leftMedia" : 252
                   },
                   {
                     "name" : "Fade",
@@ -18301,7 +18893,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 244
+                    "rightMedia" : 253
                   },
                   {
                     "name" : "Fade",
@@ -18311,7 +18903,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 244
+                    "leftMedia" : 253
                   }
                 ]
               },
@@ -18319,7 +18911,7 @@
                 "trackIndex" : 14,
                 "medias" : [
                   {
-                    "id" : 245,
+                    "id" : 254,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -18410,7 +19002,7 @@
                     }
                   },
                   {
-                    "id" : 246,
+                    "id" : 255,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -18512,7 +19104,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 245
+                    "rightMedia" : 254
                   },
                   {
                     "name" : "Fade",
@@ -18522,7 +19114,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 245
+                    "leftMedia" : 254
                   },
                   {
                     "name" : "Fade",
@@ -18532,7 +19124,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 246
+                    "rightMedia" : 255
                   },
                   {
                     "name" : "Fade",
@@ -18542,7 +19134,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 246
+                    "leftMedia" : 255
                   }
                 ]
               },
@@ -18550,7 +19142,7 @@
                 "trackIndex" : 15,
                 "medias" : [
                   {
-                    "id" : 247,
+                    "id" : 256,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -18640,7 +19232,7 @@
                     }
                   },
                   {
-                    "id" : 248,
+                    "id" : 257,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -18742,7 +19334,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 247
+                    "rightMedia" : 256
                   },
                   {
                     "name" : "Fade",
@@ -18752,7 +19344,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 247
+                    "leftMedia" : 256
                   },
                   {
                     "name" : "Fade",
@@ -18762,7 +19354,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 248
+                    "rightMedia" : 257
                   },
                   {
                     "name" : "Fade",
@@ -18772,7 +19364,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 248
+                    "leftMedia" : 257
                   }
                 ]
               },
@@ -18780,7 +19372,7 @@
                 "trackIndex" : 16,
                 "medias" : [
                   {
-                    "id" : 249,
+                    "id" : 258,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -18882,7 +19474,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 249
+                    "rightMedia" : 258
                   },
                   {
                     "name" : "Fade",
@@ -18892,7 +19484,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 249
+                    "leftMedia" : 258
                   }
                 ]
               },
@@ -18900,7 +19492,7 @@
                 "trackIndex" : 17,
                 "medias" : [
                   {
-                    "id" : 250,
+                    "id" : 259,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -19002,7 +19594,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 250
+                    "rightMedia" : 259
                   },
                   {
                     "name" : "Fade",
@@ -19012,7 +19604,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 250
+                    "leftMedia" : 259
                   }
                 ]
               },
@@ -19020,7 +19612,7 @@
                 "trackIndex" : 18,
                 "medias" : [
                   {
-                    "id" : 251,
+                    "id" : 260,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -19122,7 +19714,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 251
+                    "rightMedia" : 260
                   },
                   {
                     "name" : "Fade",
@@ -19132,7 +19724,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 251
+                    "leftMedia" : 260
                   }
                 ]
               },
@@ -19140,7 +19732,7 @@
                 "trackIndex" : 19,
                 "medias" : [
                   {
-                    "id" : 252,
+                    "id" : 261,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -19242,7 +19834,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 252
+                    "rightMedia" : 261
                   },
                   {
                     "name" : "Fade",
@@ -19252,7 +19844,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 252
+                    "leftMedia" : 261
                   }
                 ]
               },
@@ -19260,7 +19852,7 @@
                 "trackIndex" : 20,
                 "medias" : [
                   {
-                    "id" : 253,
+                    "id" : 262,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -19362,7 +19954,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 253
+                    "rightMedia" : 262
                   },
                   {
                     "name" : "Fade",
@@ -19372,7 +19964,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 253
+                    "leftMedia" : 262
                   }
                 ]
               },
@@ -19380,7 +19972,7 @@
                 "trackIndex" : 21,
                 "medias" : [
                   {
-                    "id" : 254,
+                    "id" : 263,
                     "_type" : "Callout",
                     "def" : {
                       "kind" : "remix",
@@ -19482,7 +20074,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "rightMedia" : 254
+                    "rightMedia" : 263
                   },
                   {
                     "name" : "Fade",
@@ -19492,7 +20084,7 @@
                     "bypass" : false,
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
-                    "leftMedia" : 254
+                    "leftMedia" : 263
                   }
                 ]
               }            ]
@@ -19784,7 +20376,7 @@
     "backgroundColor" : [ 255, 255, 255, 255]
   },
   "metadata" : {
-    "AutoSaveFile" : "C:\\Users\\Simon\\AppData\\Local\\TechSmith\\Camtasia Studio\\21.0\\Auto-Saves\\rings7690f5f8.autosave.tscproj",
+    "AutoSaveFile" : "C:\\Users\\Simon\\AppData\\Local\\TechSmith\\Camtasia Studio\\21.0\\Auto-Saves\\rings769ecc06.autosave.tscproj",
     "CanvasZoom" : 37,
     "Date" : "2021-07-22 04:02:51 PM",
     "Fit" : 1,
