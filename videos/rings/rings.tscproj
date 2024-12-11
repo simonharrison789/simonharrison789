@@ -20,7 +20,7 @@
       "id" : 1,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\0intro.mp3",
       "rect" : [0, 0, 0, 0],
-      "lastMod" : "20241211T091138",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -44,7 +44,7 @@
       "id" : 2,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\1scenario.mp3",
       "rect" : [0, 0, 0, 0],
-      "lastMod" : "20241211T091138",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -68,7 +68,7 @@
       "id" : 3,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\2-3rings.mp3",
       "rect" : [0, 0, 0, 0],
-      "lastMod" : "20241211T091138",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -92,7 +92,7 @@
       "id" : 4,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\3ringpercents.mp3",
       "rect" : [0, 0, 0, 0],
-      "lastMod" : "20241211T091138",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -116,7 +116,7 @@
       "id" : 5,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\4ceo-firefox.mp3",
       "rect" : [0, 0, 0, 0],
-      "lastMod" : "20241211T091138",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -140,7 +140,7 @@
       "id" : 6,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\5start-rollout.mp3",
       "rect" : [0, 0, 0, 0],
-      "lastMod" : "20241211T091138",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -164,7 +164,7 @@
       "id" : 7,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\6goldilocks.mp3",
       "rect" : [0, 0, 0, 0],
-      "lastMod" : "20241211T091138",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -188,7 +188,7 @@
       "id" : 8,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\7rollout.mp3",
       "rect" : [0, 0, 0, 0],
-      "lastMod" : "20241211T091138",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -212,7 +212,7 @@
       "id" : 9,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\end.mp3",
       "rect" : [0, 0, 0, 0],
-      "lastMod" : "20241211T091138",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -236,7 +236,7 @@
       "id" : 10,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\black-laptop.png",
       "rect" : [0, 0, 68, 45],
-      "lastMod" : "20241211T091138",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -260,7 +260,7 @@
       "id" : 11,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\laptop.png",
       "rect" : [0, 0, 67, 45],
-      "lastMod" : "20241211T091138",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -284,7 +284,7 @@
       "id" : 12,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\smoke.png",
       "rect" : [0, 0, 53, 76],
-      "lastMod" : "20241211T091139",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -308,7 +308,7 @@
       "id" : 13,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\patch-trans.png",
       "rect" : [0, 0, 184, 160],
-      "lastMod" : "20241211T091138",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -332,7 +332,7 @@
       "id" : 14,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\ceo-laptop.png",
       "rect" : [0, 0, 68, 57],
-      "lastMod" : "20241211T091138",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -356,7 +356,7 @@
       "id" : 15,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\finger.png",
       "rect" : [0, 0, 125, 106],
-      "lastMod" : "20241211T091138",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -380,7 +380,7 @@
       "id" : 16,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\rings.trec",
       "rect" : [0, 0, 1921, 1080],
-      "lastMod" : "20241211T091138",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -416,7 +416,7 @@
       "id" : 17,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\clock.png",
       "rect" : [0, 0, 203, 238],
-      "lastMod" : "20241211T091138",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -440,7 +440,7 @@
       "id" : 18,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\calculcator.png",
       "rect" : [0, 0, 155, 205],
-      "lastMod" : "20241211T091138",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -464,7 +464,7 @@
       "id" : 19,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\bored.png",
       "rect" : [0, 0, 226, 246],
-      "lastMod" : "20241211T091138",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -488,7 +488,7 @@
       "id" : 20,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\confused.png",
       "rect" : [0, 0, 204, 235],
-      "lastMod" : "20241211T091138",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -512,7 +512,7 @@
       "id" : 21,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\correct.png",
       "rect" : [0, 0, 169, 209],
-      "lastMod" : "20241211T091138",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -536,7 +536,7 @@
       "id" : 22,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\deployed.png",
       "rect" : [0, 0, 1920, 1080],
-      "lastMod" : "20241211T091138",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -560,7 +560,7 @@
       "id" : 23,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\9suggestion.mp3",
       "rect" : [0, 0, 0, 0],
-      "lastMod" : "20241211T091138",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -584,7 +584,7 @@
       "id" : 24,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\8missed.mp3",
       "rect" : [0, 0, 0, 0],
-      "lastMod" : "20241211T091138",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -608,7 +608,7 @@
       "id" : 25,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\find-patch.png",
       "rect" : [0, 0, 190, 190],
-      "lastMod" : "20241211T091138",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -632,7 +632,7 @@
       "id" : 26,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\patch-catalog.png",
       "rect" : [0, 0, 189, 190],
-      "lastMod" : "20241211T091138",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -656,7 +656,7 @@
       "id" : 27,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\spanner.png",
       "rect" : [0, 0, 169, 169],
-      "lastMod" : "20241211T091139",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -680,7 +680,7 @@
       "id" : 28,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\track.png",
       "rect" : [0, 0, 175, 175],
-      "lastMod" : "20241211T091139",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -704,7 +704,7 @@
       "id" : 29,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\rings.png",
       "rect" : [0, 0, 177, 177],
-      "lastMod" : "20241211T091138",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -728,7 +728,7 @@
       "id" : 30,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\no.png",
       "rect" : [0, 0, 174, 146],
-      "lastMod" : "20241211T091138",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -752,7 +752,7 @@
       "id" : 31,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\simplified-patch.png",
       "rect" : [0, 0, 170, 171],
-      "lastMod" : "20241211T091139",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -776,7 +776,7 @@
       "id" : 32,
       "src" : "C:\\git\\simonharrison789\\videos\\rings\\yes.png",
       "rect" : [0, 0, 174, 146],
-      "lastMod" : "20241211T091139",
+      "lastMod" : "20241211T103850",
       "loudnessNormalization" : true,
       "sourceTracks" : [
         {
@@ -3443,7 +3443,7 @@
 
                     ],
                     "start" : 6993,
-                    "duration" : 1105,
+                    "duration" : 1136,
                     "mediaStart" : 0,
                     "mediaDuration" : 1,
                     "scalar" : 1,
@@ -3665,10 +3665,10 @@
                           }
                         }
                     ],
-                    "start" : 8098,
-                    "duration" : 1074,
-                    "mediaStart" : 14,
-                    "mediaDuration" : 1074,
+                    "start" : 8129,
+                    "duration" : 1043,
+                    "mediaStart" : 45,
+                    "mediaDuration" : 1043,
                     "scalar" : 1,
                     "metadata" : {
                       "WinSubProjectDisplayName" : "",
@@ -6458,9 +6458,9 @@
 
                     ],
                     "start" : 7937,
-                    "duration" : 196,
+                    "duration" : 192,
                     "mediaStart" : 162,
-                    "mediaDuration" : 196,
+                    "mediaDuration" : 192,
                     "scalar" : 1,
                     "metadata" : {
                       "clipSpeedAttribute" : false,
@@ -6490,86 +6490,22 @@
                       "kind" : "remix",
                       "shape" : "text-rectangle",
                       "style" : "basic",
-                      "enable-ligatures" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-blue" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-green" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-opacity" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-red" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "height" : {
-                        "type" : "double",
-                        "defaultValue" : 224.360446570973,
-                        "interp" : "linr"
-                      },
-                      "line-spacing" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-blue" : {
-                        "type" : "double",
-                        "defaultValue" : 0.890196078431372,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-green" : {
-                        "type" : "double",
-                        "defaultValue" : 0.870588235294118,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-opacity" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-red" : {
-                        "type" : "double",
-                        "defaultValue" : 0.847058823529412,
-                        "interp" : "linr"
-                      },
-                      "stroke-width" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "linr"
-                      },
-                      "tail-x" : {
-                        "type" : "double",
-                        "defaultValue" : -245.578231821344,
-                        "interp" : "linr"
-                      },
-                      "tail-y" : {
-                        "type" : "double",
-                        "defaultValue" : -8.81977671451352,
-                        "interp" : "linr"
-                      },
-                      "width" : {
-                        "type" : "double",
-                        "defaultValue" : 1584.62587555512,
-                        "interp" : "linr"
-                      },
-                      "word-wrap" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
+                      "enable-ligatures" : 1.0,
+                      "fill-color-blue" : 1.0,
+                      "fill-color-green" : 1.0,
+                      "fill-color-opacity" : 0.0,
+                      "fill-color-red" : 1.0,
+                      "height" : 224.360446570973,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 0.890196078431372,
+                      "stroke-color-green" : 0.870588235294118,
+                      "stroke-color-opacity" : 0.0,
+                      "stroke-color-red" : 0.847058823529412,
+                      "stroke-width" : 0.0,
+                      "tail-x" : -245.578231821344,
+                      "tail-y" : -8.81977671451352,
+                      "width" : 1584.62587555512,
+                      "word-wrap" : 1.0,
                       "fill-style" : "solid",
                       "horizontal-alignment" : "left",
                       "resize-behavior" : "resizeText",
@@ -6577,36 +6513,12 @@
                       "text" : "You CAN intervene to improve deployment",
                       "vertical-alignment" : "center",
                       "font" : {
-                        "color-blue" : {
-                          "type" : "double",
-                          "defaultValue" : 0.266666666666667,
-                          "interp" : "linr"
-                        },
-                        "color-green" : {
-                          "type" : "double",
-                          "defaultValue" : 0.231372549019608,
-                          "interp" : "linr"
-                        },
-                        "color-opacity" : {
-                          "type" : "double",
-                          "defaultValue" : 1.0,
-                          "interp" : "linr"
-                        },
-                        "color-red" : {
-                          "type" : "double",
-                          "defaultValue" : 0.184313725490196,
-                          "interp" : "linr"
-                        },
-                        "size" : {
-                          "type" : "double",
-                          "defaultValue" : 64.0,
-                          "interp" : "linr"
-                        },
-                        "tracking" : {
-                          "type" : "double",
-                          "defaultValue" : 0.0,
-                          "interp" : "linr"
-                        },
+                        "color-blue" : 0.266666666666667,
+                        "color-green" : 0.231372549019608,
+                        "color-opacity" : 1.0,
+                        "color-red" : 0.184313725490196,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
                         "name" : "Montserrat",
                         "weight" : "Regular"
                       },
@@ -6626,56 +6538,16 @@
                       "autoRotateText" : true
                     },
                     "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : 130.689874564567,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : 267.977230417653,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      }
+                      "translation0" : 130.689874564567,
+                      "translation1" : 267.977230417653,
+                      "sourceCrop0" : 0.0,
+                      "sourceCrop1" : 0.0,
+                      "sourceCrop2" : 0.0,
+                      "sourceCrop3" : 0.0,
+                      "geometryCrop0" : 0.0,
+                      "geometryCrop1" : 0.0,
+                      "geometryCrop2" : 0.0,
+                      "geometryCrop3" : 0.0
                     },
                     "effects" : [
 
@@ -6893,56 +6765,16 @@
                       "ident" : "rings"
                     },
                     "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : -611.310810810811,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : 53.4980740971404,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      }
+                      "translation0" : -611.310810810811,
+                      "translation1" : 53.4980740971404,
+                      "sourceCrop0" : 0.0,
+                      "sourceCrop1" : 0.0,
+                      "sourceCrop2" : 0.0,
+                      "sourceCrop3" : 0.0,
+                      "geometryCrop0" : 0.0,
+                      "geometryCrop1" : 0.0,
+                      "geometryCrop2" : 0.0,
+                      "geometryCrop3" : 0.0
                     },
                     "effects" : [
 
@@ -8253,56 +8085,16 @@
                       "ident" : "patch-trans"
                     },
                     "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : -654.054054054054,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : 80.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      }
+                      "translation0" : -654.054054054054,
+                      "translation1" : 80.0,
+                      "sourceCrop0" : 0.0,
+                      "sourceCrop1" : 0.0,
+                      "sourceCrop2" : 0.0,
+                      "sourceCrop3" : 0.0,
+                      "geometryCrop0" : 0.0,
+                      "geometryCrop1" : 0.0,
+                      "geometryCrop2" : 0.0,
+                      "geometryCrop3" : 0.0
                     },
                     "effects" : [
 
@@ -8477,66 +8269,18 @@
                       "ident" : "simplified-patch"
                     },
                     "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : -812.272399457732,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : 291.383238796017,
-                        "interp" : "eioe"
-                      },
-                      "scale0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.861150278533766,
-                        "interp" : "eioe"
-                      },
-                      "scale1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.861150278533766,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      }
+                      "translation0" : -812.272399457732,
+                      "translation1" : 291.383238796017,
+                      "scale0" : 0.861150278533766,
+                      "scale1" : 0.861150278533766,
+                      "sourceCrop0" : 0.0,
+                      "sourceCrop1" : 0.0,
+                      "sourceCrop2" : 0.0,
+                      "sourceCrop3" : 0.0,
+                      "geometryCrop0" : 0.0,
+                      "geometryCrop1" : 0.0,
+                      "geometryCrop2" : 0.0,
+                      "geometryCrop3" : 0.0
                     },
                     "effects" : [
 
@@ -9027,9 +8771,9 @@
 
                     ],
                     "start" : 7810,
-                    "duration" : 323,
+                    "duration" : 319,
                     "mediaStart" : 162,
-                    "mediaDuration" : 323,
+                    "mediaDuration" : 319,
                     "scalar" : 1,
                     "metadata" : {
                       "clipSpeedAttribute" : false,
@@ -9062,66 +8806,18 @@
                       "ident" : "spanner"
                     },
                     "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : -775.697532619882,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : 265.11926739211,
-                        "interp" : "eioe"
-                      },
-                      "scale0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.809929516054717,
-                        "interp" : "eioe"
-                      },
-                      "scale1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.809929516054717,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      }
+                      "translation0" : -775.697532619882,
+                      "translation1" : 265.11926739211,
+                      "scale0" : 0.809929516054717,
+                      "scale1" : 0.809929516054717,
+                      "sourceCrop0" : 0.0,
+                      "sourceCrop1" : 0.0,
+                      "sourceCrop2" : 0.0,
+                      "sourceCrop3" : 0.0,
+                      "geometryCrop0" : 0.0,
+                      "geometryCrop1" : 0.0,
+                      "geometryCrop2" : 0.0,
+                      "geometryCrop3" : 0.0
                     },
                     "effects" : [
 
@@ -9309,22 +9005,110 @@
                       "shape" : "text-rectangle",
                       "style" : "basic",
                       "enable-ligatures" : 1.0,
-                      "fill-color-blue" : 1.0,
-                      "fill-color-green" : 1.0,
+                      "fill-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 0.109803921568627,
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 1.0,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "fill-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 0.109803921568627,
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 1.0,
+                            "duration" : 74
+                          }
+                        ]
+                      },
                       "fill-color-opacity" : 1.0,
-                      "fill-color-red" : 1.0,
+                      "fill-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 0.96078431372549,
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 1.0,
+                            "duration" : 74
+                          }
+                        ]
+                      },
                       "height" : 1241.46737511424,
                       "line-spacing" : 0.0,
-                      "stroke-color-blue" : 0.56078431372549,
-                      "stroke-color-green" : 0.686274509803922,
-                      "stroke-color-opacity" : 1.0,
-                      "stroke-color-red" : 0.0196078431372549,
-                      "stroke-width" : 2.0,
+                      "stroke-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 0.172549019607843,
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 0.419607843137255,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "stroke-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0627450980392157,
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 0.0392156862745098,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "stroke-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 1.0,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "stroke-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 0.937254901960784,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "stroke-width" : {
+                        "type" : "double",
+                        "defaultValue" : 2.0,
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 2.0,
+                            "duration" : 74
+                          }
+                        ]
+                      },
                       "tail-x" : -3.44827586206901,
                       "tail-y" : 37.7145883049484,
                       "width" : 2022.41379310345,
                       "word-wrap" : 1.0,
-                      "fill-style" : "solid",
+                      "fill-style" : "gradient",
                       "horizontal-alignment" : "center",
                       "resize-behavior" : "resizeText",
                       "stroke-style" : "solid",
@@ -9362,9 +9146,9 @@
                         "keyframes" : [
                           {
                             "endTime" : 74,
-                            "time" : 3,
+                            "time" : 0,
                             "value" : 2050.0,
-                            "duration" : 71
+                            "duration" : 74
                           }
                         ]
                       },
@@ -9374,9 +9158,9 @@
                         "keyframes" : [
                           {
                             "endTime" : 74,
-                            "time" : 3,
+                            "time" : 0,
                             "value" : -1.59872115546023e-14,
-                            "duration" : 71
+                            "duration" : 74
                           }
                         ]
                       },
@@ -9402,7 +9186,17 @@
                       "default-HAlign" : "center",
                       "default-LineSpace" : 0.0,
                       "default-VAlign" : "center",
+                      "default-callout-stroke-style" : "solid",
+                      "default-fill-color-blue" : 1.0,
+                      "default-fill-color-green" : 1.0,
+                      "default-fill-color-red" : 1.0,
+                      "default-fill-style" : "solid",
                       "default-height" : 1268.0,
+                      "default-stroke-color-blue" : 0.56078431372549,
+                      "default-stroke-color-green" : 0.686274509803922,
+                      "default-stroke-color-opacity" : 1.0,
+                      "default-stroke-color-red" : 0.0196078431372549,
+                      "default-stroke-width" : 2.0,
                       "default-translation0" : 0.0,
                       "default-translation1" : 0.0,
                       "default-width" : 2049.0
@@ -9411,8 +9205,8 @@
                       "visual" : [
                         {
                           "endTime" : 74,
-                          "duration" : 71,
-                          "range" : [ 3, 71]
+                          "duration" : 74,
+                          "range" : [ 0, 74]
                         }
                       ]
                     }
@@ -11261,9 +11055,9 @@
 
                     ],
                     "start" : 7043,
-                    "duration" : 1090,
+                    "duration" : 1086,
                     "mediaStart" : 162,
-                    "mediaDuration" : 1090,
+                    "mediaDuration" : 1086,
                     "scalar" : 1,
                     "metadata" : {
                       "clipSpeedAttribute" : false,
@@ -11293,86 +11087,22 @@
                       "kind" : "remix",
                       "shape" : "text-rectangle",
                       "style" : "basic",
-                      "enable-ligatures" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-blue" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-green" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-opacity" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-red" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "height" : {
-                        "type" : "double",
-                        "defaultValue" : 224.360446570973,
-                        "interp" : "linr"
-                      },
-                      "line-spacing" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-blue" : {
-                        "type" : "double",
-                        "defaultValue" : 0.890196078431372,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-green" : {
-                        "type" : "double",
-                        "defaultValue" : 0.870588235294118,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-opacity" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-red" : {
-                        "type" : "double",
-                        "defaultValue" : 0.847058823529412,
-                        "interp" : "linr"
-                      },
-                      "stroke-width" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "linr"
-                      },
-                      "tail-x" : {
-                        "type" : "double",
-                        "defaultValue" : -245.578231821344,
-                        "interp" : "linr"
-                      },
-                      "tail-y" : {
-                        "type" : "double",
-                        "defaultValue" : -8.81977671451352,
-                        "interp" : "linr"
-                      },
-                      "width" : {
-                        "type" : "double",
-                        "defaultValue" : 1584.62587555512,
-                        "interp" : "linr"
-                      },
-                      "word-wrap" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
+                      "enable-ligatures" : 1.0,
+                      "fill-color-blue" : 1.0,
+                      "fill-color-green" : 1.0,
+                      "fill-color-opacity" : 0.0,
+                      "fill-color-red" : 1.0,
+                      "height" : 224.360446570973,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 0.890196078431372,
+                      "stroke-color-green" : 0.870588235294118,
+                      "stroke-color-opacity" : 0.0,
+                      "stroke-color-red" : 0.847058823529412,
+                      "stroke-width" : 0.0,
+                      "tail-x" : -245.578231821344,
+                      "tail-y" : -8.81977671451352,
+                      "width" : 1584.62587555512,
+                      "word-wrap" : 1.0,
                       "fill-style" : "solid",
                       "horizontal-alignment" : "left",
                       "resize-behavior" : "resizeText",
@@ -11380,36 +11110,12 @@
                       "text" : "Monitor the rollout and act",
                       "vertical-alignment" : "center",
                       "font" : {
-                        "color-blue" : {
-                          "type" : "double",
-                          "defaultValue" : 0.266666666666667,
-                          "interp" : "linr"
-                        },
-                        "color-green" : {
-                          "type" : "double",
-                          "defaultValue" : 0.231372549019608,
-                          "interp" : "linr"
-                        },
-                        "color-opacity" : {
-                          "type" : "double",
-                          "defaultValue" : 1.0,
-                          "interp" : "linr"
-                        },
-                        "color-red" : {
-                          "type" : "double",
-                          "defaultValue" : 0.184313725490196,
-                          "interp" : "linr"
-                        },
-                        "size" : {
-                          "type" : "double",
-                          "defaultValue" : 64.0,
-                          "interp" : "linr"
-                        },
-                        "tracking" : {
-                          "type" : "double",
-                          "defaultValue" : 0.0,
-                          "interp" : "linr"
-                        },
+                        "color-blue" : 0.266666666666667,
+                        "color-green" : 0.231372549019608,
+                        "color-opacity" : 1.0,
+                        "color-red" : 0.184313725490196,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
                         "name" : "Montserrat",
                         "weight" : "Regular"
                       },
@@ -11429,56 +11135,16 @@
                       "autoRotateText" : true
                     },
                     "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : 130.689874564567,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : 73.3826358230584,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      }
+                      "translation0" : 130.689874564567,
+                      "translation1" : 73.3826358230584,
+                      "sourceCrop0" : 0.0,
+                      "sourceCrop1" : 0.0,
+                      "sourceCrop2" : 0.0,
+                      "sourceCrop3" : 0.0,
+                      "geometryCrop0" : 0.0,
+                      "geometryCrop1" : 0.0,
+                      "geometryCrop2" : 0.0,
+                      "geometryCrop3" : 0.0
                     },
                     "effects" : [
 
@@ -11593,35 +11259,187 @@
                       "kind" : "remix",
                       "shape" : "text-rectangle",
                       "style" : "basic",
-                      "enable-ligatures" : 1.0,
-                      "fill-color-blue" : 1.0,
-                      "fill-color-green" : 1.0,
-                      "fill-color-opacity" : 1.0,
-                      "fill-color-red" : 1.0,
-                      "height" : 1241.46737511424,
-                      "line-spacing" : 0.0,
-                      "stroke-color-blue" : 0.56078431372549,
-                      "stroke-color-green" : 0.686274509803922,
-                      "stroke-color-opacity" : 1.0,
-                      "stroke-color-red" : 0.0196078431372549,
-                      "stroke-width" : 2.0,
-                      "tail-x" : -3.44827586206901,
-                      "tail-y" : 37.7145883049484,
-                      "width" : 2022.41379310345,
-                      "word-wrap" : 1.0,
-                      "fill-style" : "solid",
+                      "enable-ligatures" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 0.109803921568627,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 1.0,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "fill-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 0.109803921568627,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 1.0,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "fill-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 0.96078431372549,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 1.0,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 1241.46737511424,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 0.172549019607843,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 0.419607843137255,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "stroke-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0627450980392157,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 0.0392156862745098,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "stroke-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 1.0,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "stroke-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 0.937254901960784,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "stroke-width" : {
+                        "type" : "double",
+                        "defaultValue" : 2.0,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 2.0,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "tail-x" : {
+                        "type" : "double",
+                        "defaultValue" : -3.44827586206901,
+                        "interp" : "linr"
+                      },
+                      "tail-y" : {
+                        "type" : "double",
+                        "defaultValue" : 37.7145883049484,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 2022.41379310345,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-style" : "gradient",
                       "horizontal-alignment" : "center",
                       "resize-behavior" : "resizeText",
                       "stroke-style" : "solid",
                       "text" : "",
                       "vertical-alignment" : "center",
                       "font" : {
-                        "color-blue" : 0.266666666666667,
-                        "color-green" : 0.231372549019608,
-                        "color-opacity" : 1.0,
-                        "color-red" : 0.184313725490196,
-                        "size" : 64.0,
-                        "tracking" : 0.0,
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 0.266666666666667,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 0.231372549019608,
+                          "interp" : "linr"
+                        },
+                        "color-opacity" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 0.184313725490196,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 64.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
                         "name" : "Montserrat",
                         "weight" : "Regular"
                       },
@@ -11644,40 +11462,74 @@
                       "translation0" : {
                         "type" : "double",
                         "defaultValue" : -2006.89655172414,
+                        "interp" : "eioe",
                         "keyframes" : [
                           {
                             "endTime" : 74,
-                            "time" : 3,
+                            "time" : 0,
                             "value" : 2050.0,
-                            "duration" : 71
+                            "duration" : 74
                           }
                         ]
                       },
                       "translation1" : {
                         "type" : "double",
                         "defaultValue" : -57.7146043611094,
+                        "interp" : "eioe",
                         "keyframes" : [
                           {
                             "endTime" : 74,
-                            "time" : 3,
+                            "time" : 0,
                             "value" : -1.59872115546023e-14,
-                            "duration" : 71
+                            "duration" : 74
                           }
                         ]
                       },
-                      "sourceCrop0" : 0.0,
-                      "sourceCrop1" : 0.0,
-                      "sourceCrop2" : 0.0,
-                      "sourceCrop3" : 0.0,
-                      "geometryCrop0" : 0.0,
-                      "geometryCrop1" : 0.0,
-                      "geometryCrop2" : 0.0,
-                      "geometryCrop3" : 0.0
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
                     },
                     "effects" : [
 
                     ],
-                    "start" : 637,
+                    "start" : 642,
                     "duration" : 75,
                     "mediaStart" : 0,
                     "mediaDuration" : 75,
@@ -11687,7 +11539,17 @@
                       "default-HAlign" : "center",
                       "default-LineSpace" : 0.0,
                       "default-VAlign" : "center",
+                      "default-callout-stroke-style" : "solid",
+                      "default-fill-color-blue" : 1.0,
+                      "default-fill-color-green" : 1.0,
+                      "default-fill-color-red" : 1.0,
+                      "default-fill-style" : "solid",
                       "default-height" : 1268.0,
+                      "default-stroke-color-blue" : 0.56078431372549,
+                      "default-stroke-color-green" : 0.686274509803922,
+                      "default-stroke-color-opacity" : 1.0,
+                      "default-stroke-color-red" : 0.0196078431372549,
+                      "default-stroke-width" : 2.0,
                       "default-translation0" : 0.0,
                       "default-translation1" : 0.0,
                       "default-width" : 2049.0
@@ -11696,8 +11558,8 @@
                       "visual" : [
                         {
                           "endTime" : 74,
-                          "duration" : 71,
-                          "range" : [ 3, 71]
+                          "duration" : 74,
+                          "range" : [ 0, 74]
                         }
                       ]
                     }
@@ -12080,66 +11942,18 @@
                       "ident" : "yes"
                     },
                     "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : -819.029156214488,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : 73.0000000000001,
-                        "interp" : "eioe"
-                      },
-                      "scale0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.79,
-                        "interp" : "eioe"
-                      },
-                      "scale1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.79,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      }
+                      "translation0" : -819.029156214488,
+                      "translation1" : 73.0000000000001,
+                      "scale0" : 0.79,
+                      "scale1" : 0.79,
+                      "sourceCrop0" : 0.0,
+                      "sourceCrop1" : 0.0,
+                      "sourceCrop2" : 0.0,
+                      "sourceCrop3" : 0.0,
+                      "geometryCrop0" : 0.0,
+                      "geometryCrop1" : 0.0,
+                      "geometryCrop2" : 0.0,
+                      "geometryCrop3" : 0.0
                     },
                     "effects" : [
 
@@ -12840,35 +12654,187 @@
                       "kind" : "remix",
                       "shape" : "text-rectangle",
                       "style" : "basic",
-                      "enable-ligatures" : 1.0,
-                      "fill-color-blue" : 1.0,
-                      "fill-color-green" : 1.0,
-                      "fill-color-opacity" : 1.0,
-                      "fill-color-red" : 1.0,
-                      "height" : 1241.46737511424,
-                      "line-spacing" : 0.0,
-                      "stroke-color-blue" : 0.56078431372549,
-                      "stroke-color-green" : 0.686274509803922,
-                      "stroke-color-opacity" : 1.0,
-                      "stroke-color-red" : 0.0196078431372549,
-                      "stroke-width" : 2.0,
-                      "tail-x" : -3.44827586206901,
-                      "tail-y" : 37.7145883049484,
-                      "width" : 2022.41379310345,
-                      "word-wrap" : 1.0,
-                      "fill-style" : "solid",
+                      "enable-ligatures" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 0.109803921568627,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 1.0,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "fill-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 0.109803921568627,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 1.0,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "fill-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 0.96078431372549,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 1.0,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 1241.46737511424,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 0.172549019607843,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 0.419607843137255,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "stroke-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0627450980392157,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 0.0392156862745098,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "stroke-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 1.0,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "stroke-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 0.937254901960784,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "stroke-width" : {
+                        "type" : "double",
+                        "defaultValue" : 2.0,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 2.0,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "tail-x" : {
+                        "type" : "double",
+                        "defaultValue" : -3.44827586206901,
+                        "interp" : "linr"
+                      },
+                      "tail-y" : {
+                        "type" : "double",
+                        "defaultValue" : 37.7145883049484,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 2022.41379310345,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-style" : "gradient",
                       "horizontal-alignment" : "center",
                       "resize-behavior" : "resizeText",
                       "stroke-style" : "solid",
                       "text" : "",
                       "vertical-alignment" : "center",
                       "font" : {
-                        "color-blue" : 0.266666666666667,
-                        "color-green" : 0.231372549019608,
-                        "color-opacity" : 1.0,
-                        "color-red" : 0.184313725490196,
-                        "size" : 64.0,
-                        "tracking" : 0.0,
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 0.266666666666667,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 0.231372549019608,
+                          "interp" : "linr"
+                        },
+                        "color-opacity" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 0.184313725490196,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 64.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
                         "name" : "Montserrat",
                         "weight" : "Regular"
                       },
@@ -12891,93 +12857,28 @@
                       "translation0" : {
                         "type" : "double",
                         "defaultValue" : -2006.89655172414,
+                        "interp" : "eioe",
                         "keyframes" : [
                           {
                             "endTime" : 74,
-                            "time" : 3,
+                            "time" : 0,
                             "value" : 2050.0,
-                            "duration" : 71
+                            "duration" : 74
                           }
                         ]
                       },
                       "translation1" : {
                         "type" : "double",
                         "defaultValue" : -57.7146043611094,
+                        "interp" : "eioe",
                         "keyframes" : [
                           {
                             "endTime" : 74,
-                            "time" : 3,
+                            "time" : 0,
                             "value" : -1.59872115546023e-14,
-                            "duration" : 71
+                            "duration" : 74
                           }
                         ]
-                      },
-                      "sourceCrop0" : 0.0,
-                      "sourceCrop1" : 0.0,
-                      "sourceCrop2" : 0.0,
-                      "sourceCrop3" : 0.0,
-                      "geometryCrop0" : 0.0,
-                      "geometryCrop1" : 0.0,
-                      "geometryCrop2" : 0.0,
-                      "geometryCrop3" : 0.0
-                    },
-                    "effects" : [
-
-                    ],
-                    "start" : 8092,
-                    "duration" : 75,
-                    "mediaStart" : 0,
-                    "mediaDuration" : 75,
-                    "scalar" : 1,
-                    "metadata" : {
-                      "clipSpeedAttribute" : false,
-                      "default-HAlign" : "center",
-                      "default-LineSpace" : 0.0,
-                      "default-VAlign" : "center",
-                      "default-height" : 1268.0,
-                      "default-translation0" : 0.0,
-                      "default-translation1" : 0.0,
-                      "default-width" : 2049.0
-                    },
-                    "animationTracks" : {
-                      "visual" : [
-                        {
-                          "endTime" : 74,
-                          "duration" : 71,
-                          "range" : [ 3, 71]
-                        }
-                      ]
-                    }
-                  },
-                  {
-                    "id" : 191,
-                    "_type" : "IMFile",
-                    "src" : 28,
-                    "trackNumber" : 0,
-                    "trimStartSum" : 0,
-                    "attributes" : {
-                      "ident" : "track"
-                    },
-                    "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : -777.048883971233,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : 88.709314376894,
-                        "interp" : "eioe"
-                      },
-                      "scale0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.766716488631685,
-                        "interp" : "eioe"
-                      },
-                      "scale1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.766716488631685,
-                        "interp" : "eioe"
                       },
                       "sourceCrop0" : {
                         "type" : "double",
@@ -13019,6 +12920,67 @@
                         "defaultValue" : 0.0,
                         "interp" : "eioe"
                       }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 8092,
+                    "duration" : 75,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 75,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-callout-stroke-style" : "solid",
+                      "default-fill-color-blue" : 1.0,
+                      "default-fill-color-green" : 1.0,
+                      "default-fill-color-red" : 1.0,
+                      "default-fill-style" : "solid",
+                      "default-height" : 1268.0,
+                      "default-stroke-color-blue" : 0.56078431372549,
+                      "default-stroke-color-green" : 0.686274509803922,
+                      "default-stroke-color-opacity" : 1.0,
+                      "default-stroke-color-red" : 0.0196078431372549,
+                      "default-stroke-width" : 2.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0,
+                      "default-width" : 2049.0
+                    },
+                    "animationTracks" : {
+                      "visual" : [
+                        {
+                          "endTime" : 74,
+                          "duration" : 74,
+                          "range" : [ 0, 74]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "id" : 191,
+                    "_type" : "IMFile",
+                    "src" : 28,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "track"
+                    },
+                    "parameters" : {
+                      "translation0" : -777.048883971233,
+                      "translation1" : 88.709314376894,
+                      "scale0" : 0.766716488631685,
+                      "scale1" : 0.766716488631685,
+                      "sourceCrop0" : 0.0,
+                      "sourceCrop1" : 0.0,
+                      "sourceCrop2" : 0.0,
+                      "sourceCrop3" : 0.0,
+                      "geometryCrop0" : 0.0,
+                      "geometryCrop1" : 0.0,
+                      "geometryCrop2" : 0.0,
+                      "geometryCrop3" : 0.0
                     },
                     "effects" : [
 
@@ -13730,86 +13692,22 @@
                       "kind" : "remix",
                       "shape" : "text-rectangle",
                       "style" : "basic",
-                      "enable-ligatures" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-blue" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-green" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-opacity" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-red" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "height" : {
-                        "type" : "double",
-                        "defaultValue" : 224.360446570973,
-                        "interp" : "linr"
-                      },
-                      "line-spacing" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-blue" : {
-                        "type" : "double",
-                        "defaultValue" : 0.890196078431372,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-green" : {
-                        "type" : "double",
-                        "defaultValue" : 0.870588235294118,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-opacity" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-red" : {
-                        "type" : "double",
-                        "defaultValue" : 0.847058823529412,
-                        "interp" : "linr"
-                      },
-                      "stroke-width" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "linr"
-                      },
-                      "tail-x" : {
-                        "type" : "double",
-                        "defaultValue" : -245.578231821344,
-                        "interp" : "linr"
-                      },
-                      "tail-y" : {
-                        "type" : "double",
-                        "defaultValue" : -8.81977671451352,
-                        "interp" : "linr"
-                      },
-                      "width" : {
-                        "type" : "double",
-                        "defaultValue" : 1584.62587555512,
-                        "interp" : "linr"
-                      },
-                      "word-wrap" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
+                      "enable-ligatures" : 1.0,
+                      "fill-color-blue" : 1.0,
+                      "fill-color-green" : 1.0,
+                      "fill-color-opacity" : 0.0,
+                      "fill-color-red" : 1.0,
+                      "height" : 224.360446570973,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 0.890196078431372,
+                      "stroke-color-green" : 0.870588235294118,
+                      "stroke-color-opacity" : 0.0,
+                      "stroke-color-red" : 0.847058823529412,
+                      "stroke-width" : 0.0,
+                      "tail-x" : -245.578231821344,
+                      "tail-y" : -8.81977671451352,
+                      "width" : 1584.62587555512,
+                      "word-wrap" : 1.0,
                       "fill-style" : "solid",
                       "horizontal-alignment" : "left",
                       "resize-behavior" : "resizeText",
@@ -13817,36 +13715,12 @@
                       "text" : "Identify outstanding vulnerabilities",
                       "vertical-alignment" : "center",
                       "font" : {
-                        "color-blue" : {
-                          "type" : "double",
-                          "defaultValue" : 0.266666666666667,
-                          "interp" : "linr"
-                        },
-                        "color-green" : {
-                          "type" : "double",
-                          "defaultValue" : 0.231372549019608,
-                          "interp" : "linr"
-                        },
-                        "color-opacity" : {
-                          "type" : "double",
-                          "defaultValue" : 1.0,
-                          "interp" : "linr"
-                        },
-                        "color-red" : {
-                          "type" : "double",
-                          "defaultValue" : 0.184313725490196,
-                          "interp" : "linr"
-                        },
-                        "size" : {
-                          "type" : "double",
-                          "defaultValue" : 64.0,
-                          "interp" : "linr"
-                        },
-                        "tracking" : {
-                          "type" : "double",
-                          "defaultValue" : 0.0,
-                          "interp" : "linr"
-                        },
+                        "color-blue" : 0.266666666666667,
+                        "color-green" : 0.231372549019608,
+                        "color-opacity" : 1.0,
+                        "color-red" : 0.184313725490196,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
                         "name" : "Montserrat",
                         "weight" : "Regular"
                       },
@@ -13866,56 +13740,16 @@
                       "autoRotateText" : true
                     },
                     "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : 130.689874564567,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : -99.5903371499146,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      }
+                      "translation0" : 130.689874564567,
+                      "translation1" : -99.5903371499146,
+                      "sourceCrop0" : 0.0,
+                      "sourceCrop1" : 0.0,
+                      "sourceCrop2" : 0.0,
+                      "sourceCrop3" : 0.0,
+                      "geometryCrop0" : 0.0,
+                      "geometryCrop1" : 0.0,
+                      "geometryCrop2" : 0.0,
+                      "geometryCrop3" : 0.0
                     },
                     "effects" : [
 
@@ -14631,66 +14465,18 @@
                       "ident" : "no"
                     },
                     "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : -817.029156214488,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : -143.886979402664,
-                        "interp" : "eioe"
-                      },
-                      "scale0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.78667835538636,
-                        "interp" : "eioe"
-                      },
-                      "scale1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.78667835538636,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      }
+                      "translation0" : -817.029156214488,
+                      "translation1" : -143.886979402664,
+                      "scale0" : 0.78667835538636,
+                      "scale1" : 0.78667835538636,
+                      "sourceCrop0" : 0.0,
+                      "sourceCrop1" : 0.0,
+                      "sourceCrop2" : 0.0,
+                      "sourceCrop3" : 0.0,
+                      "geometryCrop0" : 0.0,
+                      "geometryCrop1" : 0.0,
+                      "geometryCrop2" : 0.0,
+                      "geometryCrop3" : 0.0
                     },
                     "effects" : [
 
@@ -15075,66 +14861,18 @@
                       "ident" : "find-patch"
                     },
                     "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : -773.880110134879,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : -105.41920908405,
-                        "interp" : "eioe"
-                      },
-                      "scale0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.701280227596017,
-                        "interp" : "eioe"
-                      },
-                      "scale1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.701280227596017,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      }
+                      "translation0" : -773.880110134879,
+                      "translation1" : -105.41920908405,
+                      "scale0" : 0.701280227596017,
+                      "scale1" : 0.701280227596017,
+                      "sourceCrop0" : 0.0,
+                      "sourceCrop1" : 0.0,
+                      "sourceCrop2" : 0.0,
+                      "sourceCrop3" : 0.0,
+                      "geometryCrop0" : 0.0,
+                      "geometryCrop1" : 0.0,
+                      "geometryCrop2" : 0.0,
+                      "geometryCrop3" : 0.0
                     },
                     "effects" : [
 
@@ -15549,35 +15287,187 @@
                       "kind" : "remix",
                       "shape" : "text-rectangle",
                       "style" : "basic",
-                      "enable-ligatures" : 1.0,
-                      "fill-color-blue" : 1.0,
-                      "fill-color-green" : 1.0,
-                      "fill-color-opacity" : 1.0,
-                      "fill-color-red" : 1.0,
-                      "height" : 1241.46737511424,
-                      "line-spacing" : 0.0,
-                      "stroke-color-blue" : 0.56078431372549,
-                      "stroke-color-green" : 0.686274509803922,
-                      "stroke-color-opacity" : 1.0,
-                      "stroke-color-red" : 0.0196078431372549,
-                      "stroke-width" : 2.0,
-                      "tail-x" : -3.44827586206901,
-                      "tail-y" : 37.7145883049484,
-                      "width" : 2022.41379310345,
-                      "word-wrap" : 1.0,
-                      "fill-style" : "solid",
+                      "enable-ligatures" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 0.109803921568627,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 1.0,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "fill-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 0.109803921568627,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 1.0,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "fill-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 0.96078431372549,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 1.0,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 1241.46737511424,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 0.172549019607843,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 0.419607843137255,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "stroke-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0627450980392157,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 0.0392156862745098,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "stroke-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 1.0,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "stroke-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 0.937254901960784,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "stroke-width" : {
+                        "type" : "double",
+                        "defaultValue" : 2.0,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 2.0,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "tail-x" : {
+                        "type" : "double",
+                        "defaultValue" : -3.44827586206901,
+                        "interp" : "linr"
+                      },
+                      "tail-y" : {
+                        "type" : "double",
+                        "defaultValue" : 37.7145883049484,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 2022.41379310345,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-style" : "gradient",
                       "horizontal-alignment" : "center",
                       "resize-behavior" : "resizeText",
                       "stroke-style" : "solid",
                       "text" : "",
                       "vertical-alignment" : "center",
                       "font" : {
-                        "color-blue" : 0.266666666666667,
-                        "color-green" : 0.231372549019608,
-                        "color-opacity" : 1.0,
-                        "color-red" : 0.184313725490196,
-                        "size" : 64.0,
-                        "tracking" : 0.0,
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 0.266666666666667,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 0.231372549019608,
+                          "interp" : "linr"
+                        },
+                        "color-opacity" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 0.184313725490196,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 64.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
                         "name" : "Montserrat",
                         "weight" : "Regular"
                       },
@@ -15600,40 +15490,74 @@
                       "translation0" : {
                         "type" : "double",
                         "defaultValue" : -2006.89655172414,
+                        "interp" : "eioe",
                         "keyframes" : [
                           {
                             "endTime" : 74,
-                            "time" : 3,
+                            "time" : 0,
                             "value" : 2050.0,
-                            "duration" : 71
+                            "duration" : 74
                           }
                         ]
                       },
                       "translation1" : {
                         "type" : "double",
                         "defaultValue" : -57.7146043611094,
+                        "interp" : "eioe",
                         "keyframes" : [
                           {
                             "endTime" : 74,
-                            "time" : 3,
+                            "time" : 0,
                             "value" : -1.59872115546023e-14,
-                            "duration" : 71
+                            "duration" : 74
                           }
                         ]
                       },
-                      "sourceCrop0" : 0.0,
-                      "sourceCrop1" : 0.0,
-                      "sourceCrop2" : 0.0,
-                      "sourceCrop3" : 0.0,
-                      "geometryCrop0" : 0.0,
-                      "geometryCrop1" : 0.0,
-                      "geometryCrop2" : 0.0,
-                      "geometryCrop3" : 0.0
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
                     },
                     "effects" : [
 
                     ],
-                    "start" : 3472,
+                    "start" : 3469,
                     "duration" : 75,
                     "mediaStart" : 0,
                     "mediaDuration" : 75,
@@ -15643,7 +15567,17 @@
                       "default-HAlign" : "center",
                       "default-LineSpace" : 0.0,
                       "default-VAlign" : "center",
+                      "default-callout-stroke-style" : "solid",
+                      "default-fill-color-blue" : 1.0,
+                      "default-fill-color-green" : 1.0,
+                      "default-fill-color-red" : 1.0,
+                      "default-fill-style" : "solid",
                       "default-height" : 1268.0,
+                      "default-stroke-color-blue" : 0.56078431372549,
+                      "default-stroke-color-green" : 0.686274509803922,
+                      "default-stroke-color-opacity" : 1.0,
+                      "default-stroke-color-red" : 0.0196078431372549,
+                      "default-stroke-width" : 2.0,
                       "default-translation0" : 0.0,
                       "default-translation1" : 0.0,
                       "default-width" : 2049.0
@@ -15652,8 +15586,8 @@
                       "visual" : [
                         {
                           "endTime" : 74,
-                          "duration" : 71,
-                          "range" : [ 3, 71]
+                          "duration" : 74,
+                          "range" : [ 0, 74]
                         }
                       ]
                     }
@@ -15756,35 +15690,187 @@
                       "kind" : "remix",
                       "shape" : "text-rectangle",
                       "style" : "basic",
-                      "enable-ligatures" : 1.0,
-                      "fill-color-blue" : 1.0,
-                      "fill-color-green" : 1.0,
-                      "fill-color-opacity" : 1.0,
-                      "fill-color-red" : 1.0,
-                      "height" : 1241.46737511424,
-                      "line-spacing" : 0.0,
-                      "stroke-color-blue" : 0.56078431372549,
-                      "stroke-color-green" : 0.686274509803922,
-                      "stroke-color-opacity" : 1.0,
-                      "stroke-color-red" : 0.0196078431372549,
-                      "stroke-width" : 2.0,
-                      "tail-x" : -3.44827586206901,
-                      "tail-y" : 37.7145883049484,
-                      "width" : 2022.41379310345,
-                      "word-wrap" : 1.0,
-                      "fill-style" : "solid",
+                      "enable-ligatures" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 0.109803921568627,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 1.0,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "fill-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 0.109803921568627,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 1.0,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "fill-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 0.96078431372549,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 1.0,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 1241.46737511424,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 0.172549019607843,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 0.419607843137255,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "stroke-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0627450980392157,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 0.0392156862745098,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "stroke-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 1.0,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "stroke-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 0.937254901960784,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "stroke-width" : {
+                        "type" : "double",
+                        "defaultValue" : 2.0,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 2.0,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "tail-x" : {
+                        "type" : "double",
+                        "defaultValue" : -3.44827586206901,
+                        "interp" : "linr"
+                      },
+                      "tail-y" : {
+                        "type" : "double",
+                        "defaultValue" : 37.7145883049484,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 2022.41379310345,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-style" : "gradient",
                       "horizontal-alignment" : "center",
                       "resize-behavior" : "resizeText",
                       "stroke-style" : "solid",
                       "text" : "",
                       "vertical-alignment" : "center",
                       "font" : {
-                        "color-blue" : 0.266666666666667,
-                        "color-green" : 0.231372549019608,
-                        "color-opacity" : 1.0,
-                        "color-red" : 0.184313725490196,
-                        "size" : 64.0,
-                        "tracking" : 0.0,
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 0.266666666666667,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 0.231372549019608,
+                          "interp" : "linr"
+                        },
+                        "color-opacity" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 0.184313725490196,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 64.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
                         "name" : "Montserrat",
                         "weight" : "Regular"
                       },
@@ -15807,40 +15893,74 @@
                       "translation0" : {
                         "type" : "double",
                         "defaultValue" : -2006.89655172414,
+                        "interp" : "eioe",
                         "keyframes" : [
                           {
                             "endTime" : 74,
-                            "time" : 3,
+                            "time" : 0,
                             "value" : 2050.0,
-                            "duration" : 71
+                            "duration" : 74
                           }
                         ]
                       },
                       "translation1" : {
                         "type" : "double",
                         "defaultValue" : -57.7146043611094,
+                        "interp" : "eioe",
                         "keyframes" : [
                           {
                             "endTime" : 74,
-                            "time" : 3,
+                            "time" : 0,
                             "value" : -1.59872115546023e-14,
-                            "duration" : 71
+                            "duration" : 74
                           }
                         ]
                       },
-                      "sourceCrop0" : 0.0,
-                      "sourceCrop1" : 0.0,
-                      "sourceCrop2" : 0.0,
-                      "sourceCrop3" : 0.0,
-                      "geometryCrop0" : 0.0,
-                      "geometryCrop1" : 0.0,
-                      "geometryCrop2" : 0.0,
-                      "geometryCrop3" : 0.0
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
                     },
                     "effects" : [
 
                     ],
-                    "start" : 5940,
+                    "start" : 5943,
                     "duration" : 75,
                     "mediaStart" : 0,
                     "mediaDuration" : 75,
@@ -15850,7 +15970,17 @@
                       "default-HAlign" : "center",
                       "default-LineSpace" : 0.0,
                       "default-VAlign" : "center",
+                      "default-callout-stroke-style" : "solid",
+                      "default-fill-color-blue" : 1.0,
+                      "default-fill-color-green" : 1.0,
+                      "default-fill-color-red" : 1.0,
+                      "default-fill-style" : "solid",
                       "default-height" : 1268.0,
+                      "default-stroke-color-blue" : 0.56078431372549,
+                      "default-stroke-color-green" : 0.686274509803922,
+                      "default-stroke-color-opacity" : 1.0,
+                      "default-stroke-color-red" : 0.0196078431372549,
+                      "default-stroke-width" : 2.0,
                       "default-translation0" : 0.0,
                       "default-translation1" : 0.0,
                       "default-width" : 2049.0
@@ -15859,8 +15989,8 @@
                       "visual" : [
                         {
                           "endTime" : 74,
-                          "duration" : 71,
-                          "range" : [ 3, 71]
+                          "duration" : 74,
+                          "range" : [ 0, 74]
                         }
                       ]
                     }
@@ -15963,86 +16093,22 @@
                       "kind" : "remix",
                       "shape" : "text-rectangle",
                       "style" : "basic",
-                      "enable-ligatures" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-blue" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-green" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-opacity" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "linr"
-                      },
-                      "fill-color-red" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
-                      "height" : {
-                        "type" : "double",
-                        "defaultValue" : 224.360446570973,
-                        "interp" : "linr"
-                      },
-                      "line-spacing" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-blue" : {
-                        "type" : "double",
-                        "defaultValue" : 0.890196078431372,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-green" : {
-                        "type" : "double",
-                        "defaultValue" : 0.870588235294118,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-opacity" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "linr"
-                      },
-                      "stroke-color-red" : {
-                        "type" : "double",
-                        "defaultValue" : 0.847058823529412,
-                        "interp" : "linr"
-                      },
-                      "stroke-width" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "linr"
-                      },
-                      "tail-x" : {
-                        "type" : "double",
-                        "defaultValue" : -245.578231821344,
-                        "interp" : "linr"
-                      },
-                      "tail-y" : {
-                        "type" : "double",
-                        "defaultValue" : -8.81977671451352,
-                        "interp" : "linr"
-                      },
-                      "width" : {
-                        "type" : "double",
-                        "defaultValue" : 1584.62587555512,
-                        "interp" : "linr"
-                      },
-                      "word-wrap" : {
-                        "type" : "double",
-                        "defaultValue" : 1.0,
-                        "interp" : "linr"
-                      },
+                      "enable-ligatures" : 1.0,
+                      "fill-color-blue" : 1.0,
+                      "fill-color-green" : 1.0,
+                      "fill-color-opacity" : 0.0,
+                      "fill-color-red" : 1.0,
+                      "height" : 224.360446570973,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 0.890196078431372,
+                      "stroke-color-green" : 0.870588235294118,
+                      "stroke-color-opacity" : 0.0,
+                      "stroke-color-red" : 0.847058823529412,
+                      "stroke-width" : 0.0,
+                      "tail-x" : -245.578231821344,
+                      "tail-y" : -8.81977671451352,
+                      "width" : 1584.62587555512,
+                      "word-wrap" : 1.0,
                       "fill-style" : "solid",
                       "horizontal-alignment" : "left",
                       "resize-behavior" : "resizeText",
@@ -16050,36 +16116,12 @@
                       "text" : "Create a new patch group",
                       "vertical-alignment" : "center",
                       "font" : {
-                        "color-blue" : {
-                          "type" : "double",
-                          "defaultValue" : 0.266666666666667,
-                          "interp" : "linr"
-                        },
-                        "color-green" : {
-                          "type" : "double",
-                          "defaultValue" : 0.231372549019608,
-                          "interp" : "linr"
-                        },
-                        "color-opacity" : {
-                          "type" : "double",
-                          "defaultValue" : 1.0,
-                          "interp" : "linr"
-                        },
-                        "color-red" : {
-                          "type" : "double",
-                          "defaultValue" : 0.184313725490196,
-                          "interp" : "linr"
-                        },
-                        "size" : {
-                          "type" : "double",
-                          "defaultValue" : 64.0,
-                          "interp" : "linr"
-                        },
-                        "tracking" : {
-                          "type" : "double",
-                          "defaultValue" : 0.0,
-                          "interp" : "linr"
-                        },
+                        "color-blue" : 0.266666666666667,
+                        "color-green" : 0.231372549019608,
+                        "color-opacity" : 1.0,
+                        "color-red" : 0.184313725490196,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
                         "name" : "Montserrat",
                         "weight" : "Regular"
                       },
@@ -16099,56 +16141,16 @@
                       "autoRotateText" : true
                     },
                     "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : 130.689874564567,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : -259.049796609374,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      }
+                      "translation0" : 130.689874564567,
+                      "translation1" : -259.049796609374,
+                      "sourceCrop0" : 0.0,
+                      "sourceCrop1" : 0.0,
+                      "sourceCrop2" : 0.0,
+                      "sourceCrop3" : 0.0,
+                      "geometryCrop0" : 0.0,
+                      "geometryCrop1" : 0.0,
+                      "geometryCrop2" : 0.0,
+                      "geometryCrop3" : 0.0
                     },
                     "effects" : [
 
@@ -17123,66 +17125,18 @@
                       "ident" : "patch-catalog"
                     },
                     "parameters" : {
-                      "translation0" : {
-                        "type" : "double",
-                        "defaultValue" : -773.88011013488,
-                        "interp" : "eioe"
-                      },
-                      "translation1" : {
-                        "type" : "double",
-                        "defaultValue" : -278.744677409518,
-                        "interp" : "eioe"
-                      },
-                      "scale0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.704990704990704,
-                        "interp" : "eioe"
-                      },
-                      "scale1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.704990704990703,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "sourceCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop0" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop1" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop2" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      },
-                      "geometryCrop3" : {
-                        "type" : "double",
-                        "defaultValue" : 0.0,
-                        "interp" : "eioe"
-                      }
+                      "translation0" : -773.88011013488,
+                      "translation1" : -278.744677409518,
+                      "scale0" : 0.704990704990704,
+                      "scale1" : 0.704990704990703,
+                      "sourceCrop0" : 0.0,
+                      "sourceCrop1" : 0.0,
+                      "sourceCrop2" : 0.0,
+                      "sourceCrop3" : 0.0,
+                      "geometryCrop0" : 0.0,
+                      "geometryCrop1" : 0.0,
+                      "geometryCrop2" : 0.0,
+                      "geometryCrop3" : 0.0
                     },
                     "effects" : [
 
@@ -17289,35 +17243,187 @@
                       "kind" : "remix",
                       "shape" : "text-rectangle",
                       "style" : "basic",
-                      "enable-ligatures" : 1.0,
-                      "fill-color-blue" : 1.0,
-                      "fill-color-green" : 1.0,
-                      "fill-color-opacity" : 1.0,
-                      "fill-color-red" : 1.0,
-                      "height" : 1241.46737511424,
-                      "line-spacing" : 0.0,
-                      "stroke-color-blue" : 0.56078431372549,
-                      "stroke-color-green" : 0.686274509803922,
-                      "stroke-color-opacity" : 1.0,
-                      "stroke-color-red" : 0.0196078431372549,
-                      "stroke-width" : 2.0,
-                      "tail-x" : -3.44827586206901,
-                      "tail-y" : 37.7145883049484,
-                      "width" : 2022.41379310345,
-                      "word-wrap" : 1.0,
-                      "fill-style" : "solid",
+                      "enable-ligatures" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 0.109803921568627,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 97,
+                            "time" : 0,
+                            "value" : 1.0,
+                            "duration" : 97
+                          }
+                        ]
+                      },
+                      "fill-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 0.109803921568627,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 97,
+                            "time" : 0,
+                            "value" : 1.0,
+                            "duration" : 97
+                          }
+                        ]
+                      },
+                      "fill-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 0.96078431372549,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 97,
+                            "time" : 0,
+                            "value" : 1.0,
+                            "duration" : 97
+                          }
+                        ]
+                      },
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 1241.46737511424,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 0.172549019607843,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 97,
+                            "time" : 0,
+                            "value" : 0.419607843137255,
+                            "duration" : 97
+                          }
+                        ]
+                      },
+                      "stroke-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0627450980392157,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 97,
+                            "time" : 0,
+                            "value" : 0.0392156862745098,
+                            "duration" : 97
+                          }
+                        ]
+                      },
+                      "stroke-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 97,
+                            "time" : 0,
+                            "value" : 1.0,
+                            "duration" : 97
+                          }
+                        ]
+                      },
+                      "stroke-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 97,
+                            "time" : 0,
+                            "value" : 0.937254901960784,
+                            "duration" : 97
+                          }
+                        ]
+                      },
+                      "stroke-width" : {
+                        "type" : "double",
+                        "defaultValue" : 2.0,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 97,
+                            "time" : 0,
+                            "value" : 2.0,
+                            "duration" : 97
+                          }
+                        ]
+                      },
+                      "tail-x" : {
+                        "type" : "double",
+                        "defaultValue" : -3.44827586206901,
+                        "interp" : "linr"
+                      },
+                      "tail-y" : {
+                        "type" : "double",
+                        "defaultValue" : 37.7145883049484,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 2022.41379310345,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-style" : "gradient",
                       "horizontal-alignment" : "center",
                       "resize-behavior" : "resizeText",
                       "stroke-style" : "solid",
                       "text" : "",
                       "vertical-alignment" : "center",
                       "font" : {
-                        "color-blue" : 0.266666666666667,
-                        "color-green" : 0.231372549019608,
-                        "color-opacity" : 1.0,
-                        "color-red" : 0.184313725490196,
-                        "size" : 64.0,
-                        "tracking" : 0.0,
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 0.266666666666667,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 0.231372549019608,
+                          "interp" : "linr"
+                        },
+                        "color-opacity" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 0.184313725490196,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 64.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
                         "name" : "Montserrat",
                         "weight" : "Regular"
                       },
@@ -17340,50 +17446,94 @@
                       "translation0" : {
                         "type" : "double",
                         "defaultValue" : -2006.89655172414,
+                        "interp" : "eioe",
                         "keyframes" : [
                           {
-                            "endTime" : 74,
-                            "time" : 3,
+                            "endTime" : 97,
+                            "time" : 0,
                             "value" : 2050.0,
-                            "duration" : 71
+                            "duration" : 97
                           }
                         ]
                       },
                       "translation1" : {
                         "type" : "double",
                         "defaultValue" : -57.7146043611094,
+                        "interp" : "eioe",
                         "keyframes" : [
                           {
-                            "endTime" : 74,
-                            "time" : 3,
+                            "endTime" : 97,
+                            "time" : 0,
                             "value" : -1.59872115546023e-14,
-                            "duration" : 71
+                            "duration" : 97
                           }
                         ]
                       },
-                      "sourceCrop0" : 0.0,
-                      "sourceCrop1" : 0.0,
-                      "sourceCrop2" : 0.0,
-                      "sourceCrop3" : 0.0,
-                      "geometryCrop0" : 0.0,
-                      "geometryCrop1" : 0.0,
-                      "geometryCrop2" : 0.0,
-                      "geometryCrop3" : 0.0
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
                     },
                     "effects" : [
 
                     ],
-                    "start" : 965,
-                    "duration" : 75,
+                    "start" : 972,
+                    "duration" : 97,
                     "mediaStart" : 0,
-                    "mediaDuration" : 75,
+                    "mediaDuration" : 97,
                     "scalar" : 1,
                     "metadata" : {
                       "clipSpeedAttribute" : false,
                       "default-HAlign" : "center",
                       "default-LineSpace" : 0.0,
                       "default-VAlign" : "center",
+                      "default-callout-stroke-style" : "solid",
+                      "default-fill-color-blue" : 1.0,
+                      "default-fill-color-green" : 1.0,
+                      "default-fill-color-red" : 1.0,
+                      "default-fill-style" : "solid",
                       "default-height" : 1268.0,
+                      "default-stroke-color-blue" : 0.56078431372549,
+                      "default-stroke-color-green" : 0.686274509803922,
+                      "default-stroke-color-opacity" : 1.0,
+                      "default-stroke-color-red" : 0.0196078431372549,
+                      "default-stroke-width" : 2.0,
                       "default-translation0" : 0.0,
                       "default-translation1" : 0.0,
                       "default-width" : 2049.0
@@ -17391,9 +17541,9 @@
                     "animationTracks" : {
                       "visual" : [
                         {
-                          "endTime" : 74,
-                          "duration" : 71,
-                          "range" : [ 3, 71]
+                          "endTime" : 97,
+                          "duration" : 97,
+                          "range" : [ 0, 97]
                         }
                       ]
                     }
@@ -18571,35 +18721,187 @@
                       "kind" : "remix",
                       "shape" : "text-rectangle",
                       "style" : "basic",
-                      "enable-ligatures" : 1.0,
-                      "fill-color-blue" : 1.0,
-                      "fill-color-green" : 1.0,
-                      "fill-color-opacity" : 1.0,
-                      "fill-color-red" : 1.0,
-                      "height" : 1241.46737511424,
-                      "line-spacing" : 0.0,
-                      "stroke-color-blue" : 0.56078431372549,
-                      "stroke-color-green" : 0.686274509803922,
-                      "stroke-color-opacity" : 1.0,
-                      "stroke-color-red" : 0.0196078431372549,
-                      "stroke-width" : 2.0,
-                      "tail-x" : -3.44827586206901,
-                      "tail-y" : 37.7145883049484,
-                      "width" : 2022.41379310345,
-                      "word-wrap" : 1.0,
-                      "fill-style" : "solid",
+                      "enable-ligatures" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 0.109803921568627,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 1.0,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "fill-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 0.109803921568627,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 1.0,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "fill-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 0.96078431372549,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 1.0,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 1241.46737511424,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 0.172549019607843,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 0.419607843137255,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "stroke-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0627450980392157,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 0.0392156862745098,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "stroke-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 1.0,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "stroke-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 0.937254901960784,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "stroke-width" : {
+                        "type" : "double",
+                        "defaultValue" : 2.0,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "endTime" : 74,
+                            "time" : 0,
+                            "value" : 2.0,
+                            "duration" : 74
+                          }
+                        ]
+                      },
+                      "tail-x" : {
+                        "type" : "double",
+                        "defaultValue" : -3.44827586206901,
+                        "interp" : "linr"
+                      },
+                      "tail-y" : {
+                        "type" : "double",
+                        "defaultValue" : 37.7145883049484,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 2022.41379310345,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-style" : "gradient",
                       "horizontal-alignment" : "center",
                       "resize-behavior" : "resizeText",
                       "stroke-style" : "solid",
                       "text" : "",
                       "vertical-alignment" : "center",
                       "font" : {
-                        "color-blue" : 0.266666666666667,
-                        "color-green" : 0.231372549019608,
-                        "color-opacity" : 1.0,
-                        "color-red" : 0.184313725490196,
-                        "size" : 64.0,
-                        "tracking" : 0.0,
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 0.266666666666667,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 0.231372549019608,
+                          "interp" : "linr"
+                        },
+                        "color-opacity" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 0.184313725490196,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 64.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
                         "name" : "Montserrat",
                         "weight" : "Regular"
                       },
@@ -18622,40 +18924,74 @@
                       "translation0" : {
                         "type" : "double",
                         "defaultValue" : -2006.89655172414,
+                        "interp" : "eioe",
                         "keyframes" : [
                           {
                             "endTime" : 74,
-                            "time" : 3,
+                            "time" : 0,
                             "value" : 2050.0,
-                            "duration" : 71
+                            "duration" : 74
                           }
                         ]
                       },
                       "translation1" : {
                         "type" : "double",
                         "defaultValue" : -57.7146043611094,
+                        "interp" : "eioe",
                         "keyframes" : [
                           {
                             "endTime" : 74,
-                            "time" : 3,
+                            "time" : 0,
                             "value" : -1.59872115546023e-14,
-                            "duration" : 71
+                            "duration" : 74
                           }
                         ]
                       },
-                      "sourceCrop0" : 0.0,
-                      "sourceCrop1" : 0.0,
-                      "sourceCrop2" : 0.0,
-                      "sourceCrop3" : 0.0,
-                      "geometryCrop0" : 0.0,
-                      "geometryCrop1" : 0.0,
-                      "geometryCrop2" : 0.0,
-                      "geometryCrop3" : 0.0
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
                     },
                     "effects" : [
 
                     ],
-                    "start" : 2725,
+                    "start" : 2726,
                     "duration" : 75,
                     "mediaStart" : 0,
                     "mediaDuration" : 75,
@@ -18665,7 +19001,17 @@
                       "default-HAlign" : "center",
                       "default-LineSpace" : 0.0,
                       "default-VAlign" : "center",
+                      "default-callout-stroke-style" : "solid",
+                      "default-fill-color-blue" : 1.0,
+                      "default-fill-color-green" : 1.0,
+                      "default-fill-color-red" : 1.0,
+                      "default-fill-style" : "solid",
                       "default-height" : 1268.0,
+                      "default-stroke-color-blue" : 0.56078431372549,
+                      "default-stroke-color-green" : 0.686274509803922,
+                      "default-stroke-color-opacity" : 1.0,
+                      "default-stroke-color-red" : 0.0196078431372549,
+                      "default-stroke-width" : 2.0,
                       "default-translation0" : 0.0,
                       "default-translation1" : 0.0,
                       "default-width" : 2049.0
@@ -18674,8 +19020,8 @@
                       "visual" : [
                         {
                           "endTime" : 74,
-                          "duration" : 71,
-                          "range" : [ 3, 71]
+                          "duration" : 74,
+                          "range" : [ 0, 74]
                         }
                       ]
                     }
@@ -20376,8 +20722,8 @@
     "backgroundColor" : [ 255, 255, 255, 255]
   },
   "metadata" : {
-    "AutoSaveFile" : "C:\\Users\\Simon\\AppData\\Local\\TechSmith\\Camtasia Studio\\21.0\\Auto-Saves\\rings769ecc06.autosave.tscproj",
-    "CanvasZoom" : 37,
+    "AutoSaveFile" : "",
+    "CanvasZoom" : 56,
     "Date" : "2021-07-22 04:02:51 PM",
     "Fit" : 1,
     "IsAutoSave" : false,
