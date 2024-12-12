@@ -1,5 +1,5 @@
 # How to do proper Tech Comms
-Good technical communication saves your organisation money, but too often there’s a tendency to settle for what’s the least we can do? Tech comms can be seen as a necessary evil, but what’s the point of developing exciting new software solutions if no one gets the best out of those solutions? Or if instead of users on-boarding themselves and teaching themselves from accessible, concise, and effective user documentation, your consultants or support executives are constantly teaching each new customer how to get started and how to use the software, and writing their own materials?
+Good technical communication saves your organisation money, but too often there’s a tendency to settle for *what’s the least we can do?* Tech comms can be seen as a necessary evil, but what’s the point of developing exciting new software solutions if no one gets the best out of those solutions? Or if instead of users on-boarding themselves and teaching themselves from accessible, concise, and effective user documentation, your consultants or support executives are constantly teaching each new customer how to get started and how to use the software, and writing their own materials?
 
 Much better to do it once, properly, than to push the cost down the line where it will grow with poorer, inconsistent results.
 
