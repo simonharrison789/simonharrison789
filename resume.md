@@ -47,14 +47,10 @@ Sole technical writer for an IT service management software product. Created PDF
 - Ghost-wrote magazine articles for the Managing Director.
 - Prepared PowerPoint presentations for the Engineering Manager to use in company meetings.
 
-### Technical Author, Perkin Elmer (August 1990 – August 1995)
-- Produced user guides, maintenance manuals, standard operating procedures, and tutorials for a range of infrared spectrometry and liquid chromatography hardware and software products. Deliverables were a mixture of paper manuals using Interleaf desktop publishing and compiled Windows help.
-
 ## Education
 ### PhD Organometallic Chemistry
-*The synthesis and electrochemistry of metal-arene complexes and clusters*, University of Nottingham, 1991
-### BSc (Hons) 2(i) Chemistry
-University of Nottingham, 1987
+*The synthesis and electrochemistry of metal-arene complexes and clusters*, University of Nottingham
+
 ## Work samples
 For links to examples of my work, see my [GitHub profile page](https://github.com/simonharrison789).
 ## Skills
