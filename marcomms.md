@@ -28,3 +28,7 @@ I visited a number of reference customers while working for Royalblue Technologi
 [Novartis](marcomms/novartis-case-study.md) - controlling fleas
 
 [Planning Inspectorate](marcomms/planning-case-study.md) - long-term support
+
+## Newsletters and solution guides
+
+I have also written copy for solution guides, corporate web sites, and won an [award](marcomms/award.jpg) for text I wrote for newsletters.
