@@ -12,4 +12,4 @@ I visited a number of reference customers while working for Royalblue Technologi
 
 [Lloyd TSB](marcomms/Lloyds-case-study.md) - serving their customers
 
-[Planning Inspectorate](marcomms/Planning-case-study.md) - long-term support
+[Planning Inspectorate](marcomms/planning-case-study.md) - long-term support
