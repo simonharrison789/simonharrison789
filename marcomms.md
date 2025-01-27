@@ -1,6 +1,6 @@
 # Marcomms
 
-Here are some scans and photos of some of the marketing materials I have produced.
+This section provides scans and photos of some of the marketing materials I produced while working for Royalblue Technologies.
 
 ## Case studies
 
