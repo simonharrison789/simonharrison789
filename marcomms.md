@@ -23,7 +23,7 @@ I visited a number of reference customers while working for Royalblue Technologi
 
 [Lloyd TSB](marcomms/Lloyds-case-study.md) - serving their customers
 
-[MFS WorldCom](marcomms/mfs-case-stud.md) - to be the best, work with the best
+[MFS WorldCom](marcomms/MFS-case-stud.md) - to be the best, work with the best
 
 [Novartis](marcomms/novartis-case-study.md) - controlling fleas
 
