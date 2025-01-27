@@ -31,4 +31,4 @@ I visited a number of reference customers while working for Royalblue Technologi
 
 ## Newsletters and solution guides
 
-I have also written copy for solution guides, corporate web sites, and won an [award](marcomms/award.jpg) for text I wrote for newsletters.
+I have also written copy for solution guides, corporate web sites, and won an <a href="marcomms/award.jpg" target="_blank" >award</a> for text I wrote for newsletters.
