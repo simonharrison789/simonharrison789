@@ -1,6 +1,7 @@
 # Marcomms
 
 This section provides scans and photos of some of the marketing materials I produced while working for Royalblue Technologies.
+[![samples thumbnail](marcomms/samples-s.jpg)](marcomms/samples.jpg)
 
 ## Case studies
 
@@ -22,4 +23,3 @@ I ghost wrote some articles for the Managing Director.
 
 [Dawning of the age of the sages](marcomms/age-of-sages.md)
 
-[![samples thumbnail](marcomms/samples-s.jpg)](marcomms/samples.jpg)
