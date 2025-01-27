@@ -17,9 +17,14 @@ I visited a number of reference customers while working for Royalblue Technologi
 
 [AccuRead](marcomms/AccuRead.md) - measured support
 
+[Barclays](marcomms/barclays-case-study.md) - building on ideas
+
 [ICE](marcomms/ice-case-study.md) - highly engineered support
 
 [Lloyd TSB](marcomms/Lloyds-case-study.md) - serving their customers
 
-[Planning Inspectorate](marcomms/planning-case-study.md) - long-term support
+[MFS WorldCom](marcomms/MFS-case-study.md) - to be the best, work with the best
 
+[Novartis](marcomms/novartis-case-study.md) - controlling fleas
+
+[Planning Inspectorate](marcomms/planning-case-study.md) - long-term support
