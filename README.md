@@ -31,7 +31,9 @@ Below are some examples of my recent work, including formal HTML5-based help, le
 [Improving Service Desk search results for knowledge articles](https://www.youtube.com/watch?v=X0bjMHMCc6M)
 
 [Excelling at Software Asset Management – an introduction to Ivanti Neurons for Spend Intelligence](https://www.youtube.com/watch?v=JOBEjgvLkrY)
+### Marcomms
 
+Details of marcomms that I have contributed to are on my [Marcomms](marcomms.md) page.
 
 
 <!--
