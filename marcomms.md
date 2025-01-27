@@ -10,6 +10,6 @@ I visited a number of reference customers while working for Royalblue Technologi
 
 [ICE](marcomms/ice-case-study.md) - highly engineered support
 
-[Lloyd TSB](Lloyds-case-study.md) - serving their customers
+[Lloyd TSB](marcomms/Lloyds-case-study.md) - serving their customers
 
-[Planning Inspectorate](Planning-case-study.md) - long-term support
+[Planning Inspectorate](marcomms/Planning-case-study.md) - long-term support
