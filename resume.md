@@ -7,7 +7,7 @@ An experienced technical writer and communicator with the ability to manage mult
 I am a Fellow of the Institute of Technical Communicators (FISTC) and have worked as a Scrum Master. References are available upon request.
 
 ## Professional Experience
-### Principal Technical Writer, Ivanti (2017 – present)
+### Principal Technical Writer, Ivanti (2017 – 2025)
 
 Most recently I have been writing the documentation for a new cloud-native license management product and taken ownership of the documentation for a suite of patch management products.
 
