@@ -627,16 +627,6 @@
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
                     "rightMedia" : 8
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "leftMedia" : 8
                   }
                 ]
               },
@@ -995,16 +985,6 @@
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
                     "rightMedia" : 10
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "leftMedia" : 10
                   }
                 ]
               },
@@ -1492,16 +1472,6 @@
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
                     "rightMedia" : 12
-                  },
-                  {
-                    "name" : "Fade",
-                    "duration" : 30,
-                    "trivial" : false,
-                    "reverse" : false,
-                    "bypass" : false,
-                    "useAudioPreRoll" : true,
-                    "useVisualPreRoll" : true,
-                    "leftMedia" : 12
                   }
                 ]
               },
@@ -4449,6 +4419,231 @@
               {
                 "trackIndex" : 18,
                 "medias" : [
+                  {
+                    "id" : 28,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-rectangle",
+                      "style" : "basic",
+                      "enable-ligatures" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "fill-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "fill-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "fill-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 47.6101694915252,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-blue" : {
+                        "type" : "double",
+                        "defaultValue" : 0.184313725490196,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-green" : {
+                        "type" : "double",
+                        "defaultValue" : 0.156862745098039,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "stroke-color-red" : {
+                        "type" : "double",
+                        "defaultValue" : 0.137254901960784,
+                        "interp" : "linr"
+                      },
+                      "stroke-width" : {
+                        "type" : "double",
+                        "defaultValue" : 2.0,
+                        "interp" : "linr"
+                      },
+                      "tail-x" : {
+                        "type" : "double",
+                        "defaultValue" : -469.427867231638,
+                        "interp" : "linr"
+                      },
+                      "tail-y" : {
+                        "type" : "double",
+                        "defaultValue" : -52.2033898305084,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 213.427315007004,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "© Simon Harrison 2026",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 0.266666666666667,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 0.231372549019608,
+                          "interp" : "linr"
+                        },
+                        "color-opacity" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 0.184313725490196,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 64.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fgColor","rangeEnd":22,"rangeStart":0,"value":"(45,48,50,255)","valueType":"color"},{"name":"fontItalic","rangeEnd":22,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontWeight","rangeEnd":22,"rangeStart":0,"value":400,"valueType":"int"},{"name":"fontSize","rangeEnd":22,"rangeStart":0,"value":19,"valueType":"double"},{"name":"fontName","rangeEnd":22,"rangeStart":0,"value":"Arial Narrow","valueType":"string"},{"name":"strikethrough","rangeEnd":22,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":22,"rangeStart":0,"value":0,"valueType":"double"},{"name":"underline","rangeEnd":22,"rangeStart":0,"value":0,"valueType":"int"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 853.286341263077,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -516.194915771484,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 1366,
+                    "mediaStart" : -1407,
+                    "mediaDuration" : 1366,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-fill-color-blue" : 1.0,
+                      "default-fill-color-green" : 1.0,
+                      "default-fill-color-opacity" : 1.0,
+                      "default-fill-color-red" : 1.0,
+                      "default-height" : 176.0,
+                      "default-stroke-color-blue" : 0.56078431372549,
+                      "default-stroke-color-green" : 0.686274509803922,
+                      "default-stroke-color-opacity" : 1.0,
+                      "default-stroke-color-red" : 0.0196078431372549,
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0,
+                      "default-width" : 376.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
                 ]
               }            ]
           }
@@ -4703,8 +4898,8 @@
     "backgroundColor" : [ 0, 0, 0, 255]
   },
   "metadata" : {
-    "AutoSaveFile" : "C:\\Users\\Simon\\AppData\\Local\\TechSmith\\Camtasia Studio\\21.0\\Auto-Saves\\be-still9910017.autosave.tscproj",
-    "CanvasZoom" : 30,
+    "AutoSaveFile" : "C:\\Users\\Simon\\AppData\\Local\\TechSmith\\Camtasia Studio\\21.0\\Auto-Saves\\be-still9a8d113.autosave.tscproj",
+    "CanvasZoom" : 59,
     "Date" : "2026-06-02 01:32:44 PM",
     "Fit" : 1,
     "IsAutoSave" : false,
@@ -4712,7 +4907,7 @@
     "Language" : "ENU",
     "ProfileName" : "",
     "ProjectDimensionsChanged" : "0",
-    "Title" : "be-still",
+    "Title" : "be still",
     "audioNarrationNotes" : "",
     "calloutStyle" : "Basic"
   }
