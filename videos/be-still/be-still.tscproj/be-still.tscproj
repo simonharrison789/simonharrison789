@@ -240,7 +240,7 @@
                     "effects" : [
 
                     ],
-                    "start" : 49,
+                    "start" : 104,
                     "duration" : 701,
                     "mediaStart" : 103,
                     "mediaDuration" : 701,
@@ -335,10 +335,10 @@
                     "effects" : [
 
                     ],
-                    "start" : 886,
-                    "duration" : 480,
+                    "start" : 941,
+                    "duration" : 596,
                     "mediaStart" : -150,
-                    "mediaDuration" : 480,
+                    "mediaDuration" : 596,
                     "scalar" : 1,
                     "metadata" : {
                       "clipSpeedAttribute" : false,
@@ -393,6 +393,16 @@
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
                     "rightMedia" : 9
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 9
                   }
                 ]
               },
@@ -468,7 +478,7 @@
                     "effects" : [
 
                     ],
-                    "start" : 0,
+                    "start" : 55,
                     "duration" : 750,
                     "mediaStart" : -150,
                     "mediaDuration" : 750,
@@ -563,10 +573,10 @@
                     "effects" : [
 
                     ],
-                    "start" : 947,
-                    "duration" : 419,
+                    "start" : 1002,
+                    "duration" : 535,
                     "mediaStart" : -159,
-                    "mediaDuration" : 419,
+                    "mediaDuration" : 535,
                     "scalar" : 1,
                     "metadata" : {
                       "clipSpeedAttribute" : false,
@@ -621,6 +631,16 @@
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
                     "rightMedia" : 11
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 11
                   }
                 ]
               },
@@ -696,7 +716,7 @@
                     "effects" : [
 
                     ],
-                    "start" : 104,
+                    "start" : 159,
                     "duration" : 646,
                     "mediaStart" : 0,
                     "mediaDuration" : 646,
@@ -792,10 +812,10 @@
                     "effects" : [
 
                     ],
-                    "start" : 1015,
-                    "duration" : 351,
+                    "start" : 1070,
+                    "duration" : 467,
                     "mediaStart" : -150,
-                    "mediaDuration" : 351,
+                    "mediaDuration" : 467,
                     "scalar" : 1,
                     "metadata" : {
                       "clipSpeedAttribute" : false,
@@ -850,6 +870,16 @@
                     "useAudioPreRoll" : true,
                     "useVisualPreRoll" : true,
                     "rightMedia" : 13
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 13
                   }
                 ]
               },
@@ -925,7 +955,7 @@
                     "effects" : [
 
                     ],
-                    "start" : 158,
+                    "start" : 213,
                     "duration" : 592,
                     "mediaStart" : 103,
                     "mediaDuration" : 592,
@@ -1048,7 +1078,7 @@
                     "effects" : [
 
                     ],
-                    "start" : 200,
+                    "start" : 255,
                     "duration" : 550,
                     "mediaStart" : 103,
                     "mediaDuration" : 550,
@@ -1128,7 +1158,7 @@
                     "effects" : [
 
                     ],
-                    "start" : 270,
+                    "start" : 325,
                     "duration" : 480,
                     "mediaStart" : 0,
                     "mediaDuration" : 1,
@@ -1201,7 +1231,7 @@
                     "effects" : [
 
                     ],
-                    "start" : 325,
+                    "start" : 380,
                     "duration" : 425,
                     "mediaStart" : 0,
                     "mediaDuration" : 1,
@@ -1316,7 +1346,7 @@
                     "effects" : [
 
                     ],
-                    "start" : 401,
+                    "start" : 456,
                     "duration" : 477,
                     "mediaStart" : 0,
                     "mediaDuration" : 477,
@@ -1439,7 +1469,7 @@
                     "effects" : [
 
                     ],
-                    "start" : 444,
+                    "start" : 499,
                     "duration" : 434,
                     "mediaStart" : 0,
                     "mediaDuration" : 434,
@@ -1562,7 +1592,7 @@
                     "effects" : [
 
                     ],
-                    "start" : 487,
+                    "start" : 542,
                     "duration" : 391,
                     "mediaStart" : 0,
                     "mediaDuration" : 391,
@@ -1685,7 +1715,7 @@
                     "effects" : [
 
                     ],
-                    "start" : 528,
+                    "start" : 583,
                     "duration" : 350,
                     "mediaStart" : 0,
                     "mediaDuration" : 350,
@@ -1809,7 +1839,7 @@
                     "effects" : [
 
                     ],
-                    "start" : 573,
+                    "start" : 628,
                     "duration" : 305,
                     "mediaStart" : 0,
                     "mediaDuration" : 305,
@@ -1932,7 +1962,7 @@
                     "effects" : [
 
                     ],
-                    "start" : 603,
+                    "start" : 658,
                     "duration" : 275,
                     "mediaStart" : -10,
                     "mediaDuration" : 275,
@@ -2055,7 +2085,7 @@
                     "effects" : [
 
                     ],
-                    "start" : 633,
+                    "start" : 688,
                     "duration" : 245,
                     "mediaStart" : -27,
                     "mediaDuration" : 245,
@@ -2178,7 +2208,7 @@
                     "effects" : [
 
                     ],
-                    "start" : 663,
+                    "start" : 718,
                     "duration" : 215,
                     "mediaStart" : -35,
                     "mediaDuration" : 215,
@@ -2272,7 +2302,7 @@
                     "effects" : [
 
                     ],
-                    "start" : 43,
+                    "start" : 98,
                     "duration" : 801,
                     "mediaStart" : 134,
                     "mediaDuration" : 801,
@@ -2308,7 +2338,13 @@
                           {
                             "endTime" : 0,
                             "time" : 0,
-                            "value" : 1.0,
+                            "value" : 0.0,
+                            "duration" : 0
+                          },
+                          {
+                            "endTime" : 38,
+                            "time" : 38,
+                            "value" : 1.08986924575775,
                             "duration" : 0
                           },
                           {
@@ -2329,7 +2365,7 @@
                     "effects" : [
 
                     ],
-                    "start" : 0,
+                    "start" : 55,
                     "duration" : 844,
                     "mediaStart" : 0,
                     "mediaDuration" : 844,
@@ -2375,8 +2411,8 @@
                             "duration" : 0
                           },
                           {
-                            "endTime" : 690,
-                            "time" : 690,
+                            "endTime" : 740,
+                            "time" : 740,
                             "value" : 0.0,
                             "duration" : 0
                           }
@@ -2386,7 +2422,7 @@
                     "effects" : [
 
                     ],
-                    "start" : 104,
+                    "start" : 159,
                     "duration" : 740,
                     "mediaStart" : 0,
                     "mediaDuration" : 740,
@@ -2472,10 +2508,10 @@
                     "effects" : [
 
                     ],
-                    "start" : 0,
-                    "duration" : 1366,
+                    "start" : 55,
+                    "duration" : 1595,
                     "mediaStart" : -1407,
-                    "mediaDuration" : 1366,
+                    "mediaDuration" : 1595,
                     "scalar" : 1,
                     "metadata" : {
                       "clipSpeedAttribute" : false,
@@ -2527,9 +2563,15 @@
                             "duration" : 0
                           },
                           {
-                            "endTime" : 316,
-                            "time" : 316,
-                            "value" : 0.549450549450549,
+                            "endTime" : 311,
+                            "time" : 311,
+                            "value" : 0.0,
+                            "duration" : 0
+                          },
+                          {
+                            "endTime" : 433,
+                            "time" : 433,
+                            "value" : 0.604395604395604,
                             "duration" : 0
                           }
                         ]
@@ -2538,10 +2580,10 @@
                     "effects" : [
 
                     ],
-                    "start" : 463,
-                    "duration" : 903,
+                    "start" : 499,
+                    "duration" : 1038,
                     "mediaStart" : 0,
-                    "mediaDuration" : 903,
+                    "mediaDuration" : 1038,
                     "scalar" : 1,
                     "metadata" : {
                       "clipSpeedAttribute" : false
@@ -2817,7 +2859,7 @@
   },
   "metadata" : {
     "AutoSaveFile" : "",
-    "CanvasZoom" : 50,
+    "CanvasZoom" : 40,
     "Date" : "2026-06-02 01:32:44 PM",
     "Fit" : 1,
     "IsAutoSave" : false,
