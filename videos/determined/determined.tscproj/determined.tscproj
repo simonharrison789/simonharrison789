@@ -169,9 +169,9 @@
 
                     ],
                     "start" : 0,
-                    "duration" : 3908,
+                    "duration" : 3616,
                     "mediaStart" : -1407,
-                    "mediaDuration" : 3908,
+                    "mediaDuration" : 3616,
                     "scalar" : 1,
                     "metadata" : {
                       "clipSpeedAttribute" : false,
@@ -1301,9 +1301,9 @@
 
                     ],
                     "start" : 2911,
-                    "duration" : 138,
+                    "duration" : 159,
                     "mediaStart" : -103,
-                    "mediaDuration" : 138,
+                    "mediaDuration" : 159,
                     "scalar" : 1,
                     "metadata" : {
                       "clipSpeedAttribute" : false,
@@ -1399,10 +1399,10 @@
                     "effects" : [
 
                     ],
-                    "start" : 3087,
-                    "duration" : 210,
-                    "mediaStart" : -84,
-                    "mediaDuration" : 210,
+                    "start" : 3084,
+                    "duration" : 213,
+                    "mediaStart" : -87,
+                    "mediaDuration" : 213,
                     "scalar" : 1,
                     "metadata" : {
                       "clipSpeedAttribute" : false,
@@ -1474,7 +1474,7 @@
                           {
                             "endTime" : 0,
                             "time" : 0,
-                            "value" : [{"name":"fontName","rangeEnd":28,"rangeStart":0,"value":"Calibri","valueType":"string"},{"name":"fontWeight","rangeEnd":28,"rangeStart":0,"value":400,"valueType":"int"},{"name":"fontItalic","rangeEnd":28,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":28,"rangeStart":0,"value":164,"valueType":"double"},{"name":"kerning","rangeEnd":28,"rangeStart":0,"value":0,"valueType":"double"},{"name":"strikethrough","rangeEnd":28,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fgColor","rangeEnd":28,"rangeStart":0,"value":"(216,222,227,255)","valueType":"color"},{"name":"underline","rangeEnd":28,"rangeStart":0,"value":0,"valueType":"int"}],
+                            "value" : [{"name":"fontWeight","rangeEnd":28,"rangeStart":0,"value":400,"valueType":"int"},{"name":"fontName","rangeEnd":28,"rangeStart":0,"value":"Open Sans","valueType":"string"},{"name":"fontItalic","rangeEnd":28,"rangeStart":0,"value":0,"valueType":"int"},{"name":"underline","rangeEnd":28,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fgColor","rangeEnd":28,"rangeStart":0,"value":"(216,222,227,255)","valueType":"color"},{"name":"kerning","rangeEnd":28,"rangeStart":0,"value":0,"valueType":"double"},{"name":"strikethrough","rangeEnd":28,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":28,"rangeStart":0,"value":135,"valueType":"double"}],
                             "duration" : 0
                           }
                         ]
@@ -1499,9 +1499,9 @@
 
                     ],
                     "start" : 3312,
-                    "duration" : 596,
+                    "duration" : 304,
                     "mediaStart" : -150,
-                    "mediaDuration" : 596,
+                    "mediaDuration" : 304,
                     "scalar" : 1,
                     "metadata" : {
                       "clipSpeedAttribute" : false,
@@ -2625,9 +2625,9 @@
 
                     ],
                     "start" : 2940,
-                    "duration" : 109,
+                    "duration" : 130,
                     "mediaStart" : -91,
-                    "mediaDuration" : 109,
+                    "mediaDuration" : 130,
                     "scalar" : 1,
                     "metadata" : {
                       "clipSpeedAttribute" : false,
@@ -2798,7 +2798,7 @@
                           {
                             "endTime" : 0,
                             "time" : 0,
-                            "value" : [{"name":"fontName","rangeEnd":24,"rangeStart":0,"value":"Calibri","valueType":"string"},{"name":"fontSize","rangeEnd":24,"rangeStart":0,"value":164,"valueType":"double"},{"name":"underline","rangeEnd":24,"rangeStart":0,"value":0,"valueType":"int"},{"name":"strikethrough","rangeEnd":24,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontWeight","rangeEnd":24,"rangeStart":0,"value":400,"valueType":"int"},{"name":"kerning","rangeEnd":24,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fgColor","rangeEnd":24,"rangeStart":0,"value":"(216,222,227,255)","valueType":"color"},{"name":"fontItalic","rangeEnd":24,"rangeStart":0,"value":0,"valueType":"int"}],
+                            "value" : [{"name":"kerning","rangeEnd":24,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fontName","rangeEnd":24,"rangeStart":0,"value":"Open Sans","valueType":"string"},{"name":"fontSize","rangeEnd":24,"rangeStart":0,"value":135,"valueType":"double"},{"name":"underline","rangeEnd":24,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontWeight","rangeEnd":24,"rangeStart":0,"value":400,"valueType":"int"},{"name":"fgColor","rangeEnd":24,"rangeStart":0,"value":"(216,222,227,255)","valueType":"color"},{"name":"strikethrough","rangeEnd":24,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontItalic","rangeEnd":24,"rangeStart":0,"value":0,"valueType":"int"}],
                             "duration" : 0
                           }
                         ]
@@ -2822,10 +2822,10 @@
                     "effects" : [
 
                     ],
-                    "start" : 3368,
-                    "duration" : 540,
-                    "mediaStart" : -164,
-                    "mediaDuration" : 540,
+                    "start" : 3357,
+                    "duration" : 259,
+                    "mediaStart" : -175,
+                    "mediaDuration" : 259,
                     "scalar" : 1,
                     "metadata" : {
                       "clipSpeedAttribute" : false,
@@ -4027,9 +4027,9 @@
                     "effects" : [
 
                     ],
-                    "start" : 2967,
+                    "start" : 2988,
                     "duration" : 82,
-                    "mediaStart" : -100,
+                    "mediaStart" : -79,
                     "mediaDuration" : 82,
                     "scalar" : 1,
                     "metadata" : {
@@ -4126,10 +4126,10 @@
                     "effects" : [
 
                     ],
-                    "start" : 3441,
-                    "duration" : 467,
-                    "mediaStart" : -150,
-                    "mediaDuration" : 467,
+                    "start" : 3424,
+                    "duration" : 192,
+                    "mediaStart" : -167,
+                    "mediaDuration" : 192,
                     "scalar" : 1,
                     "metadata" : {
                       "clipSpeedAttribute" : false,
@@ -7185,7 +7185,7 @@
   },
   "metadata" : {
     "AutoSaveFile" : "",
-    "CanvasZoom" : 47,
+    "CanvasZoom" : 56,
     "Date" : "2026-06-02 01:32:44 PM",
     "Fit" : 1,
     "IsAutoSave" : false,
