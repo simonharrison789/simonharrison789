@@ -1,4 +1,4 @@
-# Marcomms
+# Church content
 
 This page provides links to poems and videos for church.
 
