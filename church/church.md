@@ -1,6 +1,6 @@
 # Church content
 
-This page provides links to poems and videos for church.
+This page provides links to poems and videos for church. You might want to consider opening the links in a new window.
 
 ## Poems
 
